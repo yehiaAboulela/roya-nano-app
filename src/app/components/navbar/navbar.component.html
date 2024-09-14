@@ -1,0 +1,61 @@
+<div class="nav-wrapper" [ngClass]="{ hidden: isNavbarHidden }">
+  <nav>
+    <div class="logo">
+      <h3 class="fw-bold text-white mb-0">
+        Royal<span class="light-blue">Nano</span>
+      </h3>
+    </div>
+
+    <div class="navigation-wrapper" [ngClass]="{ active: nav }">
+      <div class="text-end d-block d-lg-none">
+        <button class="btn mb-3" (click)="nav = false">
+          <i class="fa fa-xmark fs-3"></i>
+        </button>
+      </div>
+      <ul class="navigation list-unstyled">
+        <li>
+          <a
+            [routerLink]="['/home']"
+            routerLinkActive="active"
+            class="nav-link active"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            [routerLink]="['/about']"
+            routerLinkActive="active"
+            class="nav-link"
+          >
+            About
+          </a>
+        </li>
+        <li>
+          <a
+            [routerLink]="['/services']"
+            routerLinkActive="active"
+            class="nav-link"
+          >
+            Services
+          </a>
+        </li>
+        <li>
+          <a
+            [routerLink]="['/contact']"
+            routerLinkActive="active"
+            class="nav-link"
+          >
+            Contact
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="d-block d-lg-none">
+      <button class="toggle-btn" (click)="nav = true">
+        <i class="fa fa-bars"></i>
+      </button>
+    </div>
+  </nav>
+</div>

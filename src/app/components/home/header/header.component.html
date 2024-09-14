@@ -1,0 +1,45 @@
+<header>
+  <div class="container mt-5 mt-md-0">
+    <div class="row align-items-center">
+      <div class="col-md-6" data-aos="fade-right">
+        <div class="intro">
+          <h4 class="text-white-50">Royal Nano</h4>
+          <h1 class="fw-bold">
+            Number <span class="light-blue">#1</span> car protection service in
+            egypt
+          </h1>
+          <p class="my-text-light">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
+            quam at, similique ratione tempore, modi nobis dolore ducimus totam
+            facilis autem. Sapiente tenetur repellat ex reiciendis explicabo
+            corrupti facilis tempore.
+          </p>
+        </div>
+      </div>
+      <div class="col-md-6" data-aos="fade-left">
+        <div class="my-cols">
+          <div class="my-col one">
+            <div class="my-card" *ngFor="let card of headerContent1">
+              <h3 class="text" [ngStyle]="{ color: card.color }">
+                {{ card.text }}
+              </h3>
+              <div class="numbers">
+                <h4 [ngStyle]="{ color: card.color }">{{ card.numbers }}</h4>
+              </div>
+            </div>
+          </div>
+          <div class="my-col two">
+            <div class="my-card" *ngFor="let card of headerContent2">
+              <h3 class="text" [ngStyle]="{ color: card.color }">
+                {{ card.text }}
+              </h3>
+              <div class="numbers">
+                <h4 [ngStyle]="{ color: card.color }">{{ card.numbers }}</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

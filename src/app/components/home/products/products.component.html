@@ -1,0 +1,70 @@
+<section class="products-sec">
+  <div class="container">
+    <h2 class="h1 mb-5 fw-bold" data-aos="fade-right">Our Products</h2>
+    <div class="row align-items-center">
+      <div class="col-md-6 d-none d-lg-block" data-aos="fade-right">
+        @if (activeProduct === 1) {
+        <img
+          src="https://www.datocms-assets.com/40358/1620755532-barcelona.jpg?auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.52&h=621&w=800"
+          alt="product-img"
+          class="product-img 1"
+        />
+        } @if (activeProduct === 2 ) {
+        <img
+          src="https://www.datocms-assets.com/40358/1611590505-ibiza.jpg?auto=format&fit=crop&h=621&w=800"
+          alt="product-img"
+          class="product-img 2"
+        />
+        } @if (activeProduct === 3) {
+        <img
+          src="https://www.datocms-assets.com/40358/1611759665-cannes.jpg?auto=format&fit=crop&h=621&w=800"
+          alt="product-img"
+          class="product-img 3"
+        />
+        } @if (activeProduct === 4) {
+        <img
+          src="https://www.datocms-assets.com/40358/1611590478-paris.jpg?auto=format&fit=crop&h=621&w=800"
+          alt="product-img"
+          class="product-img 4"
+        />
+        }
+      </div>
+      <div class="col-md-6">
+        <div class="products">
+          <div
+            class="product"
+            (mouseover)="activeProduct = 1"
+            data-aos="fade-left"
+          >
+            <h3 class="text-start">Diamond Hybrid Plus</h3>
+            <h4 class="text-end">Nanoceramic</h4>
+          </div>
+          <div
+            class="product"
+            (mouseover)="activeProduct = 2"
+            data-aos="fade-left"
+          >
+            <h3 class="text-start">Graphene Hybrid Plus</h3>
+            <h4 class="text-end">Nano Graphene</h4>
+          </div>
+          <div
+            class="product"
+            (mouseover)="activeProduct = 3"
+            data-aos="fade-left"
+          >
+            <h3 class="text-start">Max Pro</h3>
+            <h4 class="text-end">Paint Protection</h4>
+          </div>
+          <div
+            class="product"
+            (mouseover)="activeProduct = 4"
+            data-aos="fade-left"
+          >
+            <h3 class="text-start">Self Healing</h3>
+            <h4 class="text-end">Nanoceramic</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
