@@ -1,0 +1,121 @@
+.images {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.images .img-wrapper {
+  width: 48%;
+}
+.divider {
+  width: 300px;
+  height: 1px;
+  background-color: #c8c8c8;
+  margin-inline: auto;
+  margin-block: 50px;
+}
+.thumbnail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 20px;
+  border: 1px solid #cfcfcf;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 30px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  position: relative;
+  cursor: pointer;
+}
+.thumbnail .thumbnail-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 0.5s;
+}
+.thumbnail:hover .thumbnail-img {
+  scale: 1.2;
+  rotate: 2deg;
+  filter: grayscale(0.4);
+}
+.thumbnail .play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70px;
+  height: 70px;
+  filter: drop-shadow(0 0 40px rgb(0, 0, 0));
+}
+
+:host ::ng-deep .owl-theme .owl-nav {
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lang-ar :host ::ng-deep .owl-theme .owl-nav {
+  left: auto;
+  right: 0;
+}
+:host ::ng-deep .owl-theme .owl-nav [class*="owl-"] {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(146, 76, 88);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #9e9e9e;
+  transition: 0.3s;
+}
+:host ::ng-deep .owl-theme .owl-nav [class*="owl-"]:hover {
+  background-color: black;
+}
+
+.slider-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vw;
+  overflow: hidden;
+  transition: 0.5s;
+  margin-bottom: 50px;
+  position: relative;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  border: 2px solid rgb(106, 106, 106);
+  border-radius: 20px;
+}
+
+.slider-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.second {
+  filter: blur(5px);
+}
+
+img-comparison-slider {
+  transition: 0.3s;
+  overflow: hidden;
+}
+img-comparison-slider:focus {
+  outline: none;
+  /* border-radius: 20px !important; */
+}
+
+@media (max-width: 767.98px) {
+  /* .images {
+        padding: 0;
+      } */
+
+  .slider-wrapper {
+    height: 50vw;
+  }
+}

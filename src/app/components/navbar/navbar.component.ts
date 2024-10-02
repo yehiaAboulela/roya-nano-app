@@ -1,4 +1,5 @@
-import { Component, HostListener } from '@angular/core';
+import { LanguageService } from './../../shared/services/language.service';
+import { Component, HostListener, OnInit, Renderer2 } from '@angular/core';
 import { fromEvent, Subscription, throttleTime } from 'rxjs';
 
 @Component({
@@ -6,33 +7,30 @@ import { fromEvent, Subscription, throttleTime } from 'rxjs';
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.css',
 })
-export class NavbarComponent {
+export class NavbarComponent implements OnInit {
+  constructor(
+    private renderer: Renderer2,
+    private LanguageService: LanguageService
+  ) {}
+  lang: string = '';
   nav: boolean = false;
   isNavbarHidden = false;
-  private lastScrollTop = 0;
-  private scrollSubscription: Subscription = {} as Subscription;
 
   ngOnInit() {
-    this.scrollSubscription = fromEvent(window, 'scroll')
-      .pipe(throttleTime(200))
-      .subscribe(() => this.onWindowScroll());
+    this.LanguageService.lang.subscribe({
+      next: (lang) => {
+        this.lang = lang;
+      },
+    });
   }
 
-  onWindowScroll() {
-    const currentScroll = window.scrollY || document.documentElement.scrollTop;
+  changeLang(userLang: string) {
+    this.LanguageService.lang.next(userLang);
+    localStorage.setItem('lang', this.lang);
 
-    if (currentScroll > this.lastScrollTop) {
-      this.isNavbarHidden = true; // Scrolling down
-    } else {
-      this.isNavbarHidden = false; // Scrolling up
-    }
+    this.renderer.removeClass(document.body, 'lang-en');
+    this.renderer.removeClass(document.body, 'lang-ar');
 
-    this.lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
-  }
-
-  ngOnDestroy() {
-    if (this.scrollSubscription) {
-      this.scrollSubscription.unsubscribe();
-    }
+    this.renderer.addClass(document.body, `lang-${userLang}`);
   }
 }

@@ -1,14 +1,44 @@
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap");
 
 body {
   font-family: "Plus Jakarta Sans", sans-serif;
 }
-
+a {
+  text-decoration: none;
+}
 .light-blue {
-  color: rgb(73, 73, 210);
+  /* color: rgb(73, 73, 210); */
+  color: rgb(218, 187, 14);
 }
 .my-text-light {
   color: #eeeeeedb;
+}
+.text-black-50 {
+  color: #0000009d !important;
+}
+
+/* rtl */
+.lang-ar {
+  direction: rtl;
+  font-family: "Cairo", sans-serif;
+}
+
+.lang-ar .outro-text::before {
+  bottom: -8px;
+}
+
+.lang-ar .list-unstyled {
+  padding-right: 0;
+}
+.lang-ar .product-details {
+  direction: rtl;
+}
+
+@media (max-width: 767.98px) {
+  .lead {
+    font-size: 16px !important;
+  }
 }

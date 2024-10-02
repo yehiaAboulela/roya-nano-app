@@ -1,37 +1,34 @@
 header {
   width: 100%;
   height: 100vh;
-  /* background-color: black; */
   color: white;
   background-image: url(/imgs/background.png);
   background-size: cover;
   background-position: center;
-  border-radius: 0 0 150px 150px;
   background-attachment: fixed;
   overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
-  /* filter: brightness(50%); */
 }
 
 .intro {
   max-width: 550px;
 }
-.my-cols {
+.my-header-cols {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  animation: move 20s linear infinite;
+  animation: move 30s linear infinite;
 }
-.my-col {
+.my-header-col {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   width: 48%;
 }
-.my-col.one {
+.my-header-col.one {
   margin-top: 150px;
 }
 .my-card {
@@ -67,28 +64,6 @@ header {
   }
 }
 
-@keyframes move-x {
-  0% {
-    transform: translateX(-30);
-  }
-  50% {
-    transform: translateX(-50%);
-  }
-  100% {
-    transform: translateX(-30);
-  }
-}
-@keyframes move-x-right {
-  0% {
-    transform: translateX(-30);
-  }
-  50% {
-    transform: translateX(-10%);
-  }
-  100% {
-    transform: translateX(-30);
-  }
-}
 @media (max-width: 1199.98px) {
   .my-card {
     height: 250px;
@@ -99,11 +74,13 @@ header {
   }
 }
 @media (max-width: 991.98px) {
-  .my-cols {
+  .my-header-cols {
+    justify-content: center;
+    width: 100%;
     flex-wrap: wrap;
   }
-  .my-col {
-    width: 100%;
+  .my-header-col {
+    width: fit-content;
     align-items: end;
   }
   .my-card {
@@ -116,14 +93,14 @@ header {
   header {
     border-radius: 10px;
   }
-  .my-cols {
+  .my-header-cols {
     animation: none;
   }
-  .my-col {
+  .my-header-col {
     flex-direction: row;
     width: fit-content;
     margin-inline: auto;
-    transform: translate(-30%);
+    /* transform: translate(-30%); */
   }
 
   .my-card {
@@ -131,13 +108,38 @@ header {
     width: 230px;
     margin-inline: 10px;
   }
-  .my-col.one {
-    animation: move-x 10s linear infinite;
+  .my-header-col.one {
+    animation: move-x 25s linear infinite;
+    /* animation: none; */
   }
-  .my-col.two {
-    animation: move-x-right 10s linear infinite;
+  .my-header-col.two {
+    animation: move-x-right 25s linear infinite;
+    /* animation: none; */
   }
-  .my-col.one {
+  .my-header-col.one {
     margin-top: 0;
+  }
+}
+
+@keyframes move-x {
+  0% {
+    transform: translateX(-30%);
+  }
+  50% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-30%);
+  }
+}
+@keyframes move-x-right {
+  0% {
+    transform: translateX(30%);
+  }
+  50% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(30%);
   }
 }

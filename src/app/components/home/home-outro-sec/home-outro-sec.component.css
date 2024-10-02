@@ -1,5 +1,5 @@
 section {
-  margin-block: 100px;
+  margin-block: 150px;
 }
 h5 {
   font-size: 2vw;
@@ -24,6 +24,9 @@ a::before {
   background-color: black;
   transition: width 0.5s;
 }
+.lang-ar a::before {
+  bottom: 0;
+}
 a:hover::before {
   width: 100%;
   right: auto;
@@ -32,11 +35,11 @@ a:hover::before {
 
 @media screen and (max-width: 700px) {
   h5 {
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: bold;
   }
   a {
-    font-size: 3rem;
+    font-size: 2rem;
     /* line-height: 2rem; */
     width: 100%;
 
@@ -45,5 +48,6 @@ a:hover::before {
 
   a::before {
     bottom: 0;
+    height: 2px;
   }
 }

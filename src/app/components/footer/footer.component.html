@@ -1,106 +1,222 @@
-<!-- Remove the container if you want to extend the Footer to full width. -->
-<div class="border-top">
-  <footer class="text-white bg-black text-center text-lg-start">
-    <!-- Grid container -->
-    <div class="container-fluid p-4">
-      <!--Grid row-->
-      <div class="row mt-4">
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-          <h5 class="text-uppercase mb-4">About company</h5>
+@if (lang == 'en') {
 
-          <p>
-            At vero eos et accusamus et iusto odio dignissimos ducimus qui
-            blanditiis praesentium voluptatum deleniti atque corrupti.
-          </p>
+<footer class="py-5 bg-black text-white">
+  <div class="container-fluid">
+    <a href="/" class="logo">RoyalNano</a>
+    <div class="row g-3 row-gap-5">
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">Follow Us</span>
 
-          <p>
-            Blanditiis praesentium voluptatum deleniti atque corrupti quos
-            dolores et quas molestias.
-          </p>
-
-          <div class="mt-4">
-            <!-- Facebook -->
-            <a
-              type="button"
-              class="btn btn-floating me-2 btn-outline-light btn-lg"
-              ><i class="fab fa-facebook-f"></i
-            ></a>
-            <!-- Dribbble -->
-            <a
-              type="button"
-              class="btn btn-floating me-2 btn-outline-light btn-lg"
-              ><i class="fab fa-dribbble"></i
-            ></a>
-            <!-- Twitter -->
-            <a
-              type="button"
-              class="btn btn-floating me-2 btn-outline-light btn-lg"
-              ><i class="fab fa-twitter"></i
-            ></a>
-            <!-- Google + -->
-            <a
-              type="button"
-              class="btn btn-floating me-2 btn-outline-light btn-lg"
-              ><i class="fab fa-google-plus-g"></i
-            ></a>
-            <!-- Linkedin -->
-          </div>
-        </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-          <ul class="fa-ul" style="margin-left: 1.65em">
-            <li class="mb-3">
-              <span class="fa-li"><i class="fas fa-home"></i></span
-              ><span class="ms-2">Warsaw, 00-967, Poland</span>
+          <ul class="list-unstyled social-links">
+            <li>
+              <a
+                href="https://www.facebook.com/RoyalNanoCeramic"
+                target="_blank"
+                class="social-link"
+              >
+                <img
+                  src="/icons/facebook-logo.png"
+                  alt="facebook"
+                  class="w-100"
+                />
+              </a>
             </li>
-            <li class="mb-3">
-              <span class="fa-li"><i class="fas fa-envelope"></i></span
-              ><span class="ms-2">contact&#64;example.com</span>
+            <li>
+              <a
+                href="https://www.instagram.com/royalnanoceramic"
+                target="_blank"
+                class="social-link"
+              >
+                <img
+                  src="/icons/instagram-logo.png"
+                  alt="instagram"
+                  class="w-100"
+                />
+              </a>
             </li>
-            <li class="mb-3">
-              <span class="fa-li"><i class="fas fa-phone"></i></span
-              ><span class="ms-2">+ 48 234 567 88</span>
+            <li>
+              <a
+                href="www.tiktok.com/@royalnanoceramic"
+                class="social-link"
+                target="_blank"
+              >
+                <img src="/icons/tik-tok.png" alt="tik-tok" class="w-100" />
+              </a>
             </li>
           </ul>
         </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-          <h5 class="text-uppercase mb-4">Opening hours</h5>
-
-          <table class="table table-dark text-center text-white">
-            <tbody class="fw-normal">
-              <tr>
-                <td>Mon - Thu:</td>
-                <td>8am - 9pm</td>
-              </tr>
-              <tr>
-                <td>Fri - Sat:</td>
-                <td>8am - 1am</td>
-              </tr>
-              <tr>
-                <td>Sunday:</td>
-                <td>9am - 10pm</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <!--Grid column-->
       </div>
-      <!--Grid row-->
-    </div>
-    <!-- Grid container -->
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">Company</span>
+          <ul class="list-unstyled my-list">
+            <li>
+              <a routerLink="/about">About Us</a>
+            </li>
+            <li>
+              <a routerLink="/services">Services</a>
+            </li>
+            <li>
+              <a routerLink="/contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">Reach out!</span>
+          <ul class="list-unstyled my-list">
+            <li>
+              <a href="tel:+201112438160">+20 111 243 8160</a>
+            </li>
 
-    <!-- Copyright -->
-    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-      © 2020 Copyright:
-      <a class="text-white" href="#">Royal nano ceramic</a>
+            <li>
+              <a href="mailto:contact@royalnanoceramic.com"
+                >contact&#64;royalnanoceramic.com</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">Branches</span>
+          <ul class="list-unstyled my-list">
+            <li><span>Damietta</span></li>
+            <li><span>Asyut</span></li>
+            <li><span>Alexandria</span></li>
+            <li><span>6 October City</span></li>
+            <li><span>Nasr City</span></li>
+            <li><span>El Haram</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <p class="lead">
+          Hyer® HQ - Eindhoven, The Netherlands Registered on the Dutch Chamber
+          of Commerce: 80195520
+        </p>
+      </div>
+      <div class="col-lg-9">
+        <p class="lead">
+          Royal Nano Ceramic is a leading car protection company in Egypt,
+          offering advanced nano ceramic coatings to protect and enhance vehicle
+          exteriors. They specialize in paint protection, scratch resistance,
+          and hydrophobic coatings, ensuring cars remain in top condition.
+        </p>
+      </div>
     </div>
-    <!-- Copyright -->
-  </footer>
-</div>
-<!-- End of .container -->
+  </div>
+</footer>
+} @else {
+<footer class="py-5 bg-black text-white">
+  <div class="container-fluid">
+    <a href="/" class="logo">RoyalNano</a>
+    <div class="row g-3 row-gap-5">
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">Follow Us</span>
+
+          <ul class="list-unstyled social-links">
+            <li>
+              <a
+                href="https://www.facebook.com/RoyalNanoCeramic"
+                target="_blank"
+                class="social-link"
+              >
+                <img
+                  src="/icons/facebook-logo.png"
+                  alt="facebook"
+                  class="w-100"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/royalnanoceramic"
+                target="_blank"
+                class="social-link"
+              >
+                <img
+                  src="/icons/instagram-logo.png"
+                  alt="instagram"
+                  class="w-100"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="www.tiktok.com/@royalnanoceramic"
+                class="social-link"
+                target="_blank"
+              >
+                <img src="/icons/tik-tok.png" alt="tik-tok" class="w-100" />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">الشركة</span>
+          <ul class="list-unstyled my-list">
+            <li>
+              <a routerLink="/about">من نحن</a>
+            </li>
+            <li>
+              <a routerLink="/services">الخدمات</a>
+            </li>
+            <li>
+              <a routerLink="/contact">اتصل بنا</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">تواصل معنا</span>
+          <ul class="list-unstyled my-list">
+            <li>
+              <a href="tel:+201112438160">+20 111 243 8160</a>
+            </li>
+
+            <li>
+              <a href="mailto:contact@royalnanoceramic.com"
+                >contact&#64;royalnanoceramic.com</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div>
+          <span class="footer-heading">الفروع</span>
+          <ul class="list-unstyled my-list">
+            <li><span>دمياط</span></li>
+            <li><span>أسيوط</span></li>
+            <li><span>الإسكندرية</span></li>
+            <li><span>مدينة 6 أكتوبر</span></li>
+            <li><span>مدينة نصر</span></li>
+            <li><span>الهرم</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <p class="lead">
+          المقر الرئيسي لشركة Hyer® - أيندهوفن، هولندا مسجلة في غرفة التجارة
+          الهولندية برقم: 80195520
+        </p>
+      </div>
+      <div class="col-lg-9">
+        <p class="lead">
+          شركة رويال نانو سيراميك هي شركة رائدة في مجال حماية السيارات في مصر،
+          تقدم حلول طلاء السيراميك المتقدمة لحماية وتعزيز مظهر السيارات. تتخصص
+          الشركة في حماية الطلاء، مقاومة الخدوش، والطلاءات الكارهة للماء، مما
+          يضمن بقاء السيارات في أفضل حالاتها.
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+}
