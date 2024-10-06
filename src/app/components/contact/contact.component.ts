@@ -1,3 +1,4 @@
+import { LanguageService } from './../../shared/services/language.service';
 import { Component } from '@angular/core';
 
 @Component({
@@ -6,6 +7,16 @@ import { Component } from '@angular/core';
   styleUrl: './contact.component.css',
 })
 export class ContactComponent {
+  constructor(private LanguageService: LanguageService) {}
+  lang: string = 'en';
+
+  ngOnInit(): void {
+    this.LanguageService.lang.subscribe({
+      next: (data) => {
+        this.lang = data;
+      },
+    });
+  }
   locations: any = {
     tanta:
       'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d109672.62752137944!2d30.849149149498917!3d30.79507270000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f7cbd78ec9ec8f%3A0x40da8ba71a77b0e5!2sRoyal%20Nano%20ceramic!5e0!3m2!1sen!2seg!4v1727532189684!5m2!1sen!2seg',

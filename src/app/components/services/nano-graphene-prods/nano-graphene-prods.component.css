@@ -1,3 +1,7 @@
+.my-sec {
+  background-color: #cad8f143;
+  padding: 50px 0;
+}
 .images {
   display: flex;
   align-items: center;

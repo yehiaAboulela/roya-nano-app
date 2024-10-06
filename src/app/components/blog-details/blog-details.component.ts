@@ -17,9 +17,14 @@ export class BlogDetailsComponent implements OnInit {
 
   ngOnInit(): void {
     this.ActivatedRoute.params.subscribe({
-      next: (data) => {
-        this.blog = this.BlogsService.getBlogById(data['id']);
-        console.log(this.blog);
+      next: (routeData) => {
+        this.BlogsService.blogs.subscribe({
+          next: (data) => {
+            this.blog = data.filter(
+              (cur) => cur.id.toString() === routeData['id']
+            )[0];
+          },
+        });
       },
     });
   }

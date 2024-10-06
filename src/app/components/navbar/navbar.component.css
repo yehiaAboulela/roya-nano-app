@@ -15,8 +15,8 @@ nav {
   padding: 0px 50px;
   direction: ltr !important;
 }
-.logo h3 {
-  font-size: 3rem;
+.logo img {
+  width: 81px;
 }
 .navigation {
   display: flex;

@@ -30,6 +30,8 @@ import { BlogDetailsComponent } from './components/blog-details/blog-details.com
 import { NanoGrapheneProdsComponent } from './components/services/nano-graphene-prods/nano-graphene-prods.component';
 import { PpfComponent } from './components/services/ppf/ppf.component';
 import { ThermalInsulationComponent } from './components/services/thermal-insulation/thermal-insulation.component';
+import { GalleryComponent } from './components/gallery/gallery.component';
+import { NgOptimizedImage } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -59,12 +61,14 @@ import { ThermalInsulationComponent } from './components/services/thermal-insula
     NanoGrapheneProdsComponent,
     PpfComponent,
     ThermalInsulationComponent,
+    GalleryComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     CarouselModule,
+    NgOptimizedImage,
   ],
   providers: [],
   bootstrap: [AppComponent],

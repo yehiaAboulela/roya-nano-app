@@ -1,9 +1,6 @@
-.logo {
-  color: white;
-  font-size: 3rem;
-  font-weight: 600;
-  display: inline-block;
-  margin-bottom: 80px;
+.logo img {
+  width: 180px;
+  margin-bottom: 50px;
 }
 .footer-heading {
   display: inline-block;

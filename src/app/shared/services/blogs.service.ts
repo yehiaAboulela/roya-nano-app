@@ -1,5 +1,6 @@
-import { Injectable } from '@angular/core';
+import { Injectable, signal, Signal, WritableSignal } from '@angular/core';
 import { BlogItem } from '../interface/blog-item';
+import { BehaviorSubject } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -7,7 +8,7 @@ import { BlogItem } from '../interface/blog-item';
 export class BlogsService {
   constructor() {}
 
-  blogs: BlogItem[] = [
+  blogs: BehaviorSubject<BlogItem[]> = new BehaviorSubject([
     {
       label: 'Announcement',
       heading: 'Why Ceramic Coating is the Best Choice for Your Car',
@@ -170,9 +171,5 @@ export class BlogsService {
       ],
       id: 6,
     },
-  ];
-
-  getBlogById(urlId: string): BlogItem {
-    return this.blogs.filter((cur) => cur.id == Number(urlId))[0];
-  }
+  ]);
 }

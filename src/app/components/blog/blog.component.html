@@ -1,5 +1,6 @@
 <section>
   <div class="container-fluid">
+    @if (lang == 'en') {
     <div class="intro">
       <h1 data-aos="fade-right">The latest and greatest from our team</h1>
       <p data-aos="fade-left">
@@ -7,6 +8,16 @@
         tricks, important announcements, and product updates.
       </p>
     </div>
+    } @else {
+    <div class="intro">
+      <h1 data-aos="fade-right">أحدث وأفضل ما قدمته فريقنا</h1>
+      <p data-aos="fade-left">
+        تابع أحدث الأخبار من فريقنا. بما في ذلك النصائح والحيل، والإعلانات
+        الهامة، وتحديثات المنتجات.
+      </p>
+    </div>
+
+    }
 
     <div class="blogs pb-5">
       <div class="row g-4">
