@@ -706,4 +706,8 @@ export class NavbarComponent implements OnInit {
       ]);
     }
   }
+
+  closeMinu() {
+    if (this.nav) this.nav = false;
+  }
 }

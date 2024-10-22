@@ -1,4 +1,4 @@
-<section class="my-sec">
+<section class="service-product">
   <div class="container">
     @if (lang == 'en') {
     <h1 class="text-center" data-aos="zoom-in">Nano graphene products</h1>
@@ -10,6 +10,10 @@
       <owl-carousel-o [options]="customOptions" dir="ltr">
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
+
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -29,6 +33,11 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h2 class="mb-3">جيرافين هايبرد بلس</h2>
 
@@ -47,25 +56,22 @@
                     الأمريكية
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
+              <div class="one-image">
                 <div class="img-wrapper">
                   <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    src="https://tools.royalnanoceramic.com/imgs/graphene.jpeg"
                     alt="shiny car"
                     class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
                   />
                 </div>
               </div>
@@ -74,6 +80,9 @@
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -93,6 +102,11 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h2 class="mb-3">دايموند هايبرد</h2>
 
@@ -111,37 +125,36 @@
                     الأمريكية
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
 
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/graphene2.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
-        <ng-template carouselSlide>
+        <!-- <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
-                <h2 class="mb-3">Hard Girafene Pro</h2>
+                <h2 class="mb-3">Hard Graphene Pro</h2>
 
                 <ul class="list-unstyled lead">
                   <li class="mb-2 ms-2">
@@ -158,6 +171,11 @@
                     Germany
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h2 class="mb-3">هارد جيرافين برو</h2>
 
@@ -175,34 +193,33 @@
                     <span class="fw-medium">بلد الصنع:</span> ألمانيا
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
 
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/graphene3.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
-        </ng-template>
+        </ng-template> -->
 
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -223,6 +240,11 @@
                     Germany
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h2 class="mb-3">هارد جيرافين برو</h2>
 
@@ -240,32 +262,31 @@
                     <span class="fw-medium">بلد الصنع:</span> ألمانيا
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/graphene4.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -284,6 +305,11 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h1>جرافين برو</h1>
                 <ul class="list-unstyled lead">
@@ -301,37 +327,35 @@
                     الأمريكية
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/graphene5.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
-                <h1>Admins graphene</h1>
+                <h1>Adms graphene</h1>
                 <ul class="list-unstyled lead">
                   <li class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 10 years
@@ -346,6 +370,11 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h1>أدمينز جرافين</h1>
 
@@ -364,37 +393,35 @@
                     الأمريكية
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/graphene6.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
-                <h1>Graphene nano leks</h1>
+                <h1>Graphene nanolex</h1>
                 <ul class="list-unstyled lead">
                   <li class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 12 years
@@ -410,6 +437,11 @@
                     Germany
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h1>جرافين نانو ليكس</h1>
                 <ul class="list-unstyled lead">
@@ -426,27 +458,22 @@
                     <span class="fw-medium">بلد الصنع:</span> ألمانيا
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/graphene7.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
@@ -457,33 +484,58 @@
     <div class="divider"></div>
     <section class="row g-4 justify-content-center">
       <div class="col-md-6 col-lg-4" data-aos="fade-up">
-        <div class="thumbnail" (click)="openVideo(0)">
+        <div
+          class="thumbnail"
+          (click)="
+            openVideo(
+              'https://www.youtube.com/watch?v=kV6Q6eUEsbU&ab_channel=RoyalNanoCeramic'
+            )
+          "
+        >
           <img
-            src="/imgs/8e0f90a7c5.jpg"
+            src="https://tools.royalnanoceramic.com/imgs/grapheneVid1.jpg"
             alt="thumbnail"
             class="thumbnail-img"
           />
-          <img src="/icons/play-circle.png" alt="play icon" class="play-icon" />
+          <img
+            src="https://tools.royalnanoceramic.com/icons/play-circle.png"
+            alt="play icon"
+            class="play-icon"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="thumbnail" (click)="openVideo(1)">
+        <div
+          class="thumbnail"
+          (click)="openVideo('https://youtu.be/KwzZ--X9pvs')"
+        >
           <img
-            src="/imgs/8e0f90a7c5.jpg"
+            src="https://tools.royalnanoceramic.com/imgs/vid8.png"
             alt="thumbnail"
             class="thumbnail-img"
           />
-          <img src="/icons/play-circle.png" alt="play icon" class="play-icon" />
+          <img
+            src="https://tools.royalnanoceramic.com/icons/play-circle.png"
+            alt="play icon"
+            class="play-icon"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-        <div class="thumbnail" (click)="openVideo(2)">
+        <div
+          class="thumbnail"
+          (click)="openVideo('https://www.youtube.com/shorts/9bwZpzqUnkQ')"
+        >
           <img
-            src="/imgs/8e0f90a7c5.jpg"
+            src="https://tools.royalnanoceramic.com/imgs/grapheneVid3.jpg"
             alt="thumbnail"
             class="thumbnail-img"
           />
-          <img src="/icons/play-circle.png" alt="play icon" class="play-icon" />
+          <img
+            src="https://tools.royalnanoceramic.com/icons/play-circle.png"
+            alt="play icon"
+            class="play-icon"
+          />
         </div>
       </div>
       <a
@@ -508,15 +560,15 @@
           <img-comparison-slider>
             <img
               slot="first"
-              src="https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://tools.royalnanoceramic.com/imgs/beforeAfterb2.jpeg"
               alt="Before"
               class="w-100"
             />
             <img
               slot="second"
-              src="https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://tools.royalnanoceramic.com/imgs/beforeAftera2.jpeg"
               alt="After"
-              class="w-100 second"
+              class="w-100"
             />
           </img-comparison-slider>
         </div>

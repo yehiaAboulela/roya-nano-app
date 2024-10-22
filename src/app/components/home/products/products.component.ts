@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 export class ProductsComponent {
   constructor(private LanguageService: LanguageService) {}
-  activeProduct: number = 1;
+  src: string = 'https://tools.royalshieldworld.com/public/imgs/HYPERD+.png';
   lang: string = 'en';
   ngOnInit(): void {
     this.LanguageService.lang.subscribe({

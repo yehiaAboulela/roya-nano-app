@@ -186,6 +186,9 @@
 }
 
 @media (max-width: 767px) {
+  .timeline-row .timeline-content:before {
+    display: none;
+  }
   .timeline {
     padding: 15px 10px;
   }

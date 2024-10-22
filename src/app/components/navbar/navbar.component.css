@@ -6,7 +6,7 @@ nav {
   z-index: 99;
   background-image: linear-gradient(
     to bottom,
-    rgba(0, 0, 0, 0.517),
+    rgba(0, 0, 0, 0.73),
     transparent
   );
   display: flex;
@@ -16,7 +16,8 @@ nav {
   direction: ltr !important;
 }
 .logo img {
-  width: 81px;
+  width: 60px;
+  padding: 10px 5px;
 }
 .navigation {
   display: flex;
@@ -32,15 +33,9 @@ nav {
   padding: 25px;
   position: relative;
 }
-
-.navigation .nav-link.active::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 2px;
-  background-color: aliceblue;
+.navigation .nav-link.active {
+  color: rgb(255, 217, 0);
+  scale: 1.1;
 }
 
 .toggle-btn {
@@ -49,6 +44,15 @@ nav {
   border: none;
   font-size: 25px;
 }
+.lang-btn {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.esc-btn {
+  margin-bottom: 20px;
+  transform: scale(1.3);
+}
 @media (max-width: 991.98px) {
   .nav-wrapper {
     padding: 0;
@@ -56,6 +60,9 @@ nav {
   nav {
     padding: 10px;
     border-radius: 0;
+  }
+  .lang-btn {
+    color: black;
   }
 
   .navigation-wrapper {
@@ -66,7 +73,7 @@ nav {
     height: 100vh;
     background-color: rgb(231, 231, 231);
     z-index: 9999999999;
-    padding: 30px 20px;
+    padding: 30px;
     transition: 0.3s;
     transform: translateX(110%);
     box-shadow: 0 -10px 30px rgba(71, 44, 44, 0.595);
@@ -75,24 +82,27 @@ nav {
     transform: translateX(0);
   }
   .navigation .nav-link.active::before {
-    background-color: black;
+    content: none;
+  }
+  .navigation-wrapper .navigation {
+    display: block;
   }
   .navigation-wrapper .navigation .nav-link {
     color: black !important;
-    padding: 10px;
-    margin-bottom: 2px;
+    padding: 12px 0 12px 20px;
+    margin-bottom: 5px;
     transition: 0.3s;
+    display: block !important;
+    border-radius: 50px;
     width: 100%;
   }
+  .navigation-wrapper .navigation .nav-link.active,
   .navigation-wrapper .navigation .nav-link:hover {
-    background-color: #eee;
+    background-color: #bfbfbf82;
+    scale: 1;
   }
   .navigation {
     flex-direction: column;
     align-items: start;
   }
-}
-
-.hidden {
-  transform: translateY(-100%);
 }

@@ -1,15 +1,14 @@
 @if (lang == 'en') {
-
 <nav>
-  <div class="logo">
+  <a routerLink="/" class="logo">
     <h3 class="fw-bold text-white mb-0">
       <img src="./logo.png" alt="royal nano" />
     </h3>
-  </div>
+  </a>
 
   <div class="navigation-wrapper" [ngClass]="{ active: nav }">
-    <div class="text-end d-block d-lg-none">
-      <button class="btn mb-3" (click)="nav = false">
+    <div class="d-block d-lg-none">
+      <button class="btn esc-btn" (click)="nav = false">
         <i class="fa fa-xmark fs-3"></i>
       </button>
     </div>
@@ -18,13 +17,19 @@
         <a
           [routerLink]="['/home']"
           routerLinkActive="active"
+          (click)="closeMinu()"
           class="nav-link active"
         >
           Home
         </a>
       </li>
       <li>
-        <a [routerLink]="['/about']" routerLinkActive="active" class="nav-link">
+        <a
+          [routerLink]="['/about']"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          class="nav-link"
+        >
           About
         </a>
       </li>
@@ -32,13 +37,19 @@
         <a
           [routerLink]="['/services']"
           routerLinkActive="active"
+          (click)="closeMinu()"
           class="nav-link"
         >
           Services
         </a>
       </li>
       <li>
-        <a [routerLink]="['/blog']" routerLinkActive="active" class="nav-link">
+        <a
+          [routerLink]="['/blog']"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          class="nav-link"
+        >
           Blog
         </a>
       </li>
@@ -46,22 +57,33 @@
         <a
           [routerLink]="['/gallery']"
           routerLinkActive="active"
+          (click)="closeMinu()"
           class="nav-link"
         >
           Gallery
         </a>
       </li>
+      <!-- <li class="my-dropdown">
+        <span 
+        (click)="closeMinu()"
+        class="nav-link"> Gallery </span>
+        <ul class="gallery-modal list-unstyled">
+          <li><a [routerLink]="['/videos']">Videos</a></li>
+          <li><a [routerLink]="['/gallery']">Images</a></li>
+        </ul>
+      </li> -->
       <li>
         <a
           [routerLink]="['/contact']"
           routerLinkActive="active"
+          (click)="closeMinu()"
           class="nav-link"
         >
           Contact
         </a>
       </li>
       <li>
-        <button class="btn btn-light" (click)="changeLang('ar')">ع</button>
+        <button class="btn lang-btn" (click)="changeLang('ar')">Ar</button>
       </li>
     </ul>
   </div>
@@ -84,7 +106,7 @@
 
     <div class="navigation-wrapper" [ngClass]="{ active: nav }">
       <div class="text-end d-block d-lg-none">
-        <button class="btn mb-3" (click)="nav = false">
+        <button class="btn esc-btn" (click)="nav = false">
           <i class="fa fa-xmark fs-3"></i>
         </button>
       </div>
@@ -93,6 +115,7 @@
           <a
             [routerLink]="['/home']"
             routerLinkActive="active"
+            (click)="closeMinu()"
             class="nav-link active"
           >
             الرئيسية
@@ -102,6 +125,7 @@
           <a
             [routerLink]="['/about']"
             routerLinkActive="active"
+            (click)="closeMinu()"
             class="nav-link"
           >
             من نحن
@@ -111,6 +135,7 @@
           <a
             [routerLink]="['/services']"
             routerLinkActive="active"
+            (click)="closeMinu()"
             class="nav-link"
           >
             الخدمات
@@ -120,6 +145,7 @@
           <a
             [routerLink]="['/blog']"
             routerLinkActive="active"
+            (click)="closeMinu()"
             class="nav-link"
           >
             المدونة
@@ -127,8 +153,19 @@
         </li>
         <li>
           <a
+            [routerLink]="['/gallery']"
+            routerLinkActive="active"
+            (click)="closeMinu()"
+            class="nav-link"
+          >
+            المعرض
+          </a>
+        </li>
+        <li>
+          <a
             [routerLink]="['/contact']"
             routerLinkActive="active"
+            (click)="closeMinu()"
             class="nav-link"
           >
             تواصل معنا
@@ -136,7 +173,7 @@
         </li>
 
         <li>
-          <button class="btn btn-light" (click)="changeLang('en')">En</button>
+          <button class="btn lang-btn" (click)="changeLang('en')">En</button>
         </li>
       </ul>
     </div>

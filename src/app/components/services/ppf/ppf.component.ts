@@ -11,9 +11,9 @@ export class PpfComponent {
   constructor(private LanguageService: LanguageService) {}
   customOptions: OwlOptions = {
     loop: true,
-    mouseDrag: true,
-    touchDrag: true,
-    dots: false,
+    mouseDrag: false,
+    touchDrag: false,
+    dots: true,
     navSpeed: 700,
     nav: true,
     navText: [
@@ -24,12 +24,14 @@ export class PpfComponent {
     autoplay: true,
     autoplayTimeout: 5000,
     autoplaySpeed: 1000,
+    autoplayHoverPause: true,
     responsive: {
       0: {
         items: 1,
       },
     },
   };
+
   lang: string = 'en';
 
   ngOnInit(): void {
@@ -40,50 +42,29 @@ export class PpfComponent {
     });
   }
 
-  videoGallery = [
-    {
-      src: 'https://www.youtube.com/embed/FUKmyRLOlAA',
-      type: 'iframe',
-      options: {
-        iframe: {
-          preload: false,
-          width: 640,
-          height: 360,
+  openVideo(src: string): void {
+    Fancybox.show(
+      [
+        {
+          src: src,
+          type: 'iframe',
+          options: {
+            iframe: {
+              preload: false,
+              width: 640,
+              height: 360,
+            },
+          },
         },
-      },
-    },
-    {
-      src: 'https://www.youtube.com/embed/FUKmyRLOlAA',
-      type: 'iframe',
-      options: {
-        iframe: {
-          preload: false,
-          width: 640,
-          height: 360,
-        },
-      },
-    },
-    {
-      src: 'https://www.youtube.com/embed/FUKmyRLOlAA',
-      type: 'iframe',
-      options: {
-        iframe: {
-          preload: false,
-          width: 640,
-          height: 360,
-        },
-      },
-    },
-  ];
-
-  openVideo(index: number): void {
-    Fancybox.show(this.videoGallery, {
-      startIndex: index,
-      dragToClose: false,
-      closeButton: true,
-      Toolbar: true,
-      Thumbs: true,
-      infinite: true,
-    });
+      ],
+      {
+        dragToClose: true,
+        closeButton: true,
+        Toolbar: true,
+        Thumbs: true, // Disable Thumbnails
+        infinite: false, // Disable infinite scroll
+        animated: true,
+      }
+    );
   }
 }

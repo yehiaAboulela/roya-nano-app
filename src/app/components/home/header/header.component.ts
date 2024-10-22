@@ -26,47 +26,47 @@ export class HeaderComponent implements OnInit {
   updateHeaderContent() {
     if (this.lang === 'ar') {
       this.headerContent1 = [
-        { text: 'العنوان 1', numbers: 101, color: '#fae52c' },
-        { text: 'العنوان 2', numbers: 102, color: '#ff9a9a' },
-        { text: 'العنوان 3', numbers: 103, color: '#ff3a9a' },
-        { text: 'العنوان 4', numbers: 104, color: '#54daf9' },
-        { text: 'العنوان 1', numbers: 101, color: '#fae52c' },
-        { text: 'العنوان 2', numbers: 102, color: '#ff9a9a' },
-        { text: 'العنوان 3', numbers: 103, color: '#ff3a9a' },
-        { text: 'العنوان 4', numbers: 104, color: '#54daf9' },
+        { text: 'الفروع', numbers: 15, color: '#fae52c' },
+        { text: 'العملاء', numbers: 66468, color: '#ff9a9a' },
+        { text: 'المنتجات', numbers: 25, color: '#ff3a9a' },
+        { text: 'الموظفون', numbers: +250, color: '#54daf9' },
+        { text: 'العروض الخاصة', numbers: 5, color: '#fae52c' },
+        { text: 'العملاء', numbers: 66468, color: '#ff9a9a' },
+        { text: 'المنتجات', numbers: 25, color: '#ff3a9a' },
+        { text: 'الموظفون', numbers: +250, color: '#54daf9' },
       ];
 
       this.headerContent2 = [
-        { text: 'المحتوى د', numbers: 204, color: '#54daf9' },
-        { text: 'المحتوى ب', numbers: 202, color: '#ff9a9a' },
-        { text: 'المحتوى أ', numbers: 201, color: '#fae52c' },
-        { text: 'المحتوى ج', numbers: 203, color: '#ff3a9a' },
-        { text: 'المحتوى د', numbers: 204, color: '#54daf9' },
-        { text: 'المحتوى ب', numbers: 202, color: '#ff9a9a' },
-        { text: 'المحتوى أ', numbers: 201, color: '#fae52c' },
-        { text: 'المحتوى ج', numbers: 203, color: '#ff3a9a' },
+        { text: 'العملاء', numbers: 66468, color: '#ff9a9a' },
+        { text: 'المنتجات', numbers: 25, color: '#ff3a9a' },
+        { text: 'الموظفون', numbers: +250, color: '#54daf9' },
+        { text: 'الفروع', numbers: 15, color: '#fae52c' },
+        { text: 'العملاء', numbers: 66468, color: '#ff9a9a' },
+        { text: 'العروض الخاصة', numbers: 5, color: '#fae52c' },
+        { text: 'الموظفون', numbers: +250, color: '#54daf9' },
+        { text: 'المنتجات', numbers: 25, color: '#ff3a9a' },
       ];
     } else {
       this.headerContent1 = [
-        { text: 'Header 1', numbers: 101, color: '#fae52c' },
-        { text: 'Header 2', numbers: 102, color: '#ff9a9a' },
-        { text: 'Header 3', numbers: 103, color: '#ff3a9a' },
-        { text: 'Header 4', numbers: 104, color: '#54daf9' },
-        { text: 'Header 1', numbers: 101, color: '#fae52c' },
-        { text: 'Header 2', numbers: 102, color: '#ff9a9a' },
-        { text: 'Header 3', numbers: 103, color: '#ff3a9a' },
-        { text: 'Header 4', numbers: 104, color: '#54daf9' },
+        { text: 'Branches', numbers: 15, color: '#fae52c' },
+        { text: 'Clients', numbers: 66468, color: '#ff9a9a' },
+        { text: 'Products', numbers: 25, color: '#ff3a9a' },
+        { text: 'Employees', numbers: +250, color: '#54daf9' },
+        { text: 'Special Offers', numbers: 5, color: '#fae52c' },
+        { text: 'Clients', numbers: 66468, color: '#ff9a9a' },
+        { text: 'Products', numbers: 25, color: '#ff3a9a' },
+        { text: 'Employees', numbers: +250, color: '#54daf9' },
       ];
 
       this.headerContent2 = [
-        { text: 'Content D', numbers: 204, color: '#54daf9' },
-        { text: 'Content B', numbers: 202, color: '#ff9a9a' },
-        { text: 'Content A', numbers: 201, color: '#fae52c' },
-        { text: 'Content C', numbers: 203, color: '#ff3a9a' },
-        { text: 'Content D', numbers: 204, color: '#54daf9' },
-        { text: 'Content B', numbers: 202, color: '#ff9a9a' },
-        { text: 'Content A', numbers: 201, color: '#fae52c' },
-        { text: 'Content C', numbers: 203, color: '#ff3a9a' },
+        { text: 'Clients', numbers: 66468, color: '#ff9a9a' },
+        { text: 'Products', numbers: 25, color: '#ff3a9a' },
+        { text: 'Employees', numbers: +250, color: '#54daf9' },
+        { text: 'Branches', numbers: 15, color: '#fae52c' },
+        { text: 'Clients', numbers: 66468, color: '#ff9a9a' },
+        { text: 'Special Offers', numbers: 5, color: '#fae52c' },
+        { text: 'Employees', numbers: +250, color: '#54daf9' },
+        { text: 'Products', numbers: 25, color: '#ff3a9a' },
       ];
     }
   }

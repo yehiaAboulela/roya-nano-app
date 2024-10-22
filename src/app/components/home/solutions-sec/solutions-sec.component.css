@@ -31,9 +31,21 @@
   border-radius: 0 0 20px 0;
   margin-bottom: 20px;
 }
-.svg svg {
-  width: 50px;
-  height: 50px;
+.svg img {
+  width: 40px;
+  height: 40px;
+}
+.logo-trns {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  opacity: 0.1;
+  z-index: -22;
+  width: 33vw;
+}
+.row {
+  position: relative;
+  overflow: hidden;
 }
 
 @media (max-width: 767.98px) {
@@ -50,5 +62,8 @@
   .svg svg {
     width: 40;
     height: 40px;
+  }
+  .logo-trns {
+    width: 100vw;
   }
 }

@@ -1,6 +1,7 @@
 import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { CarouselModule } from 'ngx-owl-carousel-o';
+import { ReactiveFormsModule } from '@angular/forms';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
@@ -32,6 +33,17 @@ import { PpfComponent } from './components/services/ppf/ppf.component';
 import { ThermalInsulationComponent } from './components/services/thermal-insulation/thermal-insulation.component';
 import { GalleryComponent } from './components/gallery/gallery.component';
 import { NgOptimizedImage } from '@angular/common';
+import { BookAppointmentComponent } from './components/book-appointment/book-appointment.component';
+import { provideHttpClient } from '@angular/common/http';
+import { HeaderAltComponent } from './components/home/header-alt/header-alt.component';
+import { ImagesComponent } from './components/gallery/images/images.component';
+import { VideosComponent } from './components/gallery/videos/videos.component';
+import { CareersComponent } from './components/careers/careers.component';
+import { PrivacyComponent } from './components/privacy/privacy.component';
+import { Landing1Component } from './components/landing-1/landing-1.component';
+import { LandingLayoutComponent } from './components/landing-layout/landing-layout.component';
+import { MainLayoutComponent } from './components/main-layout/main-layout.component';
+import { Landing1ArComponent } from './components/landing-1-ar/landing-1-ar.component';
 
 @NgModule({
   declarations: [
@@ -62,6 +74,16 @@ import { NgOptimizedImage } from '@angular/common';
     PpfComponent,
     ThermalInsulationComponent,
     GalleryComponent,
+    BookAppointmentComponent,
+    HeaderAltComponent,
+    ImagesComponent,
+    VideosComponent,
+    CareersComponent,
+    PrivacyComponent,
+    Landing1Component,
+    LandingLayoutComponent,
+    MainLayoutComponent,
+    Landing1ArComponent,
   ],
   imports: [
     BrowserModule,
@@ -69,8 +91,9 @@ import { NgOptimizedImage } from '@angular/common';
     BrowserAnimationsModule,
     CarouselModule,
     NgOptimizedImage,
+    ReactiveFormsModule,
   ],
-  providers: [],
+  providers: [provideHttpClient()],
   bootstrap: [AppComponent],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })

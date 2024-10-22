@@ -1,13 +1,17 @@
-import { Component } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { AfterViewInit, Component, OnInit } from '@angular/core';
 import { LanguageService } from '../../shared/services/language.service';
-declare var Fancybox: any;
+
 @Component({
   selector: 'app-services',
   templateUrl: './services.component.html',
   styleUrl: './services.component.css',
 })
-export class ServicesComponent {
-  constructor(private LanguageService: LanguageService) {}
+export class ServicesComponent implements OnInit, AfterViewInit {
+  constructor(
+    private LanguageService: LanguageService,
+    private route: ActivatedRoute
+  ) {}
 
   lang: string = 'en';
   ngOnInit(): void {
@@ -17,50 +21,18 @@ export class ServicesComponent {
       },
     });
   }
-  videoGallery = [
-    {
-      src: 'https://www.youtube.com/embed/FUKmyRLOlAA',
-      type: 'iframe',
-      options: {
-        iframe: {
-          preload: false,
-          width: 640,
-          height: 360,
-        },
+  ngAfterViewInit(): void {
+    this.route.fragment.subscribe({
+      next: (res) => {
+        if (res) {
+          setTimeout(function () {
+            console.log(document.getElementById(res));
+            document
+              .getElementById(res)
+              ?.scrollIntoView({ behavior: 'smooth' });
+          }, 1000);
+        }
       },
-    },
-    {
-      src: 'https://www.youtube.com/embed/FUKmyRLOlAA',
-      type: 'iframe',
-      options: {
-        iframe: {
-          preload: false,
-          width: 640,
-          height: 360,
-        },
-      },
-    },
-    {
-      src: 'https://www.youtube.com/embed/FUKmyRLOlAA',
-      type: 'iframe',
-      options: {
-        iframe: {
-          preload: false,
-          width: 640,
-          height: 360,
-        },
-      },
-    },
-  ];
-
-  openVideo(index: number): void {
-    Fancybox.show(this.videoGallery, {
-      startIndex: index,
-      dragToClose: false,
-      closeButton: true,
-      Toolbar: true,
-      Thumbs: true,
-      infinite: true,
     });
   }
 }

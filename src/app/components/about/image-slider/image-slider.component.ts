@@ -40,7 +40,7 @@ export class ImageSliderComponent {
         items: 4,
       },
       1199.98: {
-        items: 6,
+        items: 5,
       },
     },
   };
@@ -68,7 +68,7 @@ export class ImageSliderComponent {
         items: 4,
       },
       1199.98: {
-        items: 6,
+        items: 5,
       },
     },
   };

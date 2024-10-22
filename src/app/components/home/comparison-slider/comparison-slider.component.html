@@ -1,25 +1,58 @@
 <section class="mt-5">
-  @if(lang == 'en'){
-  <div class="mt-5 mb-3">
-    <h4 class="text-center h1">See the Difference</h4>
-  </div>
-  } @else {
-  <h4 class="text-center mb-5">اكتشف الفرق بنفسك: قبل وبعد الحماية الفائقة</h4>
-  }
-  <div class="slider-wrapper">
-    <img-comparison-slider>
-      <img
-        slot="first"
-        src="https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        alt="Before"
-        class="w-100"
-      />
-      <img
-        slot="second"
-        src="https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        alt="After"
-        class="w-100 second"
-      />
-    </img-comparison-slider>
-  </div>
+  <owl-carousel-o [options]="customOptions" dir="ltr">
+    <ng-template carouselSlide>
+      <div class="slider-wrapper">
+        <img-comparison-slider>
+          <img
+            slot="first"
+            src="https://tools.royalnanoceramic.com/imgs/beforeAfterb3.jpeg"
+            alt="Before"
+            class="w-100"
+          />
+          <img
+            slot="second"
+            src="https://tools.royalnanoceramic.com/imgs/beforeAftera3.jpeg"
+            alt="After"
+            class="w-100"
+          />
+        </img-comparison-slider>
+      </div>
+    </ng-template>
+    <ng-template carouselSlide>
+      <div class="slider-wrapper">
+        <img-comparison-slider>
+          <img
+            slot="first"
+            src="https://tools.royalnanoceramic.com/imgs/beforeAfterb2.jpeg"
+            alt="Before"
+            class="w-100"
+          />
+          <img
+            slot="second"
+            src="https://tools.royalnanoceramic.com/imgs/beforeAftera2.jpeg"
+            alt="After"
+            class="w-100"
+          />
+        </img-comparison-slider>
+      </div>
+    </ng-template>
+    <ng-template carouselSlide>
+      <div class="slider-wrapper">
+        <img-comparison-slider>
+          <img
+            slot="first"
+            src="https://tools.royalnanoceramic.com/imgs/beforeAfterb1.jpeg"
+            alt="Before"
+            class="w-100"
+          />
+          <img
+            slot="second"
+            src="https://tools.royalnanoceramic.com/imgs/beforeAftera1.jpeg"
+            alt="After"
+            class="w-100"
+          />
+        </img-comparison-slider>
+      </div>
+    </ng-template>
+  </owl-carousel-o>
 </section>

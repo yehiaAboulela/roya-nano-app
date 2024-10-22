@@ -42,7 +42,13 @@
   padding: 10px 20px;
   background-color: #f8f9fa;
 }
-
+.carousel-card .carousel-body {
+  min-height: 178px;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
 /* Title styles */
 .carousel-card .carousel-body h4 {
   font-size: 1.25rem;

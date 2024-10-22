@@ -87,6 +87,11 @@ header {
     height: 250px;
     width: 200px;
   }
+  header {
+    /* min-height: 100vh; */
+    height: auto;
+    padding-block: 88px;
+  }
 }
 
 @media (max-width: 767.98px) {

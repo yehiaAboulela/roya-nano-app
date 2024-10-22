@@ -1,5 +1,6 @@
-import { ChangeDetectorRef, Component } from '@angular/core';
+import { Component } from '@angular/core';
 import { OwlOptions } from 'ngx-owl-carousel-o';
+import { LanguageService } from '../../shared/services/language.service';
 
 @Component({
   selector: 'app-gallery',
@@ -7,6 +8,19 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   styleUrl: './gallery.component.css',
 })
 export class GalleryComponent {
+  constructor(private LanguageService: LanguageService) {}
+
+  lang: string = 'en';
+  images: boolean = false;
+
+  ngOnInit(): void {
+    this.LanguageService.lang.subscribe({
+      next: (data) => {
+        this.lang = data;
+      },
+    });
+  }
+
   customOptions: OwlOptions = {
     loop: true,
     mouseDrag: true,
@@ -17,13 +31,11 @@ export class GalleryComponent {
     autoplaySpeed: 1000,
     autoplayTimeout: 3000,
     autoWidth: true,
-    lazyLoad: true,
-    margin: 30,
+    margin: 10,
     items: 4,
-    autoHeight: true,
     responsive: {
       0: {
-        items: 1,
+        items: 2,
       },
       400: {
         items: 2,
@@ -37,10 +49,4 @@ export class GalleryComponent {
     },
     nav: false,
   };
-
-  // constructor(private cdr: ChangeDetectorRef) {}
-
-  // ngAfterViewInit() {
-  //   this.cdr.detectChanges(); // Detect changes after view initialization
-  // }
 }

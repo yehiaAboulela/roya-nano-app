@@ -9,6 +9,7 @@ import { LanguageService } from '../../shared/services/language.service';
 export class FooterComponent {
   constructor(private LanguageService: LanguageService) {}
   lang: string = 'en';
+  allBranches: boolean = false;
   ngOnInit(): void {
     this.LanguageService.lang.subscribe({
       next: (data) => {

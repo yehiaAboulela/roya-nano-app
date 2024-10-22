@@ -1,4 +1,4 @@
-<section style="margin-top: 100px">
+<section style="margin-top: 100px" class="service-product bg-white">
   <div class="container">
     @if (lang == 'en') {
     <h1 class="text-center" data-aos="zoom-in">Nano ceramic products</h1>
@@ -10,6 +10,9 @@
       <owl-carousel-o [options]="customOptions" dir="ltr">
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -29,6 +32,12 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
+
                 } @else {
                 <h2 class="mb-3">دايموند هايبرد بلس</h2>
 
@@ -47,32 +56,31 @@
                     الأمريكية
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/ceramic1.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -92,6 +100,12 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
+
                 } @else {
                 <h2 class="mb-3">دايموند هايبرد</h2>
 
@@ -105,37 +119,37 @@
                   <li class="mb-2 ms-2">
                     <span class="fw-medium">العناصر:</span> الألماس
                   </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">بلد الصنع:</span> الولايات المتحدة
-                    الأمريكية
-                  </li>
+                  <a
+                    routerLink="/book-appointment"
+                    class="btn btn-outline-dark d-block d-lg-none mb-3"
+                    >احجز الآن</a
+                  >
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/ceramic2.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -157,6 +171,11 @@
                     Germany
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h2 class="mb-3">الترا نانو سيراميك</h2>
 
@@ -175,32 +194,31 @@
                     <span class="fw-medium">بلد الصنع:</span> المانيا
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/ceramic3.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -219,6 +237,11 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h1>دايموند ان 1</h1>
 
@@ -237,37 +260,35 @@
                     الأمريكية
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/ceramic4.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
-                <h1>Nano liks</h1>
+                <h1>Nanolex</h1>
                 <ul class="list-unstyled lead">
                   <li class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 7 years
@@ -284,6 +305,11 @@
                     Germany
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h1>نانو ليكس</h1>
 
@@ -301,33 +327,31 @@
                     <span class="fw-medium">بلد الصنع:</span> ألمانيا
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/ceramic5.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
         </ng-template>
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
+            <a routerLink="/book-appointment" class="overlay">
+              <h4>Book Now</h4>
+            </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
                 @if (lang === "en") {
@@ -346,6 +370,11 @@
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >Book Now</a
+                >
                 } @else {
                 <h1>نانو سيستم اكس</h1>
 
@@ -363,27 +392,22 @@
                     <span class="fw-medium">بلد الصنع:</span> ألمانيا
                   </li>
                 </ul>
-
+                <a
+                  routerLink="/book-appointment"
+                  class="btn btn-outline-dark d-block d-lg-none mb-3"
+                  >احجز الآن</a
+                >
                 }
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="images">
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100"
-                  />
-                </div>
-                <div class="img-wrapper">
-                  <img
-                    src="https://images.pexels.com/photos/5158186/pexels-photo-5158186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                    alt="shiny car"
-                    class="w-100 mt-5"
-                  />
-                </div>
+              <div class="img-wrapper">
+                <img
+                  src="https://tools.royalnanoceramic.com/imgs/ceramic6.jpeg"
+                  alt="shiny car"
+                  class="w-100"
+                />
               </div>
             </div>
           </div>
@@ -394,33 +418,54 @@
     <div class="divider"></div>
     <section class="row g-4 justify-content-center">
       <div class="col-md-6 col-lg-4" data-aos="fade-up">
-        <div class="thumbnail" (click)="openVideo(0)">
+        <div
+          class="thumbnail"
+          (click)="openVideo('https://youtu.be/UasvEtdl9sM')"
+        >
           <img
-            src="/imgs/8e0f90a7c5.jpg"
+            src="https://tools.royalnanoceramic.com/imgs/ceramicVid1.png"
             alt="thumbnail"
             class="thumbnail-img"
           />
-          <img src="/icons/play-circle.png" alt="play icon" class="play-icon" />
+          <img
+            src="https://tools.royalnanoceramic.com/icons/play-circle.png"
+            alt="play icon"
+            class="play-icon"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="thumbnail" (click)="openVideo(1)">
+        <div
+          class="thumbnail"
+          (click)="openVideo('https://youtu.be/hoE4nB9fy2k')"
+        >
           <img
-            src="/imgs/8e0f90a7c5.jpg"
+            src="https://tools.royalnanoceramic.com/imgs/vid2.png"
             alt="thumbnail"
             class="thumbnail-img"
           />
-          <img src="/icons/play-circle.png" alt="play icon" class="play-icon" />
+          <img
+            src="https://tools.royalnanoceramic.com/icons/play-circle.png"
+            alt="play icon"
+            class="play-icon"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-        <div class="thumbnail" (click)="openVideo(2)">
+        <div
+          class="thumbnail"
+          (click)="openVideo('https://youtu.be/UnVy9wJO4oI')"
+        >
           <img
-            src="/imgs/8e0f90a7c5.jpg"
+            src="https://tools.royalnanoceramic.com/imgs/ceramicVid3.png"
             alt="thumbnail"
             class="thumbnail-img"
           />
-          <img src="/icons/play-circle.png" alt="play icon" class="play-icon" />
+          <img
+            src="https://tools.royalnanoceramic.com/icons/play-circle.png"
+            alt="play icon"
+            class="play-icon"
+          />
         </div>
       </div>
       <a
@@ -445,15 +490,15 @@
           <img-comparison-slider>
             <img
               slot="first"
-              src="https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://tools.royalnanoceramic.com/imgs/beforeAfterb1.jpeg"
               alt="Before"
               class="w-100"
             />
             <img
               slot="second"
-              src="https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://tools.royalnanoceramic.com/imgs/beforeAftera1.jpeg"
               alt="After"
-              class="w-100 second"
+              class="w-100"
             />
           </img-comparison-slider>
         </div>

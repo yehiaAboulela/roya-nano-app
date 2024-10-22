@@ -1,5 +1,5 @@
 .products-sec {
-  padding-block: 150px;
+  padding-block: 50px;
 }
 .product-img {
   border-radius: 0 0 20px 0;
@@ -21,7 +21,7 @@
   border-radius: 0 0 20px 0;
   padding: 20px; /* Optional: Add padding inside each product */
   text-align: center; /* Center-align text */
-  height: 230px;
+  height: 185px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -30,9 +30,13 @@
   font-size: 18px;
   color: #818181db;
 }
+.product h3 {
+  color: black;
+}
 
 .product-img {
   width: 100%;
+  object-fit: cover;
 }
 
 @media (max-width: 1199.98px) {
@@ -53,5 +57,11 @@
   }
   h2 {
     text-align: center;
+  }
+  .products-sec {
+    padding-bottom: 0;
+  }
+  .products-sec {
+    padding-bottom: 0;
   }
 }
