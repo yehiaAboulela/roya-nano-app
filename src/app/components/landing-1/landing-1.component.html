@@ -588,121 +588,80 @@
       <div class="row justify-content-center">
         <div>
           <form
-            id="form"
             [formGroup]="leadForm"
             (ngSubmit)="onSubmit()"
             class="shadow bg-white px-3 px-lg-4 py-5 rounded-4"
           >
             <h3 class="text-center mb-4">Request a Service</h3>
-
-            <div class="row">
-              <div class="col-md-6 mb-3">
-                <label for="name" class="form-label">Name</label>
-                <div class="input-group">
-                  <span class="input-group-text"
-                    ><i class="fas fa-user"></i
-                  ></span>
-                  <input
-                    type="text"
-                    id="name"
-                    formControlName="name"
-                    class="form-control rou"
-                    placeholder="Enter your name"
-                  />
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="phone" class="form-label">Phone</label>
-                <div class="input-group">
-                  <span class="input-group-text"
-                    ><i class="fas fa-phone"></i
-                  ></span>
-                  <input
-                    type="tel"
-                    id="phone"
-                    formControlName="phone"
-                    class="form-control rou"
-                    placeholder="Enter your phone number"
-                  />
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="email" class="form-label">Email</label>
-                <div class="input-group">
-                  <span class="input-group-text"
-                    ><i class="fas fa-envelope"></i
-                  ></span>
-                  <input
-                    type="email"
-                    id="email"
-                    formControlName="email"
-                    class="form-control rou"
-                    placeholder="Enter your email"
-                  />
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="city" class="form-label">City</label>
-                <div class="input-group">
-                  <span class="input-group-text"
-                    ><i class="fas fa-city"></i
-                  ></span>
-                  <input
-                    type="text"
-                    id="city"
-                    formControlName="city"
-                    class="form-control rou"
-                    placeholder="Enter your city"
-                  />
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="carModel" class="form-label">Car Model</label>
-                <input
-                  type="text"
-                  id="carModel"
-                  formControlName="carModel"
-                  class="form-control rou"
-                  placeholder="Enter your car model"
-                />
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="carBrand" class="form-label">Car Brand</label>
-                <input
-                  type="text"
-                  id="carBrand"
-                  formControlName="carBrand"
-                  class="form-control rou"
-                  placeholder="Enter your car brand"
-                />
-              </div>
-
-              <div class="col-12 mb-3">
-                <label for="serviceType" class="form-label">Service Type</label>
-                <select
-                  id="serviceType"
-                  formControlName="serviceType"
-                  class="form-select"
-                >
-                  <option value="" disabled selected>
-                    Select service type
-                  </option>
-                  <option *ngFor="let service of services" [value]="service">
-                    {{ service }}
-                  </option>
-                </select>
-              </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="full_name"
+                placeholder="Full Name"
+                required
+              />
             </div>
-
-            <button type="submit" class="btn btn-primary mt-3">Submit</button>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="tel"
+                formControlName="mobile"
+                placeholder="Phone Number"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="email"
+                formControlName="email"
+                placeholder="Email"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="number"
+                formControlName="client_16849336084508"
+                placeholder="Car Models"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="client_16492512972331"
+                placeholder="Type Of Car"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="client_16858930300757"
+                placeholder="City"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="client_17293620987926"
+                placeholder="Service Type"
+              />
+            </div>
+            <p class="text-danger" *ngIf="notValid" [@fadeInOut]>
+              {{ notValid }}
+            </p>
+            <p class="text-success" *ngIf="valid" [@fadeInOut]>{{ valid }}</p>
+            <div class="text-right">
+              <button class="btn btn-primary" type="submit">Submit</button>
+            </div>
           </form>
         </div>
       </div>
+      <div></div>
     </section>
   </div>
 </main>

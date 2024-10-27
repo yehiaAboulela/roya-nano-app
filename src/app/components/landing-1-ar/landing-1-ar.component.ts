@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { OwlOptions } from 'ngx-owl-carousel-o';
+import { LeadsService } from '../../shared/services/leads.service';
+import { Router } from '@angular/router';
 declare var Fancybox: any;
 
 @Component({
@@ -9,8 +11,13 @@ declare var Fancybox: any;
   styleUrl: './landing-1-ar.component.css',
 })
 export class Landing1ArComponent {
-  constructor(private fb: FormBuilder) {}
-
+  constructor(
+    private fb: FormBuilder,
+    private LeadsService: LeadsService,
+    private router: Router
+  ) {}
+  notValid: string = '';
+  valid: string = '';
   services: string[] = [
     'Nano Ceramic',
     'Nano Graphene',
@@ -28,10 +35,8 @@ export class Landing1ArComponent {
     navSpeed: 700,
     autoplay: true,
     autoplaySpeed: 1000,
-    autoplayTimeout: 7000,
     center: true,
     margin: 20,
-    rtl: true,
     responsive: {
       0: {
         items: 1,
@@ -39,16 +44,6 @@ export class Landing1ArComponent {
     },
     nav: false,
   };
-
-  leadForm: FormGroup = this.fb.group({
-    name: ['', [Validators.required, Validators.minLength(3)]],
-    phone: ['', [Validators.required, Validators.pattern(/^[0-9]{10,15}$/)]],
-    email: ['', [Validators.required, Validators.email]],
-    city: ['', Validators.required],
-    carModel: ['', Validators.required],
-    carBrand: ['', Validators.required],
-    serviceType: ['', Validators.required],
-  });
 
   openVideo(src: string): void {
     Fancybox.show(
@@ -75,16 +70,38 @@ export class Landing1ArComponent {
       }
     );
   }
-
-  onSubmit() {
-    if (this.leadForm.valid) {
-      console.log(this.leadForm.value);
-      // Add your logic to handle form submission
-    } else {
-      console.log('Form is invalid');
-    }
-  }
   scrollToForm() {
     document.getElementById('form')?.scrollIntoView({ behavior: 'smooth' });
+  }
+
+  leadForm = this.fb.group({
+    full_name: ['', Validators.required],
+    mobile: ['', Validators.required],
+    email: ['', Validators.required],
+    client_16849336084508: ['', Validators.required],
+    client_16492512972331: ['', Validators.required],
+    client_16858930300757: ['', Validators.required],
+    client_17293620987926: ['', Validators.required],
+  });
+  onSubmit(): void {
+    if (this.leadForm.valid) {
+      this.LeadsService.postLeadForm(this.leadForm.value).subscribe({
+        next: (res) => {
+          if (!res.status) {
+            this.valid = '';
+            this.notValid = res.message;
+          } else {
+            this.notValid = '';
+            this.valid = 'Thanks You For Reaching Out';
+            this.router.navigate(['/thanks']);
+          }
+        },
+        error: (error) => {
+          console.error('Error:', error);
+        },
+      });
+    } else {
+      this.notValid = 'Please fill All Fieald';
+    }
   }
 }

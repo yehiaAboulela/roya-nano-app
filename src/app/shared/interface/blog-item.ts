@@ -1,14 +1,21 @@
 export interface BlogItem {
-  label: string;
-  heading: string;
-  subHeading: string;
+  _id: string;
+  label_en: string;
+  label_ar: string;
+  heading_en: string;
+  heading_ar: string;
+  subHeading_en: string;
+  subHeading_ar: string;
   date: string;
   img: string;
   points: Point[];
-  id: number;
+  __v: number;
 }
 
-interface Point {
-  head: string;
-  body: string;
+export interface Point {
+  head_en: string;
+  body_en: string;
+  head_ar: string;
+  body_ar: string;
+  _id: string;
 }

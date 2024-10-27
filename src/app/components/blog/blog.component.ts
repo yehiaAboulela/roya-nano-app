@@ -17,15 +17,14 @@ export class BlogComponent implements OnInit {
   lang: string = 'en';
 
   ngOnInit(): void {
-    this.BlogsService.blogs.subscribe({
+    this.BlogsService.getBlogs().subscribe({
+      next: (res) => {
+        this.blogs = res.data.blogs;
+      },
+    });
+    this.LanguageService.lang.subscribe({
       next: (data) => {
-        this.blogs = data;
-        console.log(data);
-        this.LanguageService.lang.subscribe({
-          next: (data2) => {
-            this.lang = data2;
-          },
-        });
+        this.lang = data;
       },
     });
   }

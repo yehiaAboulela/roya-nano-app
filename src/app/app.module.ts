@@ -44,6 +44,7 @@ import { Landing1Component } from './components/landing-1/landing-1.component';
 import { LandingLayoutComponent } from './components/landing-layout/landing-layout.component';
 import { MainLayoutComponent } from './components/main-layout/main-layout.component';
 import { Landing1ArComponent } from './components/landing-1-ar/landing-1-ar.component';
+import { ThanksComponent } from './components/thanks/thanks.component';
 
 @NgModule({
   declarations: [
@@ -84,6 +85,7 @@ import { Landing1ArComponent } from './components/landing-1-ar/landing-1-ar.comp
     LandingLayoutComponent,
     MainLayoutComponent,
     Landing1ArComponent,
+    ThanksComponent,
   ],
   imports: [
     BrowserModule,

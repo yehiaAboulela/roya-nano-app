@@ -593,116 +593,74 @@
       <div class="row justify-content-center">
         <div>
           <form
-            id="form"
             [formGroup]="leadForm"
             (ngSubmit)="onSubmit()"
             class="shadow bg-white px-3 px-lg-4 py-5 rounded-4"
           >
-            <h3 class="text-center mb-4">طلب خدمة</h3>
-
-            <div class="row">
-              <div class="col-md-6 mb-3">
-                <label for="name" class="form-label">الاسم</label>
-                <div class="input-group">
-                  <input
-                    type="text"
-                    id="name"
-                    formControlName="name"
-                    class="form-control rou"
-                    placeholder="أدخل اسمك"
-                  />
-                  <span class="input-group-text">
-                    <i class="fas fa-user"></i>
-                  </span>
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="phone" class="form-label">الهاتف</label>
-                <div class="input-group">
-                  <input
-                    type="tel"
-                    id="phone"
-                    formControlName="phone"
-                    class="form-control rou"
-                    placeholder="أدخل رقم هاتفك"
-                  />
-                  <span class="input-group-text">
-                    <i class="fas fa-phone"></i>
-                  </span>
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="email" class="form-label">البريد الإلكتروني</label>
-                <div class="input-group">
-                  <input
-                    type="email"
-                    id="email"
-                    formControlName="email"
-                    class="form-control rou"
-                    placeholder="أدخل بريدك الإلكتروني"
-                  />
-                  <span class="input-group-text">
-                    <i class="fas fa-envelope"></i>
-                  </span>
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="city" class="form-label">المدينة</label>
-                <div class="input-group">
-                  <input
-                    type="text"
-                    id="city"
-                    formControlName="city"
-                    class="form-control rou"
-                    placeholder="أدخل مدينتك"
-                  />
-                  <span class="input-group-text">
-                    <i class="fas fa-city"></i>
-                  </span>
-                </div>
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="carModel" class="form-label">طراز السيارة</label>
-                <input
-                  type="text"
-                  id="carModel"
-                  formControlName="carModel"
-                  class="form-control rou"
-                  placeholder="أدخل طراز سيارتك"
-                />
-              </div>
-
-              <div class="col-md-6 mb-3">
-                <label for="carBrand" class="form-label">علامة السيارة</label>
-                <input
-                  type="text"
-                  id="carBrand"
-                  formControlName="carBrand"
-                  class="form-control rou"
-                  placeholder="أدخل علامة سيارتك"
-                />
-              </div>
-
-              <div class="col-12 mb-3">
-                <label for="serviceType" class="form-label">نوع الخدمة</label>
-                <select
-                  id="serviceType"
-                  formControlName="serviceType"
-                  class="form-select"
-                >
-                  <option value="" disabled selected>حدد نوع الخدمة</option>
-                  <option *ngFor="let service of services" [value]="service">
-                    {{ service }}
-                  </option>
-                </select>
-              </div>
+            <h3 class="text-center mb-4">Request a Service</h3>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="full_name"
+                placeholder="الأسم"
+                required
+              />
             </div>
-
-            <button type="submit" class="btn btn-primary mt-3">إرسال</button>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="mobile"
+                placeholder="رقم التليفون"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="email"
+                formControlName="email"
+                placeholder="البريد الإلكترونى"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="number"
+                formControlName="client_16849336084508"
+                placeholder="Car models"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="client_16492512972331"
+                placeholder="Type Of Car"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="client_16858930300757"
+                placeholder="المدينة"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                class="form-control my-3"
+                type="text"
+                formControlName="client_17293620987926"
+                placeholder="نوع الخدمه"
+              />
+            </div>
+            <p class="text-danger" *ngIf="notValid">{{ notValid }}</p>
+            <p class="text-success" *ngIf="valid">{{ valid }}</p>
+            <div class="text-right">
+              <button class="btn btn-primary" type="submit">Submit</button>
+            </div>
           </form>
         </div>
       </div>

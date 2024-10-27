@@ -14,6 +14,7 @@ import { MainLayoutComponent } from './components/main-layout/main-layout.compon
 import { PrivacyComponent } from './components/privacy/privacy.component';
 import { ServicesComponent } from './components/services/services.component';
 import { Landing1ArComponent } from './components/landing-1-ar/landing-1-ar.component';
+import { ThanksComponent } from './components/thanks/thanks.component';
 
 const routes: Routes = [
   {
@@ -39,6 +40,7 @@ const routes: Routes = [
     children: [
       { path: 'offer', component: Landing1Component },
       { path: 'offer-ar', component: Landing1ArComponent },
+      { path: 'thanks', component: ThanksComponent },
     ],
   },
 ];
