@@ -26,7 +26,6 @@ export class ServicesComponent implements OnInit, AfterViewInit {
       next: (res) => {
         if (res) {
           setTimeout(function () {
-            console.log(document.getElementById(res));
             document
               .getElementById(res)
               ?.scrollIntoView({ behavior: 'smooth' });
