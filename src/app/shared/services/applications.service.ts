@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class ApplicationsService {
-  baseUrl = 'https://royal-shield.up.railway.app';
+  baseUrl = 'https://royal-shield-be-production.up.railway.app';
 
   constructor(private http: HttpClient) {}
 

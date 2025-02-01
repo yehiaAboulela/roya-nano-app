@@ -18,7 +18,6 @@ export class CareersComponent {
     address: ['', [Validators.required]],
     position: ['', [Validators.required]],
     coverLetter: ['', [Validators.required]],
-    cv: [null, [Validators.required]],
   });
   onFileSelected(event: any) {
     this.cv = event.target.files[0];
@@ -27,11 +26,10 @@ export class CareersComponent {
     if (this.applicantForm.valid && this.cv) {
       let finalform = new FormData();
       Object.keys(this.applicantForm.value).forEach((cur) => {
-        if (cur !== 'cv') {
-          finalform.append(cur, this.applicantForm.controls[cur].value);
-        }
+        finalform.append(cur, this.applicantForm.controls[cur].value);
       });
       finalform.append('application', this.cv);
+      console.log(finalform);
 
       this.appServ.postApplication(finalform).subscribe({
         next: (res) => {

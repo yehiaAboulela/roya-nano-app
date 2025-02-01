@@ -2,6 +2,7 @@ import { LanguageService } from './../../shared/services/language.service';
 import { Component, OnInit } from '@angular/core';
 import { BlogsService } from '../../shared/services/blogs.service';
 import { BlogItem } from '../../shared/interface/blog-item';
+import { TranslateService } from '../../shared/services/translate.service';
 
 @Component({
   selector: 'app-blog',
@@ -11,7 +12,8 @@ import { BlogItem } from '../../shared/interface/blog-item';
 export class BlogComponent implements OnInit {
   constructor(
     private BlogsService: BlogsService,
-    private LanguageService: LanguageService
+    private LanguageService: LanguageService,
+    private translate: TranslateService
   ) {}
   blogs: BlogItem[] = [];
   lang: string = 'en';

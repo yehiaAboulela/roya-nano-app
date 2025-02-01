@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { BlogsService } from '../../shared/services/blogs.service';
 import { ActivatedRoute } from '@angular/router';
 import { BlogItem } from '../../shared/interface/blog-item';
+import { TranslateService } from '../../shared/services/translate.service';
 
 @Component({
   selector: 'app-blog-details',
