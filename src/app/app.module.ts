@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { ReactiveFormsModule } from '@angular/forms';
 
+import { ToastrModule } from 'ngx-toastr';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -45,6 +46,8 @@ import { LandingLayoutComponent } from './components/landing-layout/landing-layo
 import { MainLayoutComponent } from './components/main-layout/main-layout.component';
 import { Landing1ArComponent } from './components/landing-1-ar/landing-1-ar.component';
 import { ThanksComponent } from './components/thanks/thanks.component';
+import { ConfirmationComponent } from './components/confirmation/confirmation.component';
+import { ThankYouComponent } from './components/thank-you/thank-you.component';
 
 @NgModule({
   declarations: [
@@ -86,6 +89,8 @@ import { ThanksComponent } from './components/thanks/thanks.component';
     MainLayoutComponent,
     Landing1ArComponent,
     ThanksComponent,
+    ConfirmationComponent,
+    ThankYouComponent,
   ],
   imports: [
     BrowserModule,
@@ -94,6 +99,7 @@ import { ThanksComponent } from './components/thanks/thanks.component';
     CarouselModule,
     NgOptimizedImage,
     ReactiveFormsModule,
+    ToastrModule.forRoot(),
   ],
   providers: [provideHttpClient()],
   bootstrap: [AppComponent],
