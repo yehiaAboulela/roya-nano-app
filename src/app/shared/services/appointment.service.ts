@@ -10,7 +10,7 @@ export class AppointmentService {
 
   bookAppointment(formData: any): Observable<any> {
     return this.http.post(
-      'https://royal-shield.up.railway.app/bookForm',
+      'https://royal-shield-be-production.up.railway.app/bookForm',
       formData
     );
   }

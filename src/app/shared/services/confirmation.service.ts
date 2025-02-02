@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class ConfirmationService {
   constructor(private http: HttpClient) {}
-  serverUrl: string = 'https://royal-shield.up.railway.app';
+  serverUrl: string = 'https://royal-shield-be-production.up.railway.app';
   // serverUrl: string = 'http://localhost:3000';
 
   warrantyActivation(warrantyForm: any): Observable<any> {

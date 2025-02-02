@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { ApplicationsService } from '../../shared/services/applications.service';
+import { ToastrService } from 'ngx-toastr';
 
 @Component({
   selector: 'app-careers',
@@ -9,7 +10,11 @@ import { ApplicationsService } from '../../shared/services/applications.service'
 })
 export class CareersComponent {
   cv: any = '';
-  constructor(private fb: FormBuilder, private appServ: ApplicationsService) {}
+  constructor(
+    private fb: FormBuilder,
+    private appServ: ApplicationsService,
+    private toaster: ToastrService
+  ) {}
   applicantForm: FormGroup = this.fb.group({
     name: ['', Validators.required],
     birthdate: ['', Validators.required],
@@ -18,7 +23,6 @@ export class CareersComponent {
     address: ['', [Validators.required]],
     position: ['', [Validators.required]],
     coverLetter: ['', [Validators.required]],
-    cv: [null, [Validators.required]],
   });
   onFileSelected(event: any) {
     this.cv = event.target.files[0];
@@ -27,15 +31,15 @@ export class CareersComponent {
     if (this.applicantForm.valid && this.cv) {
       let finalform = new FormData();
       Object.keys(this.applicantForm.value).forEach((cur) => {
-        if (cur !== 'cv') {
-          finalform.append(cur, this.applicantForm.controls[cur].value);
-        }
+        finalform.append(cur, this.applicantForm.controls[cur].value);
       });
       finalform.append('application', this.cv);
+      console.log(finalform);
 
       this.appServ.postApplication(finalform).subscribe({
         next: (res) => {
           console.log(res);
+          this.toaster.success('Thanks for being here', 'Success');
         },
       });
     }
