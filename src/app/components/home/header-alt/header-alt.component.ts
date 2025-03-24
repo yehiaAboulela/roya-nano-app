@@ -27,7 +27,6 @@ export class HeaderAltComponent implements OnInit, AfterViewInit {
   }
 
   ngAfterViewInit(): void {
-    // Ensure video starts playing after the view initializes
     const videoElement = this.bgVideo.nativeElement;
     videoElement.play(); // Plays the video
     videoElement.muted = true;

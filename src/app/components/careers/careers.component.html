@@ -3,6 +3,7 @@
     <div class="row g-3 align-items-center">
       <div class="col-lg-6">
         <div class="text">
+          @if (lang == "en") {
           <h1>Join Royal Nano Ceramic Team</h1>
           <h3 class="lead text-black-50 mb-3">
             Royal Nano Ceramic always ready to work with all potential caders
@@ -12,6 +13,19 @@
             class="btn btn-outline-dark rounded-pill px-4"
             >Apply Now</a
           >
+          } @else {
+
+          <h1>انضم إلى فريق رويال نانو سيراميك</h1>
+          <h3 class="lead text-black-50 mb-3">
+            رويال نانو سيراميك مستعد دائمًا للعمل مع جميع الكوادر المحتملة
+          </h3>
+          <a
+            (click)="scrollToForm()"
+            class="btn btn-outline-dark rounded-pill px-4"
+            >قدم الآن</a
+          >
+
+          }
         </div>
       </div>
       <div class="col-lg-6">
@@ -26,6 +40,7 @@
     <div class="card shadow">
       <div class="row justify-content-center">
         <div class="col-md-8">
+          @if (lang == 'en') {
           <h2 class="text-center mb-4">Applicant Form</h2>
           <form [formGroup]="applicantForm" (ngSubmit)="onSubmit()">
             <div class="row">
@@ -89,24 +104,50 @@
             </div>
 
             <div class="form-group mb-3">
-              <label for="position">Position Applied For</label>
+              <!-- <label for="position">Position Applied For</label>
               <input
                 type="text"
                 id="position"
                 formControlName="position"
                 class="form-control"
                 placeholder="Enter your position"
-              />
+              /> -->
               <!-- <select
-                id="position"
-                formControlName="position"
-                class="form-control"
-              >
-                <option value="">Select a position</option>
-                <option value="developer">Developer</option>
-                <option value="designer">Designer</option>
-                <option value="manager">Manager</option>
-              </select> -->
+                  id="position"
+                  formControlName="position"
+                  class="form-control"
+                >
+                  <option value="">Select a position</option>
+                  <option value="developer">Developer</option>
+                  <option value="designer">Designer</option>
+                  <option value="manager">Manager</option>
+                </select> -->
+              <label for="role">Select a Role</label>
+              <select id="role" class="form-control" formControlName="position">
+                <option value="">-- Select Position --</option>
+                <option value="sales-manager">Sales Manager</option>
+                <option value="tele-sales">Tele Sales</option>
+                <option value="tele-sales-leader">
+                  Tele Sales Team Leader
+                </option>
+                <option value="indoor-sales">
+                  Indoor Sales "Special Conditions"
+                </option>
+                <option value="outdoor-sales">
+                  Outdoor Sales "Special Conditions"
+                </option>
+                <option value="secretary">Secretary</option>
+                <option value="polish-nano-technician">
+                  Polish & Nano Technician
+                </option>
+                <option value="protection-technician">
+                  Protection Technician
+                </option>
+                <option value="assistant-training">Assistant / Training</option>
+                <option value="branch-manager-experienced">
+                  Experienced Branch Manager
+                </option>
+              </select>
             </div>
 
             <div class="form-group mb-4">
@@ -139,6 +180,141 @@
               Submit Application
             </button>
           </form>
+          } @else {
+          <h2 class="text-center mb-4">نموذج التقديم</h2>
+
+          <form [formGroup]="applicantForm" (ngSubmit)="onSubmit()">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group mb-3">
+                  <label for="name">الاسم الكامل</label>
+                  <input
+                    type="text"
+                    id="name"
+                    formControlName="name"
+                    class="form-control"
+                    placeholder="أدخل اسمك الكامل"
+                  />
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="form-group mb-3">
+                  <label for="birthdate">تاريخ الميلاد</label>
+                  <input
+                    type="date"
+                    id="birthdate"
+                    formControlName="birthdate"
+                    class="form-control"
+                  />
+                </div>
+              </div>
+            </div>
+
+            <div class="form-group mb-3">
+              <label for="email">البريد الإلكتروني</label>
+              <input
+                type="email"
+                id="email"
+                formControlName="email"
+                class="form-control"
+                placeholder="أدخل بريدك الإلكتروني"
+              />
+            </div>
+
+            <div class="form-group mb-3">
+              <label for="phone">رقم الهاتف</label>
+              <input
+                type="tel"
+                id="phone"
+                formControlName="phone"
+                class="form-control"
+                placeholder="أدخل رقم هاتفك"
+              />
+            </div>
+
+            <div class="form-group mb-3">
+              <label for="address">العنوان</label>
+              <input
+                type="text"
+                id="address"
+                formControlName="address"
+                class="form-control"
+                placeholder="أدخل عنوانك"
+              />
+            </div>
+
+            <div class="form-group mb-3">
+              <!-- <label for="position">الوظيفة المتقدم لها</label>
+              <input
+                type="text"
+                id="position"
+                formControlName="position"
+                class="form-control"
+                placeholder="أدخل الوظيفة المطلوبة"
+              /> -->
+              <!-- <select
+                  id="position"
+                  formControlName="position"
+                  class="form-control"
+                >
+                  <option value="">اختر الوظيفة</option>
+                  <option value="developer">مطور</option>
+                  <option value="designer">مصمم</option>
+                  <option value="manager">مدير</option>
+                </select> -->
+              <label for="role">اختر الوظيفة</label>
+              <select id="role" class="form-control" formControlName="position">
+                <option value="">-- اختر الوظيفة --</option>
+                <option value="sales-manager">مدير مبيعات</option>
+                <option value="tele-sales">تلي سيلز</option>
+                <option value="tele-sales-leader">تلي سيلز تيم ليدر</option>
+                <option value="indoor-sales">سيلز ان دور " شروط خاصه "</option>
+                <option value="outdoor-sales">
+                  سيلز اوت دور " شروط خاصه "
+                </option>
+                <option value="secretary">سكرتاريه</option>
+                <option value="polish-nano-technician">فني بوليش ونانو</option>
+                <option value="protection-technician">فني بروتيكشن</option>
+                <option value="assistant-training">مساعد / تدريب</option>
+                <option value="branch-manager-experienced">
+                  مدير فرع ذو خبره
+                </option>
+              </select>
+            </div>
+
+            <div class="form-group mb-4">
+              <label for="cv">تحميل السيرة الذاتية</label>
+              <input
+                type="file"
+                id="cv"
+                class="form-control"
+                formControlName="cv"
+                (change)="onFileSelected($event)"
+              />
+            </div>
+
+            <div class="form-group mb-4">
+              <label for="cover-letter">رسالة التغطية</label>
+              <textarea
+                id="cover-letter"
+                formControlName="coverLetter"
+                class="form-control"
+                rows="5"
+                placeholder="اكتب رسالة تغطية قصيرة"
+              ></textarea>
+            </div>
+
+            <button
+              type="submit"
+              class="btn btn-primary btn-block"
+              [disabled]="applicantForm.invalid"
+            >
+              إرسال الطلب
+            </button>
+          </form>
+
+          }
         </div>
       </div>
     </div>
