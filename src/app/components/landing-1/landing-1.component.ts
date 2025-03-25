@@ -6,18 +6,19 @@ declare var Fancybox: any;
 import { trigger, style, animate, transition } from '@angular/animations';
 import { Router } from '@angular/router';
 @Component({
-  selector: 'app-landing-1',
-  templateUrl: './landing-1.component.html',
-  styleUrl: './landing-1.component.css',
-  animations: [
-    trigger('fadeInOut', [
-      transition(':enter', [
-        style({ opacity: 0 }),
-        animate('300ms ease-in', style({ opacity: 1 })),
-      ]),
-      transition(':leave', [animate('300ms ease-out', style({ opacity: 0 }))]),
-    ]),
-  ],
+    selector: 'app-landing-1',
+    templateUrl: './landing-1.component.html',
+    styleUrl: './landing-1.component.css',
+    animations: [
+        trigger('fadeInOut', [
+            transition(':enter', [
+                style({ opacity: 0 }),
+                animate('300ms ease-in', style({ opacity: 1 })),
+            ]),
+            transition(':leave', [animate('300ms ease-out', style({ opacity: 0 }))]),
+        ]),
+    ],
+    standalone: false
 })
 export class Landing1Component {
   constructor(

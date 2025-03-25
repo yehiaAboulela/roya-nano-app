@@ -3,9 +3,10 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { AppointmentService } from '../../shared/services/appointment.service';
 
 @Component({
-  selector: 'app-book-appointment',
-  templateUrl: './book-appointment.component.html',
-  styleUrl: './book-appointment.component.css',
+    selector: 'app-book-appointment',
+    templateUrl: './book-appointment.component.html',
+    styleUrl: './book-appointment.component.css',
+    standalone: false
 })
 export class BookAppointmentComponent {
   constructor(

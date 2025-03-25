@@ -6,9 +6,10 @@ import { Router } from '@angular/router';
 declare var Fancybox: any;
 
 @Component({
-  selector: 'app-landing-1-ar',
-  templateUrl: './landing-1-ar.component.html',
-  styleUrl: './landing-1-ar.component.css',
+    selector: 'app-landing-1-ar',
+    templateUrl: './landing-1-ar.component.html',
+    styleUrl: './landing-1-ar.component.css',
+    standalone: false
 })
 export class Landing1ArComponent {
   constructor(

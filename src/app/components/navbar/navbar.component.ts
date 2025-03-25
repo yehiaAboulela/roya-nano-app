@@ -2,9 +2,10 @@ import { Component, OnInit, Renderer2 } from '@angular/core';
 import { LanguageService } from './../../shared/services/language.service';
 
 @Component({
-  selector: 'app-navbar',
-  templateUrl: './navbar.component.html',
-  styleUrl: './navbar.component.css',
+    selector: 'app-navbar',
+    templateUrl: './navbar.component.html',
+    styleUrl: './navbar.component.css',
+    standalone: false
 })
 export class NavbarComponent implements OnInit {
   constructor(

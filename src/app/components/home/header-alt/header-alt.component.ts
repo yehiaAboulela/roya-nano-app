@@ -8,9 +8,10 @@ import {
 import { LanguageService } from '../../../shared/services/language.service';
 
 @Component({
-  selector: 'app-header-alt',
-  templateUrl: './header-alt.component.html',
-  styleUrl: './header-alt.component.css',
+    selector: 'app-header-alt',
+    templateUrl: './header-alt.component.html',
+    styleUrl: './header-alt.component.css',
+    standalone: false
 })
 export class HeaderAltComponent implements OnInit, AfterViewInit {
   constructor(private LanguageService: LanguageService) {}

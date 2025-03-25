@@ -6,9 +6,10 @@ import { ToastrService } from 'ngx-toastr';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-confirmation',
-  templateUrl: './confirmation.component.html',
-  styleUrl: './confirmation.component.css',
+    selector: 'app-confirmation',
+    templateUrl: './confirmation.component.html',
+    styleUrl: './confirmation.component.css',
+    standalone: false
 })
 export class ConfirmationComponent {
   constructor(
