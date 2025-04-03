@@ -1,15 +1,19 @@
-import { Component } from '@angular/core';
+import { Component, Inject, LOCALE_ID } from '@angular/core';
 import { OwlOptions } from 'ngx-owl-carousel-o';
 import { LanguageService } from '../../../shared/services/language.service';
+import { tr } from 'intl-tel-input/i18n';
 
 @Component({
-    selector: 'app-image-slider',
-    templateUrl: './image-slider.component.html',
-    styleUrl: './image-slider.component.css',
-    standalone: false
+  selector: 'app-image-slider',
+  templateUrl: './image-slider.component.html',
+  styleUrl: './image-slider.component.css',
+  standalone: false,
 })
 export class ImageSliderComponent {
-  constructor(private LanguageService: LanguageService) {}
+  constructor(
+    private LanguageService: LanguageService,
+    @Inject(LOCALE_ID) public locale: string
+  ) {}
   lang: string = 'en';
   ngOnInit(): void {
     this.LanguageService.lang.subscribe({
@@ -17,6 +21,9 @@ export class ImageSliderComponent {
         this.lang = data;
       },
     });
+    if (this.locale == 'ar') {
+      this.customOptions.rtl = true;
+    }
   }
   customOptions: OwlOptions = {
     loop: true,

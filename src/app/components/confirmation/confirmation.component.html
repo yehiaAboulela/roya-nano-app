@@ -1,6 +1,6 @@
 <section class="py-5">
   <div class="container">
-    <h1 class="text-center">Service Confirmation</h1>
+    <h1 i18n class="text-center">Service Confirmation</h1>
     <hr />
 
     <form
@@ -11,6 +11,7 @@
       <div class="input-parent">
         <!-- <label for="name">Name:</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="text"
           id="name"
           placeholder="Your name"
@@ -25,12 +26,13 @@
               (warrantyForm.get('name')?.touched || nameInput.value.length > 0)
           }"
         >
-          <p>Name Should be at least 3 characters</p>
+          <p i18n>Name Should be at least 3 characters</p>
         </div>
       </div>
       <div class="input-parent">
         <!-- <label for="phone">Phone Number:</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="tel"
           id="phone"
           placeholder="Phone number"
@@ -46,21 +48,14 @@
                 phoneInput.value.length > 0)
           }"
         >
-          <p>
+          <p i18n>
             {{ getPhoneValidationMessage() }}
           </p>
         </div>
       </div>
       <div class="input-parent">
-        <!-- <label for="birthdate">Birth Date</label> -->
-        <!-- <p-calendar
-            type="date"
-            id="birthdate"
-            placeholder="Birthdate"
-            formControlName="birthdate"
-            styleClass="calender"
-          /> -->
         <input
+          i18n-placeholder="From placeholder"
           type="date"
           id="birthdate"
           placeholder="Birthdate"
@@ -75,12 +70,13 @@
               (warrantyForm.get('birthdate')?.touched || date.value.length > 0)
           }"
         >
-          <p>Required</p>
+          <p i18n>Required</p>
         </div>
       </div>
       <div class="input-parent">
         <!-- <label for="address">Address</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="text"
           id="address"
           placeholder="Your Address"
@@ -95,12 +91,13 @@
               (warrantyForm.get('address')?.touched || address.value.length > 0)
           }"
         >
-          <p>Address should be valid</p>
+          <p i18n>Address should be valid</p>
         </div>
       </div>
       <div class="input-parent">
         <!-- <label for="brand">Brand</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="text"
           id="brand"
           placeholder="Car brand"
@@ -115,12 +112,13 @@
               (warrantyForm.get('brand')?.touched || brand.value.length > 0)
           }"
         >
-          <p>Required</p>
+          <p i18n>Required</p>
         </div>
       </div>
       <div class="input-parent">
         <!-- <label for="model">Model</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="text"
           id="model"
           placeholder="Car model Ex: 2024"
@@ -135,12 +133,13 @@
               (warrantyForm.get('model')?.touched || model.value.length > 0)
           }"
         >
-          <p>Required and should be valid</p>
+          <p i18n>Required and should be valid</p>
         </div>
       </div>
       <div class="input-parent">
         <!-- <label for="color">Color</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="text"
           id="color"
           placeholder="Car color"
@@ -155,12 +154,13 @@
               (warrantyForm.get('color')?.touched || color.value.length > 0)
           }"
         >
-          <p>Required</p>
+          <p i18n>Required</p>
         </div>
       </div>
       <div class="input-parent">
         <!-- <label for="email">Email:</label> -->
         <input
+          i18n-placeholder="From placeholder"
           type="email"
           id="email"
           placeholder="Your Email"
@@ -175,13 +175,14 @@
               (warrantyForm.get('email')?.touched || email.value.length > 0)
           }"
         >
-          <p>Please enter a valid Email address</p>
+          <p i18n>Please enter a valid Email address</p>
         </div>
       </div>
 
       <div class="input-parent">
         <label for="customFile">Warranty Image</label>
         <input
+          i18n-placeholder="From placeholder"
           type="file"
           class="form-control"
           id="customFile"
@@ -196,11 +197,11 @@
               warrantyForm.get('image')?.touched
           }"
         >
-          <p>Required</p>
+          <p i18n>Required</p>
         </div>
       </div>
       <div>
-        <button class="btn-form" type="submit">
+        <button i18n class="btn-form" type="submit">
           Submit @if (loading) {
           <i class="fa-solid fa-spinner fa-spin ms-2"></i>
           }
@@ -217,7 +218,7 @@
   (click)="ownedByTab = false"
 >
   <div class="my-card">
-    <h3>Sorry this serial number owned by mr: {{ ownedBy.name }}</h3>
-    <h4>His phone number is ( ******** {{ ownedBy.phoneNumber }} )</h4>
+    <h3 i18n>Sorry this serial number owned by mr: {{ ownedBy.name }}</h3>
+    <h4 i18n>His phone number is ( ******** {{ ownedBy.phoneNumber }} )</h4>
   </div>
 </div>

@@ -1,67 +1,39 @@
 <section style="margin-top: 100px" class="service-product bg-white">
   <div class="container">
-    @if (lang == 'en') {
-    <h1 class="text-center" data-aos="zoom-in">Nano ceramic products</h1>
-    } @else {
-    <h1 class="text-center" data-aos="zoom-in">منتجات النانو سيراميك</h1>
-    }
+    <h1 i18n class="text-center" data-aos="zoom-in">Nano ceramic products</h1>
+
     <div class="divider my-4"></div>
     <div data-aos="fade-up">
       <owl-carousel-o [options]="customOptions" dir="ltr">
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
             <a routerLink="/book-appointment" class="overlay">
-              <h4>Book Now</h4>
+              <h4 i18n>Book Now</h4>
             </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
-                @if (lang === "en") {
-                <h2 class="mb-3">Daimond Hypred+</h2>
+                <h2 i18n class="mb-3">Daimond Hypred+</h2>
 
                 <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 7 years
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Hardness:</span> 9H+
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Elements:</span> Daimond
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
                 <a
+                  i18n
                   routerLink="/book-appointment"
                   class="btn btn-outline-dark d-block d-lg-none mb-3"
                   >Book Now</a
                 >
-
-                } @else {
-                <h2 class="mb-3">دايموند هايبرد بلس</h2>
-
-                <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الضمان:</span> 7 سنوات
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الصلابة:</span> 9H+
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">العناصر:</span> الألماس
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">بلد الصنع:</span> الولايات المتحدة
-                    الأمريكية
-                  </li>
-                </ul>
-                <a
-                  routerLink="/book-appointment"
-                  class="btn btn-outline-dark d-block d-lg-none mb-3"
-                  >احجز الآن</a
-                >
-                }
               </div>
             </div>
 
@@ -75,58 +47,32 @@
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
             <a routerLink="/book-appointment" class="overlay">
-              <h4>Book Now</h4>
+              <h4 i18n>Book Now</h4>
             </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
-                @if (lang === "en") {
-                <h2 class="mb-3">Daimond Hypred</h2>
+                <h2 i18n class="mb-3">Daimond Hypred</h2>
 
                 <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 5 years
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Hardness:</span> 9H
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Elements:</span> Daimond
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
                 <a
+                  i18n
                   routerLink="/book-appointment"
                   class="btn btn-outline-dark d-block d-lg-none mb-3"
                   >Book Now</a
                 >
-
-                } @else {
-                <h2 class="mb-3">دايموند هايبرد</h2>
-
-                <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الضمان:</span> 5 سنوات
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الصلابة:</span> 9H
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">العناصر:</span> الألماس
-                  </li>
-                  <a
-                    routerLink="/book-appointment"
-                    class="btn btn-outline-dark d-block d-lg-none mb-3"
-                    >احجز الآن</a
-                  >
-                </ul>
-                <a
-                  routerLink="/book-appointment"
-                  class="btn btn-outline-dark d-block d-lg-none mb-3"
-                  >Book Now</a
-                >
-                }
               </div>
             </div>
 
@@ -140,58 +86,34 @@
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
             <a routerLink="/book-appointment" class="overlay">
-              <h4>Book Now</h4>
+              <h4 i18n>Book Now</h4>
             </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
-                @if (lang === "en") {
-                <h2 class="mb-3">Ultra Nano Ceramic</h2>
+                <h2 i18n class="mb-3">Ultra Nano Ceramic</h2>
 
                 <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 7 years
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Hardness:</span> 9H
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Elements:</span>
                     Silicone/Polysilazine
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Country of manufacture:</span>
                     Germany
                   </li>
                 </ul>
                 <a
+                  i18n
                   routerLink="/book-appointment"
                   class="btn btn-outline-dark d-block d-lg-none mb-3"
                   >Book Now</a
                 >
-                } @else {
-                <h2 class="mb-3">الترا نانو سيراميك</h2>
-
-                <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الضمان:</span> 7 سنوات
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الصلابة:</span> 9H
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">العناصر:</span> سيليكون / بولي
-                    سيلازين
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">بلد الصنع:</span> المانيا
-                  </li>
-                </ul>
-                <a
-                  routerLink="/book-appointment"
-                  class="btn btn-outline-dark d-block d-lg-none mb-3"
-                  >احجز الآن</a
-                >
-                }
               </div>
             </div>
 
@@ -205,55 +127,31 @@
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
             <a routerLink="/book-appointment" class="overlay">
-              <h4>Book Now</h4>
+              <h4 i18n>Book Now</h4>
             </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
-                @if (lang === "en") {
-                <h1>Daimond N1</h1>
+                <h1 i18n>Daimond N1</h1>
                 <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 5 years
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Hardness:</span> 8H
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Elements:</span> diamond
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
                 <a
+                  i18n
                   routerLink="/book-appointment"
                   class="btn btn-outline-dark d-block d-lg-none mb-3"
                   >Book Now</a
                 >
-                } @else {
-                <h1>دايموند ان 1</h1>
-
-                <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الضمان:</span> 7 سنوات
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الصلابة:</span> 9H
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">العناصر:</span> دايموند
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">بلد المصنع:</span> الولايات المتحدة
-                    الأمريكية
-                  </li>
-                </ul>
-                <a
-                  routerLink="/book-appointment"
-                  class="btn btn-outline-dark d-block d-lg-none mb-3"
-                  >احجز الآن</a
-                >
-                }
               </div>
             </div>
 
@@ -267,56 +165,33 @@
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
             <a routerLink="/book-appointment" class="overlay">
-              <h4>Book Now</h4>
+              <h4 i18n>Book Now</h4>
             </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
-                @if (lang === "en") {
-                <h1>Nanolex</h1>
+                <h1 i18n>Nanolex</h1>
                 <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 7 years
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Hardness:</span> 8H
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Elements:</span>
                     Silicone/Polysilazine
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Country of manufacture:</span>
                     Germany
                   </li>
                 </ul>
                 <a
+                  i18n
                   routerLink="/book-appointment"
                   class="btn btn-outline-dark d-block d-lg-none mb-3"
                   >Book Now</a
                 >
-                } @else {
-                <h1>نانو ليكس</h1>
-
-                <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الضمان:</span> 7 سنوات
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الصلابة:</span> 8H
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">العناصر:</span> سيليكون/بوليسيلازين
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">بلد الصنع:</span> ألمانيا
-                  </li>
-                </ul>
-                <a
-                  routerLink="/book-appointment"
-                  class="btn btn-outline-dark d-block d-lg-none mb-3"
-                  >احجز الآن</a
-                >
-                }
               </div>
             </div>
 
@@ -330,54 +205,31 @@
         <ng-template carouselSlide>
           <div class="row g-3 align-items-center product-details">
             <a routerLink="/book-appointment" class="overlay">
-              <h4>Book Now</h4>
+              <h4 i18n>Book Now</h4>
             </a>
             <div class="col-lg-6 order-1 order-lg-0">
               <div class="p-lg-3">
-                @if (lang === "en") {
-                <h1>Nano system x</h1>
+                <h1 i18n>Nano system x</h1>
                 <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Warranty:</span> 5 years
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Hardness:</span> 8H
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Elements:</span> Diamond
                   </li>
-                  <li class="mb-2 ms-2">
+                  <li i18n class="mb-2 ms-2">
                     <span class="fw-medium">Country of manufacture:</span> USA
                   </li>
                 </ul>
                 <a
+                  i18n
                   routerLink="/book-appointment"
                   class="btn btn-outline-dark d-block d-lg-none mb-3"
                   >Book Now</a
                 >
-                } @else {
-                <h1>نانو سيستم اكس</h1>
-
-                <ul class="list-unstyled lead">
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الضمان:</span> 7 سنوات
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">الصلابة:</span> 8H
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">العناصر:</span> سيليكون/بوليسيلازين
-                  </li>
-                  <li class="mb-2 ms-2">
-                    <span class="fw-medium">بلد الصنع:</span> ألمانيا
-                  </li>
-                </ul>
-                <a
-                  routerLink="/book-appointment"
-                  class="btn btn-outline-dark d-block d-lg-none mb-3"
-                  >احجز الآن</a
-                >
-                }
               </div>
             </div>
 
@@ -450,13 +302,10 @@
       </a>
     </section>
     <section class="mt-5">
-      @if(lang == 'en'){
       <div class="my-5 pt-3 mb-3">
-        <h4 class="h2">See the Difference</h4>
+        <h4 i18n class="h2">See the Difference</h4>
       </div>
-      } @else {
-      <h4 class="my-5 pt-3 mb-5">اكتشف الفرق بنفسك</h4>
-      }
+
       <div data-aos="fade-left">
         <div class="slider-wrapper">
           <img-comparison-slider>

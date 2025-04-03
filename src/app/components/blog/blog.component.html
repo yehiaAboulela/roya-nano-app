@@ -1,6 +1,6 @@
 <section>
   <div class="container-fluid">
-    @if (lang == 'en') {
+    @if (locale == 'en-US') {
     <div class="intro">
       <h1 data-aos="fade-right">The latest and greatest from our team</h1>
       <p data-aos="fade-left">
@@ -20,7 +20,7 @@
     }
 
     <div class="blogs pb-5">
-      @if (lang === 'en') {
+      @if (locale === 'en-US') {
       <div class="row g-1">
         @for (blog of blogs; track $index) {
         <div class="col-lg-4 col-sm-6" data-aos="fade-up">

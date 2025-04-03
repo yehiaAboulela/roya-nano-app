@@ -1,37 +1,32 @@
-import { Component, OnInit, Renderer2 } from '@angular/core';
-import { LanguageService } from './../../shared/services/language.service';
+import { Component, Inject, LOCALE_ID, OnInit } from '@angular/core';
+import { Router, NavigationEnd, ActivatedRoute } from '@angular/router';
 
 @Component({
-    selector: 'app-navbar',
-    templateUrl: './navbar.component.html',
-    styleUrl: './navbar.component.css',
-    standalone: false
+  selector: 'app-navbar',
+  templateUrl: './navbar.component.html',
+  styleUrl: './navbar.component.css',
+  standalone: false,
 })
 export class NavbarComponent implements OnInit {
-  constructor(
-    private renderer: Renderer2,
-    private LanguageService: LanguageService
-  ) {}
-  lang: string = '';
   nav: boolean = false;
-  isNavbarHidden = false;
+  constructor(
+    private router: Router,
+    @Inject(LOCALE_ID) public locale: string
+  ) {}
 
   ngOnInit() {
-    this.LanguageService.lang.subscribe({
-      next: (lang) => {
-        this.lang = lang;
-      },
-    });
+    console.log(this.router.url);
   }
 
-  changeLang(userLang: string) {
-    this.LanguageService.lang.next(userLang);
-    localStorage.setItem('lang', this.lang);
+  changeLang() {
+    const currentUrl = window.location.pathname;
+    const newLocale = this.locale === 'ar' ? 'en-US' : 'ar';
 
-    this.renderer.removeClass(document.body, 'lang-en');
-    this.renderer.removeClass(document.body, 'lang-ar');
+    // Ensure the correct language folder is used
+    const updatedUrl = currentUrl.replace(/^\/(ar|en-US)/, `/${newLocale}`);
 
-    this.renderer.addClass(document.body, `lang-${userLang}`);
+    // Redirect to the correct language version
+    window.location.href = window.location.origin + updatedUrl;
   }
 
   closeMinu() {

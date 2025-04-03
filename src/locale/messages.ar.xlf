@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="6852660509290172644" datatype="html">
+        <source>Why Royal Nano</source>
+        <target>لماذا رويال نانو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1661641836361934999" datatype="html">
+        <source>Fast and efficient solutions for your car needs.</source>
+        <target>حلول سريعة وفعالة لاحتياجات سيارتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">75,76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3031050159078277419" datatype="html">
+        <source> We provide cutting-edge technology that ensures speed and reliability, helping your business stay ahead in a competitive market. </source>
+        <target>نوفر تكنولوجيا حديثة تضمن السرعة والموثوقية، مما يساعد عملك على التميز في سوق تنافسي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">77,78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7126452619827165388" datatype="html">
+        <source> Innovative leadership that inspires progress and growth. </source>
+        <target>قيادة مبتكرة تُلهم التقدم والنمو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="680836025312802118" datatype="html">
+        <source> Our forward-thinking leadership drives innovation, fostering a culture of continuous improvement and development. </source>
+        <target>قيادتنا ذات الرؤية المستقبلية تحفز الابتكار وتعزز ثقافة التحسين والتطوير المستمر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">94,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1236044299383744781" datatype="html">
+        <source>24/7 customer support to assist you whenever needed.</source>
+        <target>دعم عملاء على مدار الساعة لمساعدتك متى احتجت</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3098321838499881600" datatype="html">
+        <source> Our dedicated team is always available, providing expert guidance and support to ensure your satisfaction around the clock. </source>
+        <target>فريقنا المتفاني متاح دائمًا لتقديم التوجيهات الخبيرة والدعم لضمان رضاك على مدار الساعة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">104,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6599190879778899767" datatype="html">
+        <source> Committed to sustainability and eco-friendly practices. </source>
+        <target>ملتزمون بالممارسات المستدامة والصديقة للبيئة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1432144408775633025" datatype="html">
+        <source> We prioritize eco-conscious practices, ensuring our operations are sustainable and contribute to a greener future. </source>
+        <target>نولي أولوية للممارسات الواعية بالبيئة، مما يضمن أن عملياتنا مستدامة وتساهم في مستقبل أكثر اخضرارًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
+          <context context-type="linenumber">117,118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="942464650521990421" datatype="html">
+        <source>Nermin Maher</source>
+        <target>نرمين ماهر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="933524971027819962" datatype="html">
+        <source> Their service is absolutely amazing! My car looks brand new again thanks to Royal Nano Ceramic protection. The team is incredibly professional. </source>
+        <target>خدماتهم مذهلة تمامًا! سيارتي تبدو جديدة مرة أخرى بفضل حماية رويال نانو للسيراميك. الفريق محترف للغاية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5784227530503014732" datatype="html">
+        <source>Ahmad rezk</source>
+        <target>أحمد رزق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2760763146993353732" datatype="html">
+        <source> There are no words to describe the service they provided at Royal Nano Ceramic. The protection is excellent, and my car looks brand new </source>
+        <target>لا توجد كلمات لوصف الخدمة التي قدموها في رويال نانو للسيراميك. الحماية ممتازة، وتبدو سيارتي جديدة تمامًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7779139149331830372" datatype="html">
+        <source>Maha ahmad</source>
+        <target>مها أحمد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3672164287957283825" datatype="html">
+        <source> Royal Nano Ceramic is the perfect place to protect your car. The result was beyond amazing, and I&apos;m very happy </source>
+        <target>رويال نانو للسيراميك هو المكان المثالي لحماية سيارتك. النتائج كانت رائعة للغاية، وأنا سعيد جدًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8040048241797975774" datatype="html">
+        <source>Mohamed nagaty</source>
+        <target>محمد نجاتي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3994675397170514351" datatype="html">
+        <source> Truly, the best car protection you can find is at Royal Nano Ceramic. Your car comes out looking completely transformed </source>
+        <target>حقًا، أفضل حماية للسيارة تجدها في رويال نانو للسيراميك. سيارتك تخرج بمظهر مختلف تمامًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4687845422213047050" datatype="html">
+        <source>Hesham Ismael</source>
+        <target>هشام إسماعيل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3302204839209748927" datatype="html">
+        <source> You won’t find a better place to protect your car’s paint than Royal Nano Ceramic. Their service is top-notch and high-quality </source>
+        <target>لن تجد مكانًا أفضل لحماية طلاء سيارتك من رويال نانو للسيراميك. خدماتهم عالية الجودة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3655473997383609816" datatype="html">
+        <source>Ghada Ibrahim</source>
+        <target>غادة إبراهيم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3861557828182819218" datatype="html">
+        <source> If you want to keep your car shining all the time, Royal Nano Ceramic is the solution. I’m extremely satisfied with the results </source>
+        <target>إذا كنت تريد الحفاظ على لمعان سيارتك دائمًا، رويال نانو للسيراميك هو الحل. أنا راضٍ تمامًا عن النتائج</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">84,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4664722392854177517" datatype="html">
+        <source>Mahmoud hafez</source>
+        <target>محمود حافظ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">96,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1731851465543852363" datatype="html">
+        <source> Honestly, excellent service and quality I haven’t seen anywhere else. My car is now protected and looks great </source>
+        <target>بصراحة، خدمة وجودة ممتازة لم أراها في أي مكان آخر. سيارتي الآن محمية وتبدو رائعة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">98,99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="636053421989500216" datatype="html">
+        <source>Enas elnagar</source>
+        <target>إيناس النجار</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">110,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4846141108772817813" datatype="html">
+        <source> Royal Nano Ceramic truly takes care of every detail of your car. I see a big difference in my car’s protection after using their services </source>
+        <target>رويال نانو للسيراميك يعتني حقًا بكل تفاصيل سيارتك. لاحظت فرقًا كبيرًا في حماية سيارتي بعد استخدام خدماتهم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2931685208137237879" datatype="html">
+        <source>Emad Rashad</source>
+        <target>عماد رشاد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">125,126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7152902405382019827" datatype="html">
+        <source> The best protection and the most advanced technology for your car can be found at Royal Nano Ceramic. It was a wonderful experience </source>
+        <target>أفضل حماية وأحدث تكنولوجيا لسيارتك تجدها في رويال نانو للسيراميك. كانت تجربة رائعة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">127,128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8291313821318957122" datatype="html">
+        <source>Ahmad salama</source>
+        <target>أحمد سلامة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">139,140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2036660814764377825" datatype="html">
+        <source> Amazing service! My car is completely safe with Royal Nano Ceramic. Thanks to them for their professionalism </source>
+        <target>خدمة رائعة! سيارتي آمنة تمامًا مع رويال نانو للسيراميك. شكرًا لهم على احترافيتهم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
+          <context context-type="linenumber">141,142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1195769664128136150" datatype="html">
+        <source>Our Storie</source>
+        <target>قصتنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7037560597443295461" datatype="html">
+        <source>2015<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>05/10<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>٢٠١٥<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>١٠/٠٥<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8135424811731380401" datatype="html">
+        <source>Company Launch</source>
+        <target>إطلاق الشركة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1612780617366889525" datatype="html">
+        <source> Royal Nano Ceramic was established in 2015, offering top-quality ceramic coatings and car protection solutions for vehicles. </source>
+        <target>تأسست رويال نانو للسيراميك في ٢٠١٥، لتقديم طلاءات سيراميك عالية الجودة وحلول حماية السيارات.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1826215573205981970" datatype="html">
+        <source>Company</source>
+        <target>الشركة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">95,96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3693833693528068322" datatype="html">
+        <source>Launch</source>
+        <target>الإطلاق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7756341777164302811" datatype="html">
+        <source>2017<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>15/03<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>٢٠١٧<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>٠٣/١٥<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2430112539061398693" datatype="html">
+        <source>New Services Introduced</source>
+        <target>إطلاق خدمات جديدة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2350248470959919162" datatype="html">
+        <source> Introduced a wide range of car detailing and paint protection services, including advanced nano-ceramic coatings. </source>
+        <target>أطلقنا مجموعة واسعة من خدمات تنظيف السيارات وحماية الطلاء، بما في ذلك طلاءات النانو-سيراميك المتطورة.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7143579180750436311" datatype="html">
+        <source>Services</source>
+        <target>الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">101,102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7731851299634437408" datatype="html">
+        <source>Innovation</source>
+        <target>الابتكار</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">113,114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="87228196829796267" datatype="html">
+        <source>2018<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>27/07<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>٢٠١٨<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>٠٧/٢٧<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">38,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8184284491220238868" datatype="html">
+        <source>Product Enhancement</source>
+        <target>تحسين المنتج</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7685920614290989519" datatype="html">
+        <source> Launched a new generation of high-performance ceramic coatings, improving durability, UV protection, and gloss finish. </source>
+        <target>أطلقنا جيلًا جديدًا من طلاءات السيراميك عالية الأداء، مع تحسين المتانة وحماية من الأشعة فوق البنفسجية ولمعة نهائية.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6707361102856436710" datatype="html">
+        <source>Products</source>
+        <target>المنتجات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">48,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1978890109023138576" datatype="html">
+        <source>Ceramic Coating</source>
+        <target>الطلاء السيراميكي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">49,50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3405385337171046735" datatype="html">
+        <source>2020<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>12/01<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>٢٠٢٠<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>٠١/١٢<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1290493122131531198" datatype="html">
+        <source>Expanding Market Presence</source>
+        <target>التوسع في التواجد بالسوق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8640549264333977068" datatype="html">
+        <source> Opened new service centers across major cities in Egypt, enhancing accessibility for car owners seeking premium protection services. </source>
+        <target>افتتحنا مراكز خدمة جديدة في المدن الكبرى بمصر، مما يعزز إمكانية الوصول لأصحاب السيارات الباحثين عن خدمات حماية فاخرة.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3827690775404747213" datatype="html">
+        <source>Expansion</source>
+        <target>التوسع</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6868005546929781039" datatype="html">
+        <source>Growth</source>
+        <target>النمو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="837757733898639704" datatype="html">
+        <source>2022<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>19/08<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>٢٠٢٢<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>٠٨/١٩<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6378624245172067961" datatype="html">
+        <source>Customer Milestone</source>
+        <target>معلم عملائي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8177260819609844630" datatype="html">
+        <source> Reached over 10,000 satisfied customers, solidifying our reputation as a trusted provider of car protection solutions. </source>
+        <target>وصلنا إلى أكثر من ١٠٬٠٠٠ عميل راضٍ، مما عزز سمعة كموفر موثوق لحلول حماية السيارات.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">76,77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8634025124141616528" datatype="html">
+        <source>Customers</source>
+        <target>العملاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">80,81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4648900870671159218" datatype="html">
+        <source>Success</source>
+        <target>النجاح</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">81,82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1856852675686756404" datatype="html">
+        <source>2023<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>08/05<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>٢٠٢٣<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>٠٥/٠٨<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3689471206886516953" datatype="html">
+        <source>Award Recognition</source>
+        <target>تكريم وجوائز</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5747027838736679516" datatype="html">
+        <source> Royal Nano Ceramic received the Best Car Protection Product Award for excellence in ceramic coating technology. </source>
+        <target> حصلت Royal Nano Ceramic على جائزة أفضل منتج لحماية السيارات للتميز في تكنولوجيا طلاء السيراميك. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">92,93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5466085200395052815" datatype="html">
+        <source>Awards</source>
+        <target>الجوائز</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">96,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3662317303703031243" datatype="html">
+        <source>Recognition</source>
+        <target>تقدير</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9173803447973386051" datatype="html">
+        <source>2023<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>22/11<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <target>2023<x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>22/11<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="264720793957072228" datatype="html">
+        <source>Future Vision</source>
+        <target>رؤية مستقبلية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">106,107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7062357568548724879" datatype="html">
+        <source> Announced plans for regional expansion and introduction of new eco-friendly car care products in 2024. </source>
+        <target> أعلنت عن خطط للتوسع الإقليمي وإطلاق منتجات جديدة صديقة للبيئة للعناية بالسيارات في عام 2024. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">108,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6079899339671559272" datatype="html">
+        <source>Future</source>
+        <target>مستقبل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/timline/timline.component.html</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6055273957777135040" datatype="html">
+        <source>Behind Royal Nano</source>
+        <target>خلف رويال نانو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/word-about-us/word-about-us.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6348956890238210919" datatype="html">
+        <source> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti itaque vitae, optio veniam eum quasi! Ipsa voluptates eius aliquam inventore, nemo molestias accusantium dolore corrupti perspiciatis numquam omnis dolorum voluptate. </source>
+        <target> لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أدايبا إيليت. كورروبتي إيتاكي فيتاي، أوبتييو فينيام إيوم كوازاي! إيبسا فولوبتياس إيوس ألِكام إنفينتوري، نيمو مولِستيس أكيوسانتوم دولوري كورروبتي بيرسبيكاتيس نونكام أومنيس دولوروم فولوبتي. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/word-about-us/word-about-us.component.html</context>
+          <context context-type="linenumber">6,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9122526875502786013" datatype="html">
+        <source>heading</source>
+        <target>عنوان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/word-about-us/word-about-us.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/word-about-us/word-about-us.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7016258534228384539" datatype="html">
+        <source> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, ea. </source>
+        <target> لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أدايبا إيليت. إيلو، إيا. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/word-about-us/word-about-us.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/word-about-us/word-about-us.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="643511603922236880" datatype="html">
+        <source>Book Appointment</source>
+        <target>حجز موعد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7208472278107739834" datatype="html">
+        <source>Join Royal Nano Ceramic Team</source>
+        <target>انضم إلى فريق رويال نانو سيراميك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4831883518626494012" datatype="html">
+        <source> Royal Nano Ceramic always ready to work with all potential caders </source>
+        <target> رويال نانو سيراميك مستعدة دائمًا للعمل مع جميع الكوادر المحتملة </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2896009139461541940" datatype="html">
+        <source>Apply Now</source>
+        <target>قدم الآن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6959497441009812685" datatype="html">
+        <source>Full Name</source>
+        <target>الاسم الكامل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5268165571303113726" datatype="html">
+        <source>Enter your full name</source>
+        <target>أدخل اسمك الكامل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">42,44</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="4868165456937548663" datatype="html">
+        <source>Birthdate</source>
+        <target>تاريخ الميلاد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">49,50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4768749765465246664" datatype="html">
+        <source>Email</source>
+        <target>البريد الإلكتروني</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="203827529942340818" datatype="html">
+        <source>Enter your email</source>
+        <target>أدخل بريدك الإلكتروني</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">69,71</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="8194554728555410336" datatype="html">
+        <source>Phone Number</source>
+        <target>رقم الهاتف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7706403908694679278" datatype="html">
+        <source>Enter your phone number</source>
+        <target>أدخل رقم هاتفك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">81,83</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="6304432362546770951" datatype="html">
+        <source>Address</source>
+        <target>العنوان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4665600283516531962" datatype="html">
+        <source>Enter your address</source>
+        <target>أدخل عنوانك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">93,95</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="817778189124147015" datatype="html">
+        <source>Select a Role</source>
+        <target>اختر وظيفة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">98,99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3529073387130344472" datatype="html">
+        <source>-- Select Position --</source>
+        <target>-- اختر المنصب --</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">100,101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4947978414433055050" datatype="html">
+        <source>Sales Manager</source>
+        <target>مدير مبيعات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">101,102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6877207199784501263" datatype="html">
+        <source>Tele Sales</source>
+        <target>مبيعات هاتفية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="176228239972970074" datatype="html">
+        <source> Tele Sales Team Leader </source>
+        <target> قائد فريق المبيعات الهاتفية </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5088891293745492620" datatype="html">
+        <source> Indoor Sales &quot;Special Conditions&quot; </source>
+        <target> مبيعات داخلية &quot;شروط خاصة&quot; </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6981637479896180911" datatype="html">
+        <source> Outdoor Sales &quot;Special Conditions&quot; </source>
+        <target> مبيعات خارجية &quot;شروط خاصة&quot; </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3720646989220793512" datatype="html">
+        <source>Secretary</source>
+        <target>سكرتير</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8690005621531233539" datatype="html">
+        <source> Polish &amp; Nano Technician </source>
+        <target> فني تلميع وتقنية النانو </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4685044627958722208" datatype="html">
+        <source> Protection Technician </source>
+        <target> فني حماية </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="504330639061699884" datatype="html">
+        <source> Assistant / Training </source>
+        <target> مساعد / تدريب </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7424228744472323476" datatype="html">
+        <source> Experienced Branch Manager </source>
+        <target> مدير فرع ذو خبرة </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="429876424599236141" datatype="html">
+        <source>Upload CV</source>
+        <target>تحميل السيرة الذاتية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">129,130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7461596370372884263" datatype="html">
+        <source>Cover Letter</source>
+        <target>رسالة تعريفية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="108978253704973626" datatype="html">
+        <source>Write a short cover letter</source>
+        <target>اكتب رسالة تعريفية قصيرة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">147,149</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="4853735152413991653" datatype="html">
+        <source> Submit Application </source>
+        <target> إرسال الطلب </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8588273269492066470" datatype="html">
+        <source>Service Confirmation</source>
+        <target>تأكيد الخدمة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8203367621031610680" datatype="html">
+        <source>Your name</source>
+        <target>اسمك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="4342066952538314909" datatype="html">
+        <source>Name Should be at least 3 characters</source>
+        <target>يجب أن يكون الاسم 3 أحرف على الأقل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8121141462865337916" datatype="html">
+        <source>Phone number</source>
+        <target>رقم الهاتف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">38,39</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="7708270344948043036" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{ getPhoneValidationMessage() }}"/> </source>
+        <target> <x id="INTERPOLATION" equiv-text="{{ getPhoneValidationMessage() }}"/> </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">52,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7045123878111147511" datatype="html">
+        <source>Required</source>
+        <target>مطلوب</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">73,74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">115,116</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">157,158</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">200,201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6660971973775422786" datatype="html">
+        <source>Your Address</source>
+        <target>عنوانك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="3725922624178453113" datatype="html">
+        <source>Address should be valid</source>
+        <target>يجب أن يكون العنوان صالحًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">94,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4419663547400001807" datatype="html">
+        <source>Car brand</source>
+        <target>ماركة السيارة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">103,104</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="6370178352791091688" datatype="html">
+        <source>Car model Ex: 2024</source>
+        <target>موديل السيارة مثال: 2024</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">124,125</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="1490127193994683629" datatype="html">
+        <source>Required and should be valid</source>
+        <target>مطلوب ويجب أن يكون صالحًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">136,137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4851825365833311801" datatype="html">
+        <source>Car color</source>
+        <target>لون السيارة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">145,146</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="204562474612147063" datatype="html">
+        <source>Your Email</source>
+        <target>بريدك الإلكتروني</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">166,167</context>
+        </context-group>
+        <note priority="1" from="description">From placeholder</note>
+      </trans-unit>
+      <trans-unit id="7194488915499714106" datatype="html">
+        <source>Please enter a valid Email address</source>
+        <target>يرجى إدخال عنوان بريد إلكتروني صالح</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">178,179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3333237161615371263" datatype="html">
+        <source> Submit <x id="START_BLOCK_IF" equiv-text="@if (loading) {"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fa-solid fa-spinner fa-spin ms-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></source>
+        <target> إرسال <x id="START_BLOCK_IF" equiv-text="@if (loading) {"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fa-solid fa-spinner fa-spin ms-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">205,208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6868158029569746848" datatype="html">
+        <source>Sorry this serial number owned by mr: <x id="INTERPOLATION" equiv-text="{{ ownedBy.name }}"/></source>
+        <target>عذرًا، رقم السيريال هذا مملوك للسيد: <x id="INTERPOLATION" equiv-text="{{ ownedBy.name }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">221,222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9084691136552054290" datatype="html">
+        <source>His phone number is ( ******** <x id="INTERPOLATION" equiv-text="{{ ownedBy.phoneNumber }}"/> )</source>
+        <target>رقم هاتفه هو ( ******** <x id="INTERPOLATION" equiv-text="{{ ownedBy.phoneNumber }}"/> )</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">222,224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5063295649720964221" datatype="html">
+        <source>How can we help you?</source>
+        <target>كيف يمكننا مساعدتك؟</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8525213662266893834" datatype="html">
+        <source>Contact us</source>
+        <target>اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="948575642262424078" datatype="html">
+        <source> We’re here to help and answer any questions you might have. We look forward to hearing from you! </source>
+        <target> نحن هنا لمساعدتك والإجابة على أي أسئلة قد تكون لديك. نتطلع إلى الاستماع منك! </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1188128630867569488" datatype="html">
+        <source>tanta</source>
+        <target>طنطا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7595860134767058667" datatype="html">
+        <source>october</source>
+        <target>أكتوبر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">47,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8128769268589694026" datatype="html">
+        <source>madenetNasr</source>
+        <target>مدينة نصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4556904018647457967" datatype="html">
+        <source>zayed</source>
+        <target>زايد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="171355056963962105" datatype="html">
+        <source>madenetNasr2</source>
+        <target>مدينة نصر 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3347063823057833811" datatype="html">
+        <source>Mohandessin</source>
+        <target>المهندسين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">59,60</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5751837399183873228" datatype="html">
+        <source>Alexandria</source>
+        <target>الإسكندرية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8940143193961589305" datatype="html">
+        <source>Sohag</source>
+        <target>سوهاج</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="162741652550964736" datatype="html">
+        <source>Hurghada</source>
+        <target>الغردقة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="931418778965716997" datatype="html">
+        <source>Mansoura</source>
+        <target>المنصورة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6947677402398745052" datatype="html">
+        <source>Zagazig</source>
+        <target>الزقازيق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">66,67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2189186493421979914" datatype="html">
+        <source>Ismailia</source>
+        <target>الإسماعيلية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="657584873009779890" datatype="html">
+        <source>Port Said</source>
+        <target>بورسعيد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2322737603527301551" datatype="html">
+        <source>Suez</source>
+        <target>السويس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7297100168914826475" datatype="html">
+        <source>Minya</source>
+        <target>المنيا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1969507589301669003" datatype="html">
+        <source>Assiut</source>
+        <target>أسيوط</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="66889124423938629" datatype="html">
+        <source>Follow Us</source>
+        <target>تابعنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">52,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5736481176444461852" datatype="html">
+        <source>About Us</source>
+        <target>من نحن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">98,99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>اتصال</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">104,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5779770381601735038" datatype="html">
+        <source>Careers</source>
+        <target>وظائف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">107,108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8439955599488894226" datatype="html">
+        <source>Privacy Policy</source>
+        <target>سياسة الخصوصية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">110,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1491482705364427867" datatype="html">
+        <source>October</source>
+        <target>أكتوبر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6597053208448801145" datatype="html">
+        <source>Nasr City</source>
+        <target>مدينة نصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6133045561781039902" datatype="html">
+        <source>Sheikh Zayed</source>
+        <target>الشيخ زايد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3003034100896459294" datatype="html">
+        <source>Tanta</source>
+        <target>طنطا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6404477247085751415" datatype="html">
+        <source>See All</source>
+        <target>رؤية الكل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1083565702041981952" datatype="html">
+        <source>Reach out!</source>
+        <target>تواصل معنا!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">148,149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4275828010487769739" datatype="html">
+        <source> Royal Nano Ceramic is a leading car protection company in Egypt, offering advanced nano ceramic coatings to protect and enhance vehicle exteriors. They specialize in paint protection, scratch resistance, and hydrophobic coatings, ensuring cars remain in top condition. </source>
+        <target> شركة رويال نانو سيراميك هي شركة رائدة في مجال حماية السيارات في مصر، تقدم طبقات طلاء نانو سيراميك متطورة لحماية وتعزيز المظهر الخارجي للسيارات. وهي متخصصة في حماية الطلاء، ومقاومة الخدوش، والطلاءات الطاردة للماء، مما يضمن بقاء السيارات في أفضل حالة. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">165,168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2170252531606587595" datatype="html">
+        <source>Flexible Services</source>
+        <target>خدمات مرنة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4990396628725853958" datatype="html">
+        <source>Smart solutions for all your charter requirements</source>
+        <target>حلول ذكية لجميع متطلباتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3806316663476105366" datatype="html">
+        <source>All Solutions</source>
+        <target>جميع الحلول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3698381901456908770" datatype="html">
+        <source>Your reliable Partners</source>
+        <target>شركاؤك الموثوق بهم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2501489806101473286" datatype="html">
+        <source>About us</source>
+        <target>من نحن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6471147749378455673" datatype="html">
+        <source>Always There to help you</source>
+        <target>موجودون دائمًا لمساعدتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="759687838251957893" datatype="html">
+        <source>Contact Us</source>
+        <target>اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2528096422941893231" datatype="html">
+        <source>Premium Ceramic Coating</source>
+        <target>طلاء سيراميك فاخر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4818621715397669522" datatype="html">
+        <source> Royal Nano provides top-quality ceramic coating for ultimate car protection and longevity. </source>
+        <target> توفر Royal Nano طلاء سيراميك عالي الجودة لحماية السيارة وطول عمرها. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2312339680124113585" datatype="html">
+        <source>Advanced Car Protection</source>
+        <target>حماية متطورة للسيارات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7667685874033410515" datatype="html">
+        <source> At Royal Nano, we specialize in innovative solutions to keep your vehicle looking new for years. </source>
+        <target> في Royal Nano، نحن متخصصون في الحلول المبتكرة للحفاظ على مظهر سيارتك جديدًا لسنوات. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2322737603527301551" datatype="html">
+        <source>Suez</source>
+        <target>السويس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7297100168914826475" datatype="html">
+        <source>Minya</source>
+        <target>المنيا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1969507589301669003" datatype="html">
+        <source>Assiut</source>
+        <target>أسيوط</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="66889124423938629" datatype="html">
+        <source>Follow Us</source>
+        <target>تابعنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">52,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5736481176444461852" datatype="html">
+        <source>About Us</source>
+        <target>من نحن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">98,99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>اتصال</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">104,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5779770381601735038" datatype="html">
+        <source>Careers</source>
+        <target>وظائف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">107,108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8439955599488894226" datatype="html">
+        <source>Privacy Policy</source>
+        <target>سياسة الخصوصية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">110,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1491482705364427867" datatype="html">
+        <source>October</source>
+        <target>أكتوبر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6597053208448801145" datatype="html">
+        <source>Nasr City</source>
+        <target>مدينة نصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6133045561781039902" datatype="html">
+        <source>Sheikh Zayed</source>
+        <target>الشيخ زايد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3003034100896459294" datatype="html">
+        <source>Tanta</source>
+        <target>طنطا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6404477247085751415" datatype="html">
+        <source>See All</source>
+        <target>رؤية الكل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1083565702041981952" datatype="html">
+        <source>Reach out!</source>
+        <target>تواصل معنا!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">148,149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4275828010487769739" datatype="html">
+        <source> Royal Nano Ceramic is a leading car protection company in Egypt, offering advanced nano ceramic coatings to protect and enhance vehicle exteriors. They specialize in paint protection, scratch resistance, and hydrophobic coatings, ensuring cars remain in top condition. </source>
+        <target> شركة رويال نانو سيراميك هي شركة رائدة في مجال حماية السيارات في مصر، تقدم طبقات طلاء نانو سيراميك متطورة لحماية وتعزيز المظهر الخارجي للسيارات. وهي متخصصة في حماية الطلاء، ومقاومة الخدوش، والطلاءات الطاردة للماء، مما يضمن بقاء السيارات في أفضل حالة. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">165,168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2170252531606587595" datatype="html">
+        <source>Flexible Services</source>
+        <target>خدمات مرنة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4990396628725853958" datatype="html">
+        <source>Smart solutions for all your charter requirements</source>
+        <target>حلول ذكية لجميع متطلباتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3806316663476105366" datatype="html">
+        <source>All Solutions</source>
+        <target>جميع الحلول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3698381901456908770" datatype="html">
+        <source>Your reliable Partners</source>
+        <target>شركاؤك الموثوق بهم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2501489806101473286" datatype="html">
+        <source>About us</source>
+        <target>من نحن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6471147749378455673" datatype="html">
+        <source>Always There to help you</source>
+        <target>موجودون دائمًا لمساعدتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="759687838251957893" datatype="html">
+        <source>Contact Us</source>
+        <target>اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/about-sec/about-sec.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2528096422941893231" datatype="html">
+        <source>Premium Ceramic Coating</source>
+        <target>طلاء سيراميك فاخر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4818621715397669522" datatype="html">
+        <source> Royal Nano provides top-quality ceramic coating for ultimate car protection and longevity. </source>
+        <target> توفر Royal Nano طلاء سيراميك عالي الجودة لحماية السيارة وطول عمرها. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2312339680124113585" datatype="html">
+        <source>Advanced Car Protection</source>
+        <target>حماية متطورة للسيارات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7667685874033410515" datatype="html">
+        <source> At Royal Nano, we specialize in innovative solutions to keep your vehicle looking new for years. </source>
+        <target> في Royal Nano، نحن متخصصون في الحلول المبتكرة للحفاظ على مظهر سيارتك جديدًا لسنوات. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5468909769430292204" datatype="html">
+        <source>Graphene Hybrid Plus</source>
+        <target>جرافين هايبرد بلس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5047001880951760158" datatype="html">
+        <source>Nano Graphene</source>
+        <target>نانو جرافين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="237752201240435110" datatype="html">
+        <source>Max Pro</source>
+        <target>ماكس برو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="108407889007561360" datatype="html">
+        <source>Paint Protection</source>
+        <target>حماية الطلاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="262421045138115235" datatype="html">
+        <source>Shield UltraCool</source>
+        <target>شيلد ألترا كول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1043813839486593713" datatype="html">
+        <source>Thermal Insulation</source>
+        <target>عزل حراري</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7890737707662468692" datatype="html">
+        <source> OUR SOLUTIONS </source>
+        <target> حلولنا </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5403053455172369217" datatype="html">
+        <source> Royal Nano Ceramic offers advanced protection services for vehicles, aircraft, boats, and motorcycles in Egypt. Using the best international materials and modern nano-ceramic technologies, the company ensures top-level protection and quality, delivering a unique experience that makes them the leading choice in the market. </source>
+        <target> تقدم شركة رويال نانو سيراميك خدمات حماية متطورة للسيارات والطائرات والقوارب والدراجات النارية في مصر. باستخدام أفضل المواد العالمية وأحدث تقنيات النانو-سيراميك، تضمن الشركة أعلى مستوى من الحماية والجودة، وتقدم تجربة فريدة تجعلها الخيار الرائد في السوق. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">25,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1983923552742956473" datatype="html">
+        <source>Luxury Car Protection</source>
+        <target>حماية السيارات الفاخرة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7109579006490004491" datatype="html">
+        <source> Our ceramic coating ensures long-lasting protection for luxury vehicles, preserving their shine and guarding against scratches and environmental damage. </source>
+        <target> يضمن طلاء السيراميك الخاص بنا حماية طويلة الأمد للسيارات الفاخرة، مما يحافظ على لمعانها ويحميها من الخدوش والأضرار البيئية. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1041894054433526752" datatype="html">
+        <source>Aircraft Protection</source>
+        <target>حماية الطائرات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3617350946334813623" datatype="html">
+        <source> We provide nano technology coatings that protect aircraft from UV damage and corrosion, keeping them in excellent condition over time. </source>
+        <target> نحن نقدم طلاءات بتقنية النانو تحمي الطائرات من أضرار الأشعة فوق البنفسجية والتآكل، مما يحافظ عليها في حالة ممتازة بمرور الوقت. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">52,53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2266196910562662892" datatype="html">
+        <source>Yacht Protection</source>
+        <target>حماية اليخوت</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3778660290473485959" datatype="html">
+        <source> Our nano coatings offer protection against saltwater and UV rays, helping to maintain the yacht&apos;s appearance and durability. </source>
+        <target> توفر طلاءات النانو الخاصة بنا حماية ضد المياه المالحة والأشعة فوق البنفسجية، مما يساعد في الحفاظ على مظهر ومتانة اليخت. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">63,64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="128778686140214499" datatype="html">
+        <source>Motorcycle Protection</source>
+        <target>حماية الدراجات النارية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7982683393632271793" datatype="html">
+        <source> Specialized nano coatings protect motorcycles from scratches and wear, ensuring they remain in great condition across various environments. </source>
+        <target> تحمي طلاءات النانو المتخصصة الدراجات النارية من الخدوش والتآكل، مما يضمن بقائها في حالة ممتازة في مختلف البيئات. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
+          <context context-type="linenumber">73,74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8364309938383915497" datatype="html">
+        <source> Home </source>
+        <target> الصفحة الرئيسية </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8197921676324803850" datatype="html">
+        <source> About </source>
+        <target> عنا </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1752396967771808140" datatype="html">
+        <source> Services </source>
+        <target> الخدمات </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4959727169550005200" datatype="html">
+        <source> Blog </source>
+        <target> المدونة </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5128552843387412538" datatype="html">
+        <source> Gallery </source>
+        <target> معرض الصور </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8478716983552743608" datatype="html">
+        <source> Contact </source>
+        <target> اتصل </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3619072420435355697" datatype="html">
+        <source> Privacy and Usage Policy </source>
+        <target> سياسة الخصوصية والاستخدام </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="613273725986626426" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-info-circle&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Introduction</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-info-circle&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> مقدمة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3756931756924099935" datatype="html">
+        <source> Welcome to the Royal Nano Ceramic website. We are committed to protecting your privacy and ensuring the best possible experience with our services. This policy explains how we collect, use, and protect your personal information, along with the terms of use for our services. </source>
+        <target> مرحبًا بكم في موقع رويال نانو سيراميك. نحن ملتزمون بحماية خصوصيتك وضمان أفضل تجربة ممكنة مع خدماتنا. توضح هذه السياسة كيفية جمعنا لمعلوماتك الشخصية واستخدامها وحمايتها، إلى جانب شروط استخدام خدماتنا. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">10,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1494501560403479436" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-user-shield&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Collection and Use of Information </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-user-shield&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> جمع واستخدام المعلومات </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">19,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8557995982112551628" datatype="html">
+        <source>We may collect the following information:</source>
+        <target>قد نقوم بجمع المعلومات التالية:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2384550776452093351" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Personal Information:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Your name, email, phone number, and billing address. </source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>المعلومات الشخصية:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> اسمك، بريدك الإلكتروني، رقم هاتفك، وعنوان إرسال الفواتير. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4187005448758248021" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Vehicle Information:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Make, model, and year, to customize our services. </source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>معلومات السيارة:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> الصنع، الموديل، والسنة، لتخصيص خدماتنا. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5354967453868321959" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Usage Data:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> IP addresses and browsing behavior. </source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>بيانات الاستخدام:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> عناوين IP وسلوك التصفح. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8826295017896797627" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-cogs&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Use of Information</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-cogs&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> استخدام المعلومات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">38,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6295724051965294401" datatype="html">
+        <source>We use the information for the following purposes:</source>
+        <target>نستخدم المعلومات للأغراض التالية:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2760967195880657863" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Service Delivery:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> To process orders and perform car protection services. </source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>تقديم الخدمة:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> لمعالجة الطلبات وتقديم خدمات حماية السيارات. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">42,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8623366871151596051" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Customer Support:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> To respond to inquiries and improve services. </source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>دعم العملاء:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> للرد على الاستفسارات وتحسين الخدمات. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">46,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9162296793321657207" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Communication:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> To send updates on services or offers. </source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>التواصل:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> لإرسال التحديثات حول الخدمات أو العروض. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">50,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5191350520978884083" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-lock&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Protection of Information</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-lock&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> حماية المعلومات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9196747917032707050" datatype="html">
+        <source> We take necessary steps to protect your personal information. However, please note that no method of transmission over the internet is completely secure. </source>
+        <target> نتخذ الخطوات اللازمة لحماية معلوماتك الشخصية. ومع ذلك، يرجى ملاحظة أنه لا توجد طريقة نقل عبر الإنترنت آمنة تمامًا. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">58,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8408218695106953844" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check-circle&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Service Warranty</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check-circle&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> ضمان الخدمة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7080666949126616014" datatype="html">
+        <source> Royal Nano Ceramic offers a certified warranty on all car paint protection services, covering issues related to quality or application. </source>
+        <target> تقدم شركة رويال نانو سيراميك ضمانًا معتمدًا على جميع خدمات حماية طلاء السيارات، ويغطي المشكلات المتعلقة بالجودة أو التطبيق. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2150370298132969759" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-dollar-sign&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Refund Policy</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-dollar-sign&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> سياسة الاسترداد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">73,74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8093918560473172103" datatype="html">
+        <source> Once the protective coating application is completed, the agreement is final. No refunds are offered post-service, as we ensure the highest quality protection for your vehicle. </source>
+        <target> بمجرد الانتهاء من تطبيق الطلاء الواقي، يكون الاتفاق نهائيًا. لا يتم تقديم أي مبالغ مستردة بعد الخدمة، حيث نضمن أعلى جودة للحماية لمركبتك. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">75,77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3357590803866292325" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-globe&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Website Usage</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-globe&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> استخدام الموقع</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="981373114913631090" datatype="html">
+        <source> By using our website, you agree to our terms. Violations may lead to suspension of access. </source>
+        <target> باستخدامك لموقعنا، فإنك توافق على شروطنا. قد تؤدي الانتهاكات إلى تعليق الوصول. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">84,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7244298252124832734" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-cookie-bite&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Cookies</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-cookie-bite&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> ملفات تعريف الارتباط (الكوكيز)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6553481773027376753" datatype="html">
+        <source> We use cookies to enhance your experience on our website. You can manage cookie settings through your browser. </source>
+        <target> نستخدم ملفات تعريف الارتباط لتحسين تجربتك على موقعنا. يمكنك إدارة إعدادات ملفات تعريف الارتباط من خلال متصفحك. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">92,93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8709999438573140044" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-share-alt&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Sharing Information with Third Parties </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-share-alt&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> مشاركة المعلومات مع أطراف ثالثة </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">99,101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="150310582724903518" datatype="html">
+        <source> Your personal information is not shared with third parties, except as required for service delivery or by law. </source>
+        <target> لا تتم مشاركة معلوماتك الشخصية مع أطراف ثالثة، إلا إذا كان ذلك مطلوبًا لتقديم الخدمة أو بموجب القانون. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5278762970058890736" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-user-tag&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Your Rights</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-user-tag&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> حقوقك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">108,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3297467822816723569" datatype="html">
+        <source> You can access, modify, or request deletion of your personal information at any time. </source>
+        <target> يمكنك الوصول إلى معلوماتك الشخصية أو تعديلها أو طلب حذفها في أي وقت. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">110,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6927087563541527839" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-sync-alt&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Changes to the Policy</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-sync-alt&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> التغييرات في السياسة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">116,117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6002799544981940665" datatype="html">
+        <source> We may update this policy occasionally. Any changes will be posted here. </source>
+        <target> قد نقوم بتحديث هذه السياسة من حين لآخر. سيتم نشر أي تغييرات هنا. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">118,119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9219216547954529268" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-envelope&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Contact Us</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-envelope&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">123,124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5082172186488437389" datatype="html">
+        <source>For inquiries, please contact us:</source>
+        <target>للاستفسارات، يرجى الاتصال بنا:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">124,125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6974944913889188773" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Email:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> contact@royalnanoceramic.com</source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>البريد الإلكتروني:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> contact@royalnanoceramic.com</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">126,127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="627298899589022319" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Phone:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> +20 103 2222 542</source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>الهاتف:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> +20 103 2222 542</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/privacy/privacy.component.html</context>
+          <context context-type="linenumber">127,129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8213820883593471043" datatype="html">
+        <source>Nano ceramic products</source>
+        <target>منتجات النانو سيراميك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4511087526996953426" datatype="html">
+        <source>Book Now</source>
+        <target>احجز الآن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">115,116</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">130,131</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">153,154</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">168,169</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">193,194</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">208,209</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">231,232</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">81,82</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">100,101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">125,126</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">144,145</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">167,168</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">186,187</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">209,210</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">228,229</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">252,253</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">130,131</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">145,146</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">162,163</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">177,178</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">195,196</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">210,211</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">227,228</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">242,243</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">260,261</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">275,276</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">292,293</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">130,131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8323925033111836395" datatype="html">
+        <source>Daimond Hypred+</source>
+        <target>دايموند هايبرد+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">15,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3322290330136640352" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Warranty:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 7 years </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الضمان:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 7 سنوات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">175,176</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">152,153</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1417951867029984547" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 9H+ </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الصلابة:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 9H+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5193954026108994307" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Daimond </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> دايموند</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8493033674592346701" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Country of manufacture:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> USA </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>بلد المنشأ:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> الولايات المتحدة الأمريكية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">146,147</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">224,225</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">160,161</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">202,203</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">123,124</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">155,156</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">220,221</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">285,286</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">123,124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1667048143789050947" datatype="html">
+        <source>Daimond Hypred</source>
+        <target>دايموند هايبرد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">54,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1156568633197236682" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Warranty:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 5 years </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الضمان:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 5 سنوات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">137,138</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">215,216</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">282,283</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4916692437179893030" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 9H </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الصلابة:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 9H</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">100,101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">111,112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1571501604582901966" datatype="html">
+        <source>Ultra Nano Ceramic</source>
+        <target>الترا نانو سيراميك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">93,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2158833266986629230" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Silicone/Polysilazine </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> سيليكون/بوليسيلزين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">103,104</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">181,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7181290575691674807" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Country of manufacture:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Germany </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>بلد المنشأ:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ألمانيا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">107,108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">185,186</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">117,118</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">244,245</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">252,253</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1152346554851284100" datatype="html">
+        <source>Daimond N1</source>
+        <target>دايموند N1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">134,135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6553784837454877305" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 8H </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الصلابة:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 8H</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">178,179</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">218,219</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">196,197</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">238,239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2915818151511866919" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> diamond </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> الماس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">143,144</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="4090117725794650535" datatype="html">
+        <source>Nanolex</source>
+        <target>نانولكس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">172,173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="363679448978356864" datatype="html">
+        <source>Nano system x</source>
+        <target>نانو سيستم اكس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">212,213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2812722074754865753" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Diamond </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> الماس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">221,222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6911731422842365058" datatype="html">
+        <source>See the Difference</source>
+        <target>شاهد الفرق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
+          <context context-type="linenumber">306,307</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">335,336</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">363,364</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6386217202035090490" datatype="html">
+        <source>Nano graphene products</source>
+        <target>منتجات نانو جرافين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3075820426973227604" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Warranty:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 12 years </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الضمان:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 12 سنة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">235,236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="71589260285315328" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 10h+ </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الصلابة:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 10h+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">23,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7814072438576735103" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 98% carbon fiber </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 98% ألياف كربون</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4487311068942613467" datatype="html">
+        <source>Graphene Hybrid</source>
+        <target>جرافين هايبرد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">61,63</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="6147175901740778559" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Warranty:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 10 years </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الضمان:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 10 سنوات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">108,109</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">151,152</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">193,194</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">87,88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">120,121</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">184,185</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">217,218</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">249,250</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1842436710430399499" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 85% carbon fiber </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 85% ألياف كربون</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5248899521670532727" datatype="html">
+        <source>Graphene Pro</source>
+        <target>جرافين برو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">104,106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5885061093437326510" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 70% carbon fiber </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 70% ألياف كربون</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">114,115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3170220674144679831" datatype="html">
+        <source>Graphene pro</source>
+        <target>جرافين برو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">148,149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2625848488844299857" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 8H+ </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>الصلابة:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 8H+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">154,155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3187594103225779276" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 65% carbon fiber </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العناصر:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 65% ألياف كربون</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">157,158</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">199,200</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">241,242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4752389207842996515" datatype="html">
+        <source>Adms graphene</source>
+        <target>أدمنس جرافين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">190,191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3632712288568816605" datatype="html">
+        <source>Graphene nanolex</source>
+        <target>جرافين نانولكس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
+          <context context-type="linenumber">232,233</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6156491953747832062" datatype="html">
+        <source> Paint Protection Film Products </source>
+        <target>منتجات فيلم حماية الطلاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2255317122326368260" datatype="html">
+        <source>Dyno Stick</source>
+        <target>دينو ستيك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">50,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1177535357950884196" datatype="html">
+        <source>Expel Ultimate</source>
+        <target>اكسبيل التيميت</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">83,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7787175778238351581" datatype="html">
+        <source>3m Scotchgard</source>
+        <target>3m سكوتش جارد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">116,118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2378572602800732170" datatype="html">
+        <source>Elegance Guard</source>
+        <target>إليجانس جارد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">149,150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3752296528373757639" datatype="html">
+        <source> Number <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;light-blue&quot;&gt;"/>#1<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> car protection service in egypt </source>
+        <target>الخدمة رقم <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;light-blue&quot;&gt;"/>#1<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> لحماية السيارات في مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header/header.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8193037124664149374" datatype="html">
+        <source> Protect your vehicle with Royal Nano&apos;s #1 nano-ceramic coatings, hybrid technologies, and premium paint films. </source>
+        <target>احمِ سيارتك مع طبقات النانو سيراميك رقم 1 من رويال نانو، والتقنيات الهجينة، وأفلام الطلاء المميزة.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header/header.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9063344890262493319" datatype="html">
+        <source>Our Services</source>
+        <target>خدماتنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8287487668846072762" datatype="html">
+        <source>Diamond Hybrid Plus</source>
+        <target>دايموند هايبرد بلس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7344202945465326414" datatype="html">
+        <source>Nano ceramic</source>
+        <target>نانو سيراميك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/products/products.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9122372546089737804" datatype="html">
+        <source>Available Everywhere</source>
+        <target>متوفر في كل مكان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6355369786439809786" datatype="html">
+        <source>Damietta, Damietta Governorate, Egypt</source>
+        <target>دمياط، محافظة دمياط، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6956740880944463071" datatype="html">
+        <source>Asyut, Asyut Governorate, Egypt</source>
+        <target>أسيوط، محافظة أسيوط، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8491548282530489077" datatype="html">
+        <source> Alexandria, Alexandria Governorate, Egypt </source>
+        <target>الإسكندرية، محافظة الإسكندرية، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2893488562552593825" datatype="html">
+        <source> 6 October City, Giza Governorate, Egypt </source>
+        <target>مدينة 6 أكتوبر، محافظة الجيزة، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5062990304024759971" datatype="html">
+        <source>Tanta, Gharbia Governorate, Egypt</source>
+        <target>طنطا، محافظة الغربية، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8516698461404353876" datatype="html">
+        <source>Nasr City, Cairo Governorate, Egypt</source>
+        <target>مدينة نصر، محافظة القاهرة، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4820921428670627629" datatype="html">
+        <source> El Haram, Beni Suef Governorate, Egypt </source>
+        <target>الهرم، محافظة بني سويف، مصر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6022933185943410701" datatype="html">
+        <source> Royal Nano is available everywhere across Egypt with a wide network of branches. Our strategically located branches ensure that no matter where you are, you have access to our premium car protection services. Each branch is staffed with highly trained professionals ready to deliver the best in nano-ceramic coatings, paint protection films, and more. We’re committed to making it convenient for you to keep your car looking its best, no matter your location </source>
+        <target>رويال نانو متوفرة في كل مكان في جميع أنحاء مصر بشبكة واسعة من الفروع. تضمن فروعنا ذات المواقع الإستراتيجية أنه بغض النظر عن مكان تواجدك، يمكنك الوصول إلى خدماتنا المتميزة لحماية السيارات. كل فرع يعمل به محترفون مدربون تدريباً عالياً على استعداد لتقديم الأفضل في طلاءات النانو سيراميك، وأفلام حماية الطلاء، والمزيد. نحن ملتزمون بتسهيل الأمر عليك للحفاظ على مظهر سيارتك في أفضل حالاتها، بغض النظر عن موقعك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/location-sec/location-sec.component.html</context>
+          <context context-type="linenumber">33,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8848050608688174405" datatype="html">
+        <source>Professional Ceramic Services</source>
+        <target>خدمات السيراميك الاحترافية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1070496396620114294" datatype="html">
+        <source> Enhance your vehicle&apos;s durability and shine with Royal Nano’s expert ceramic coating services. </source>
+        <target>عزز متانة ولمعان سيارتك مع خدمات طلاء السيراميك الخبيرة من رويال نانو.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4452427314943113135" datatype="html">
+        <source>Previous</source>
+        <target>السابق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">59,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3885497195825665706" datatype="html">
+        <source>Next</source>
+        <target>التالي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/carousel-sec/carousel-sec.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3765835873792936646" datatype="html">
+        <source> What Are Waiting for?</source>
+        <target>ماذا تنتظر؟</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/home-outro-sec/home-outro-sec.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4933847786406283813" datatype="html">
+        <source> Protect Your Car Now </source>
+        <target>احمِ سيارتك الآن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/home-outro-sec/home-outro-sec.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1318589902889288682" datatype="html">
+        <source>Royal</source>
+        <target>رويال</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="238641271998486913" datatype="html">
+        <source>Nano Ceramic</source>
+        <target>نانو سيراميك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4309105356318546853" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-gold&quot;&gt;"/>Royal<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Nano Ceramic </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-gold&quot;&gt;"/>رويال<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> نانو سيراميك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7172676343466374069" datatype="html">
+        <source>Protect your car</source>
+        <target>احمِ سيارتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6324038831492112652" datatype="html">
+        <source>Royal Nano</source>
+        <target>رويال نانو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header/header.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3186987504214614240" datatype="html">
+        <source>Hexes</source>
+        <target>هيكسس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">181,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="738296228620809473" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Country of manufacture:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> France </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>بلد المنشأ:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> فرنسا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">187,188</context>
+        </context-group>
+      </trans-unit>
+<trans-unit id="3617139833272034737" datatype="html">
+        <source>Premium 8</source>
+        <target>بريميوم 8</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">214,215</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5464571870139969075" datatype="html">
+        <source>PRO VISION</source>
+        <target>برو فيجن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">246,247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6462689587158427825" datatype="html">
+        <source>Professional Shield</source>
+        <target>بروفيشنال شيلد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
+          <context context-type="linenumber">279,280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6056869280007253103" datatype="html">
+        <source> Thermal isulation Products </source>
+        <target>منتجات العزل الحراري</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2504442901750878409" datatype="html">
+        <source>Shield Solar Guard</source>
+        <target>شيلد سولار جارد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4548148597259273622" datatype="html">
+        <source>Shield Ultra Cool</source>
+        <target>شيلد ألترا كول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">50,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4147885636770518930" datatype="html">
+        <source>3m crystalline</source>
+        <target>3m كريستالاين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">83,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7074951691079213087" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Life expectancy:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 3 years </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العمر الافتراضي:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 3 سنوات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">87,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6110848022183004242" datatype="html">
+        <source>uv400 films</source>
+        <target>أفلام uv400</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">116,118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="502345281663966170" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Life expectancy:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 1 year </source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>العمر الافتراضي:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> سنة واحدة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
+          <context context-type="linenumber">120,121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3927530562026845922" datatype="html">
+        <source>Thank You!</source>
+        <target>شكراً لك!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/thank-you/thank-you.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/thanks/thanks.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8268745349717922048" datatype="html">
+        <source>please go to nearest branch to receive your gift</source>
+        <target>يرجى الذهاب إلى أقرب فرع لاستلام هديتك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/thank-you/thank-you.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6220061776295222544" datatype="html">
+        <source>Return Home</source>
+        <target>العودة للصفحة الرئيسية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/thank-you/thank-you.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/thanks/thanks.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6714445123155292423" datatype="html">
+        <source>Your submission has been received. We will get back to you soon.</source>
+        <target>تم استلام طلبك. سنعاود التواصل معك قريباً.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/thanks/thanks.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

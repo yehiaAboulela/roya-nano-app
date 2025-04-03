@@ -61,6 +61,14 @@
             ]
           },
           "configurations": {
+            "en-US": {
+              "localize": ["en-US"],
+              "outputPath": "dist/royal-nano/en-US"
+            },
+            "ar": {
+              "localize": ["ar"],
+              "outputPath": "dist/royal-nano/ar"
+            },
             "production": {
               "budgets": [
                 {
@@ -92,6 +100,12 @@
             },
             "development": {
               "buildTarget": "royal-nano:build:development"
+            },
+            "en-US": {
+              "buildTarget": "royal-nano:build:en-US"
+            },
+            "ar": {
+              "buildTarget": "royal-nano:build:ar"
             }
           },
           "defaultConfiguration": "development"

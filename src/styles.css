@@ -76,22 +76,21 @@ a {
   transition: 0.5s;
 }
 /* rtl */
-.lang-ar {
-  direction: rtl;
+html[lang="ar"] {
   font-family: "Cairo", sans-serif;
 }
 
-.lang-ar .outro-text::before {
+html[lang="ar"] .outro-text::before {
   bottom: -8px;
 }
 
-.lang-ar .list-unstyled {
+html[lang="ar"] .list-unstyled {
   padding-right: 0;
 }
-.lang-ar .product-details {
+html[lang="ar"] .product-details {
   direction: rtl;
 }
-.lang-ar .logo-trns {
+html[lang="ar"] .logo-trns {
   left: auto;
   right: -10%;
 }
