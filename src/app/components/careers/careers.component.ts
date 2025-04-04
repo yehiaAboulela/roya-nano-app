@@ -5,10 +5,10 @@ import { ToastrService } from 'ngx-toastr';
 import { LanguageService } from '../../shared/services/language.service';
 
 @Component({
-    selector: 'app-careers',
-    templateUrl: './careers.component.html',
-    styleUrl: './careers.component.css',
-    standalone: false
+  selector: 'app-careers',
+  templateUrl: './careers.component.html',
+  styleUrl: './careers.component.css',
+  standalone: false,
 })
 export class CareersComponent implements OnInit {
   cv: any = '';
@@ -45,11 +45,9 @@ export class CareersComponent implements OnInit {
         finalform.append(cur, this.applicantForm.controls[cur].value);
       });
       finalform.append('application', this.cv);
-      console.log(finalform);
 
       this.appServ.postApplication(finalform).subscribe({
         next: (res) => {
-          console.log(res);
           this.toaster.success('Thanks for being here', 'Success');
         },
       });

@@ -1,22 +1,24 @@
-import { LanguageService } from './../../shared/services/language.service';
-import { Component } from '@angular/core';
+import { isPlatformServer } from '@angular/common';
+import { Component, Inject, LOCALE_ID, PLATFORM_ID } from '@angular/core';
+import { Meta, Title } from '@angular/platform-browser';
 
 @Component({
-    selector: 'app-contact',
-    templateUrl: './contact.component.html',
-    styleUrl: './contact.component.css',
-    standalone: false
+  selector: 'app-contact',
+  templateUrl: './contact.component.html',
+  styleUrl: './contact.component.css',
+  standalone: false,
 })
 export class ContactComponent {
-  constructor(private LanguageService: LanguageService) {}
-  lang: string = 'en';
-
+  constructor(
+    @Inject(LOCALE_ID) public locale: string,
+    private titleService: Title,
+    private metaService: Meta,
+    @Inject(PLATFORM_ID) private platformId: Object
+  ) {}
   ngOnInit(): void {
-    this.LanguageService.lang.subscribe({
-      next: (data) => {
-        this.lang = data;
-      },
-    });
+    if (isPlatformServer(this.platformId)) {
+      this.updateMetaTagsAndTitle();
+    }
   }
   locations: any = {
     tanta:
@@ -35,5 +37,71 @@ export class ContactComponent {
 
   changeLocation(src: string) {
     this.curLocation = this.locations[src];
+  }
+
+  updateMetaTagsAndTitle() {
+    if (this.locale === 'en-US') {
+      // English version meta tags for Contact Us Page
+      this.titleService.setTitle(
+        'Contact Royal Nano - Best Car Protection in Egypt | Cairo, Alexandria, Tanta, October'
+      );
+
+      this.metaService.updateTag({
+        name: 'description',
+        content:
+          'Contact Royal Nano today for the best car protection services in Egypt. Locations in Cairo, Alexandria, Tanta, and October. Expert car detailing and nano protection services.',
+      });
+      this.metaService.updateTag({
+        name: 'keywords',
+        content:
+          'Contact Royal Nano, best car protection Egypt, car detailing Cairo, Alexandria, Tanta, October, nano protection Egypt',
+      });
+      this.metaService.updateTag({ name: 'robots', content: 'index, follow' });
+      this.metaService.updateTag({
+        property: 'og:title',
+        content:
+          'Contact Royal Nano - Best Car Protection in Egypt | Cairo, Alexandria, Tanta, October',
+      });
+      this.metaService.updateTag({
+        property: 'og:description',
+        content:
+          'Get in touch with Royal Nano for top-tier car protection services in Cairo, Alexandria, Tanta, and October. Nano technology car detailing at its best in Egypt.',
+      });
+      this.metaService.updateTag({
+        property: 'og:location',
+        content: 'Cairo, Alexandria, Tanta, October, Egypt',
+      });
+    } else {
+      // Arabic version meta tags for Contact Us Page
+      this.titleService.setTitle(
+        'اتصل برويال نانو - أفضل حماية للسيارات في مصر | القاهرة، الإسكندرية، طنطا، أكتوبر'
+      );
+
+      this.metaService.updateTag({
+        name: 'description',
+        content:
+          'اتصل برويال نانو اليوم للحصول على أفضل خدمات حماية السيارات في مصر. لدينا فروع في القاهرة، الإسكندرية، طنطا، وأكتوبر. خدمات حماية السيارات بتقنية النانو.',
+      });
+      this.metaService.updateTag({
+        name: 'keywords',
+        content:
+          'اتصل برويال نانو, أفضل حماية للسيارات في مصر, تفصيل السيارات القاهرة, الإسكندرية, طنطا, أكتوبر, حماية السيارات بتقنية النانو',
+      });
+      this.metaService.updateTag({ name: 'robots', content: 'index, follow' });
+      this.metaService.updateTag({
+        property: 'og:title',
+        content:
+          'اتصل برويال نانو - أفضل حماية للسيارات في مصر | القاهرة، الإسكندرية، طنطا، أكتوبر',
+      });
+      this.metaService.updateTag({
+        property: 'og:description',
+        content:
+          'اتصل برويال نانو للحصول على خدمات حماية السيارات في القاهرة، الإسكندرية، طنطا، وأكتوبر باستخدام تقنية النانو المتطورة.',
+      });
+      this.metaService.updateTag({
+        property: 'og:location',
+        content: 'القاهرة، الإسكندرية، طنطا، أكتوبر، مصر',
+      });
+    }
   }
 }

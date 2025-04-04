@@ -1,5 +1,5 @@
 import { Component, Inject, LOCALE_ID, OnInit } from '@angular/core';
-import { Router, NavigationEnd, ActivatedRoute } from '@angular/router';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-navbar',
@@ -7,16 +7,12 @@ import { Router, NavigationEnd, ActivatedRoute } from '@angular/router';
   styleUrl: './navbar.component.css',
   standalone: false,
 })
-export class NavbarComponent implements OnInit {
+export class NavbarComponent {
   nav: boolean = false;
   constructor(
     private router: Router,
     @Inject(LOCALE_ID) public locale: string
   ) {}
-
-  ngOnInit() {
-    console.log(this.router.url);
-  }
 
   changeLang() {
     const currentUrl = window.location.pathname;

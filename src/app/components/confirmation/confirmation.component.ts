@@ -6,10 +6,10 @@ import { ToastrService } from 'ngx-toastr';
 import { Router } from '@angular/router';
 
 @Component({
-    selector: 'app-confirmation',
-    templateUrl: './confirmation.component.html',
-    styleUrl: './confirmation.component.css',
-    standalone: false
+  selector: 'app-confirmation',
+  templateUrl: './confirmation.component.html',
+  styleUrl: './confirmation.component.css',
+  standalone: false,
 })
 export class ConfirmationComponent {
   constructor(
@@ -103,9 +103,6 @@ export class ConfirmationComponent {
             this.activation = res.activation;
             this.router.navigate(['/thank-you']);
           }
-        },
-        error: (err) => {
-          console.log(err);
         },
       });
     } else {
