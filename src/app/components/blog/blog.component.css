@@ -40,13 +40,13 @@ section {
 .blog-card img {
   transition: 0.5s;
 }
-.blog-card:hover {
+/* .blog-card:hover {
   transform: translateY(-10px);
   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 }
 .blog-card:hover img {
   transform: scale(1.03);
-}
+} */
 .blog-img {
   border-radius: 20px;
   overflow: hidden;
