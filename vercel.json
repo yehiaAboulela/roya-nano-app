@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "devCommand": "node dist/royal-nano/server/server.mjs",
   "builds": [
     {
       "src": "dist/royal-nano/server/server.mjs",
