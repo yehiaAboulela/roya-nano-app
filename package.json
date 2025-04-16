@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "^19.2.5",
     "@angular/platform-server": "^19.2.5",
     "@angular/router": "^19.2.5",
-    "@angular/ssr": "^19.2.6",
+    "@angular/ssr": "^19.2.7",
     "@fancyapps/ui": "^5.0.36",
     "@fortawesome/fontawesome-free": "^6.6.0",
     "aos": "^2.3.4",
