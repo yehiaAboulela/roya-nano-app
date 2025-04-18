@@ -13,196 +13,196 @@
         <source>Fast and efficient solutions for your car needs.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">75,76</context>
+          <context context-type="linenumber">79,80</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3031050159078277419" datatype="html">
         <source> We provide cutting-edge technology that ensures speed and reliability, helping your business stay ahead in a competitive market. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">77,78</context>
+          <context context-type="linenumber">81,82</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7126452619827165388" datatype="html">
         <source> Innovative leadership that inspires progress and growth. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">91</context>
+          <context context-type="linenumber">95</context>
         </context-group>
       </trans-unit>
       <trans-unit id="680836025312802118" datatype="html">
         <source> Our forward-thinking leadership drives innovation, fostering a culture of continuous improvement and development. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">94,95</context>
+          <context context-type="linenumber">98,99</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1236044299383744781" datatype="html">
         <source>24/7 customer support to assist you whenever needed.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">102,103</context>
+          <context context-type="linenumber">110,111</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3098321838499881600" datatype="html">
         <source> Our dedicated team is always available, providing expert guidance and support to ensure your satisfaction around the clock. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">104,105</context>
+          <context context-type="linenumber">112,113</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6599190879778899767" datatype="html">
         <source> Committed to sustainability and eco-friendly practices. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">114</context>
+          <context context-type="linenumber">126</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1432144408775633025" datatype="html">
         <source> We prioritize eco-conscious practices, ensuring our operations are sustainable and contribute to a greener future. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about-header/about-header.component.html</context>
-          <context context-type="linenumber">117,118</context>
+          <context context-type="linenumber">129,130</context>
         </context-group>
       </trans-unit>
       <trans-unit id="942464650521990421" datatype="html">
         <source>Nermin Maher</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">10,11</context>
+          <context context-type="linenumber">13,14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="933524971027819962" datatype="html">
         <source> Their service is absolutely amazing! My car looks brand new again thanks to Royal Nano Ceramic protection. The team is incredibly professional. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">12,13</context>
+          <context context-type="linenumber">15,16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5784227530503014732" datatype="html">
         <source>Ahmad rezk</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">25,26</context>
+          <context context-type="linenumber">31,32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2760763146993353732" datatype="html">
         <source> There are no words to describe the service they provided at Royal Nano Ceramic. The protection is excellent, and my car looks brand new </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">27,28</context>
+          <context context-type="linenumber">33,34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7779139149331830372" datatype="html">
         <source>Maha ahmad</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">40,41</context>
+          <context context-type="linenumber">49,50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3672164287957283825" datatype="html">
         <source> Royal Nano Ceramic is the perfect place to protect your car. The result was beyond amazing, and I&apos;m very happy </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">42,43</context>
+          <context context-type="linenumber">51,52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8040048241797975774" datatype="html">
         <source>Mohamed nagaty</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">54,55</context>
+          <context context-type="linenumber">66,67</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3994675397170514351" datatype="html">
         <source> Truly, the best car protection you can find is at Royal Nano Ceramic. Your car comes out looking completely transformed </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">56,57</context>
+          <context context-type="linenumber">68,69</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4687845422213047050" datatype="html">
         <source>Hesham Ismael</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">68,69</context>
+          <context context-type="linenumber">83,84</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3302204839209748927" datatype="html">
         <source> You won’t find a better place to protect your car’s paint than Royal Nano Ceramic. Their service is top-notch and high-quality </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">70,71</context>
+          <context context-type="linenumber">85,86</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3655473997383609816" datatype="html">
         <source>Ghada Ibrahim</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">82,83</context>
+          <context context-type="linenumber">100,101</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3861557828182819218" datatype="html">
         <source> If you want to keep your car shining all the time, Royal Nano Ceramic is the solution. I’m extremely satisfied with the results </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">84,85</context>
+          <context context-type="linenumber">102,103</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4664722392854177517" datatype="html">
         <source>Mahmoud hafez</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">96,97</context>
+          <context context-type="linenumber">117,118</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1731851465543852363" datatype="html">
         <source> Honestly, excellent service and quality I haven’t seen anywhere else. My car is now protected and looks great </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">98,99</context>
+          <context context-type="linenumber">119,120</context>
         </context-group>
       </trans-unit>
       <trans-unit id="636053421989500216" datatype="html">
         <source>Enas elnagar</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">110,111</context>
+          <context context-type="linenumber">134,135</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4846141108772817813" datatype="html">
         <source> Royal Nano Ceramic truly takes care of every detail of your car. I see a big difference in my car’s protection after using their services </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">112,113</context>
+          <context context-type="linenumber">136,137</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2931685208137237879" datatype="html">
         <source>Emad Rashad</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">125,126</context>
+          <context context-type="linenumber">152,153</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7152902405382019827" datatype="html">
         <source> The best protection and the most advanced technology for your car can be found at Royal Nano Ceramic. It was a wonderful experience </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">127,128</context>
+          <context context-type="linenumber">154,155</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8291313821318957122" datatype="html">
         <source>Ahmad salama</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">139,140</context>
+          <context context-type="linenumber">169,170</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2036660814764377825" datatype="html">
         <source> Amazing service! My car is completely safe with Royal Nano Ceramic. Thanks to them for their professionalism </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/image-slider/image-slider.component.html</context>
-          <context context-type="linenumber">141,142</context>
+          <context context-type="linenumber">171,172</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1195769664128136150" datatype="html">
@@ -241,7 +241,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">95,96</context>
+          <context context-type="linenumber">103,104</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3693833693528068322" datatype="html">
@@ -280,7 +280,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">101,102</context>
+          <context context-type="linenumber">109,110</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7731851299634437408" datatype="html">
@@ -505,6 +505,372 @@
           <context context-type="linenumber">3,4</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="6959497441009812685" datatype="html">
+        <source>Full Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">635,636</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3264452655068017433" datatype="html">
+        <source>Enter your name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8194554728555410336" datatype="html">
+        <source>Phone Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">645,646</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5173570505686748706" datatype="html">
+        <source>Enter phone Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3906132697662863149" datatype="html">
+        <source>Car Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4839570193807680439" datatype="html">
+        <source>Enter car type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">37,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1273300937529318996" datatype="html">
+        <source>Car Model</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5933942471606698976" datatype="html">
+        <source>Enter car model</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">48,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1254433955001001125" datatype="html">
+        <source>Choose Service</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="238641271998486913" datatype="html">
+        <source>Nano Ceramic</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4211378077191755587" datatype="html">
+        <source>PPF</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7954434316622852025" datatype="html">
+        <source>Sun Films</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1125205452556486538" datatype="html">
+        <source>Choose Branch</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3003034100896459294" datatype="html">
+        <source>Tanta</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1491482705364427867" datatype="html">
+        <source>October</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">118,119</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">176,177</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">232,233</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6606403683438166438" datatype="html">
+        <source>Madenet Nasr</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">66,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7940666472048524940" datatype="html">
+        <source>Zayed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6781204509427760020" datatype="html">
+        <source>Madenet Nasr 2</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4934711430210922400" datatype="html">
+        <source>Mohandeseen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5751837399183873228" datatype="html">
+        <source>Alexandria</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8940143193961589305" datatype="html">
+        <source>Sohag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="162741652550964736" datatype="html">
+        <source>Hurghada</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">72,73</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="931418778965716997" datatype="html">
+        <source>Mansoura</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">73,74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6947677402398745052" datatype="html">
+        <source>Zagazig</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">66,67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2189186493421979914" datatype="html">
+        <source>Ismailia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">75,76</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="657584873009779890" datatype="html">
+        <source>Port Said</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">76,77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2322737603527301551" datatype="html">
+        <source>Suez</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">77,78</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7297100168914826475" datatype="html">
+        <source>Minya</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1969507589301669003" datatype="html">
+        <source>Assiut</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1668741725934731983" datatype="html">
+        <source>Additional Notes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">83,84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4179238633896194667" datatype="html">
+        <source>Leave your message here</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3540138482012345966" datatype="html">
+        <source>Appointment Confirmation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7313284104461700961" datatype="html">
+        <source>Thank you for booking your appointment!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">106,107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7142226184163744133" datatype="html">
+        <source> If you need to make any changes, please contact us at <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:support@example.com&quot;&gt;"/>support@royalnanoceramic.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a
+        &gt;"/>. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">108,112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6249484391846924804" datatype="html">
+        <source> Confirm </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/book-appointment/book-appointment.component.html</context>
+          <context context-type="linenumber">115,116</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="7208472278107739834" datatype="html">
         <source>Join Royal Nano Ceramic Team</source>
         <context-group purpose="location">
@@ -526,18 +892,11 @@
           <context context-type="linenumber">14,15</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6959497441009812685" datatype="html">
-        <source>Full Name</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">35,36</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="5268165571303113726" datatype="html">
         <source>Enter your full name</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">42,44</context>
+          <context context-type="linenumber">46,48</context>
         </context-group>
         <note priority="1" from="description">From placeholder</note>
       </trans-unit>
@@ -545,7 +904,7 @@
         <source>Birthdate</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">49,50</context>
+          <context context-type="linenumber">53,54</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/confirmation/confirmation.component.html</context>
@@ -556,29 +915,26 @@
         <source>Email</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">62,63</context>
+          <context context-type="linenumber">66,67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">656</context>
         </context-group>
       </trans-unit>
       <trans-unit id="203827529942340818" datatype="html">
         <source>Enter your email</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">69,71</context>
+          <context context-type="linenumber">73,75</context>
         </context-group>
         <note priority="1" from="description">From placeholder</note>
-      </trans-unit>
-      <trans-unit id="8194554728555410336" datatype="html">
-        <source>Phone Number</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">74,75</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="7706403908694679278" datatype="html">
         <source>Enter your phone number</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">81,83</context>
+          <context context-type="linenumber">85,87</context>
         </context-group>
         <note priority="1" from="description">From placeholder</note>
       </trans-unit>
@@ -586,14 +942,14 @@
         <source>Address</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">86,87</context>
+          <context context-type="linenumber">90,91</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4665600283516531962" datatype="html">
         <source>Enter your address</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">93,95</context>
+          <context context-type="linenumber">97,99</context>
         </context-group>
         <note priority="1" from="description">From placeholder</note>
       </trans-unit>
@@ -601,105 +957,105 @@
         <source>Select a Role</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">98,99</context>
+          <context context-type="linenumber">102,103</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3529073387130344472" datatype="html">
         <source>-- Select Position --</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">100,101</context>
+          <context context-type="linenumber">104,105</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4947978414433055050" datatype="html">
         <source>Sales Manager</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">101,102</context>
+          <context context-type="linenumber">105,106</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6877207199784501263" datatype="html">
         <source>Tele Sales</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">102,103</context>
+          <context context-type="linenumber">106,107</context>
         </context-group>
       </trans-unit>
       <trans-unit id="176228239972970074" datatype="html">
         <source> Tele Sales Team Leader </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">104</context>
+          <context context-type="linenumber">108</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5088891293745492620" datatype="html">
         <source> Indoor Sales &quot;Special Conditions&quot; </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">107</context>
+          <context context-type="linenumber">111</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6981637479896180911" datatype="html">
         <source> Outdoor Sales &quot;Special Conditions&quot; </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">110</context>
+          <context context-type="linenumber">114</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3720646989220793512" datatype="html">
         <source>Secretary</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">112,113</context>
+          <context context-type="linenumber">116,117</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8690005621531233539" datatype="html">
         <source> Polish &amp; Nano Technician </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">114</context>
+          <context context-type="linenumber">118</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4685044627958722208" datatype="html">
         <source> Protection Technician </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">117</context>
+          <context context-type="linenumber">121</context>
         </context-group>
       </trans-unit>
       <trans-unit id="504330639061699884" datatype="html">
         <source> Assistant / Training </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">120</context>
+          <context context-type="linenumber">124</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7424228744472323476" datatype="html">
         <source> Experienced Branch Manager </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">123</context>
+          <context context-type="linenumber">127</context>
         </context-group>
       </trans-unit>
       <trans-unit id="429876424599236141" datatype="html">
         <source>Upload CV</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">129,130</context>
+          <context context-type="linenumber">133,134</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7461596370372884263" datatype="html">
         <source>Cover Letter</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">140,141</context>
+          <context context-type="linenumber">144,145</context>
         </context-group>
       </trans-unit>
       <trans-unit id="108978253704973626" datatype="html">
         <source>Write a short cover letter</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">147,149</context>
+          <context context-type="linenumber">151,153</context>
         </context-group>
         <note priority="1" from="description">From placeholder</note>
       </trans-unit>
@@ -707,7 +1063,7 @@
         <source> Submit Application </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/careers/careers.component.html</context>
-          <context context-type="linenumber">157</context>
+          <context context-type="linenumber">161</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8588273269492066470" datatype="html">
@@ -912,117 +1268,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">122</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5751837399183873228" datatype="html">
-        <source>Alexandria</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">60,61</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">124</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8940143193961589305" datatype="html">
-        <source>Sohag</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">61,62</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">126</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="162741652550964736" datatype="html">
-        <source>Hurghada</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">64,65</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">127</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="931418778965716997" datatype="html">
-        <source>Mansoura</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">65,66</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">129</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6947677402398745052" datatype="html">
-        <source>Zagazig</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">66,67</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
           <context context-type="linenumber">130</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2189186493421979914" datatype="html">
-        <source>Ismailia</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">67,68</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">131</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="657584873009779890" datatype="html">
-        <source>Port Said</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">68,69</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">132</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2322737603527301551" datatype="html">
-        <source>Suez</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">69,70</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">133</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7297100168914826475" datatype="html">
-        <source>Minya</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">70,71</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">134</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1969507589301669003" datatype="html">
-        <source>Assiut</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
-          <context context-type="linenumber">71,72</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">135</context>
         </context-group>
       </trans-unit>
       <trans-unit id="66889124423938629" datatype="html">
@@ -1033,84 +1279,85 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">52,54</context>
+          <context context-type="linenumber">56,58</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5736481176444461852" datatype="html">
         <source>About Us</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">98,99</context>
+          <context context-type="linenumber">106,107</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7922989125096435449" datatype="html">
         <source>Contact</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">104,105</context>
+          <context context-type="linenumber">112,113</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5779770381601735038" datatype="html">
         <source>Careers</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">107,108</context>
+          <context context-type="linenumber">115,116</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8439955599488894226" datatype="html">
         <source>Privacy Policy</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">110,111</context>
+          <context context-type="linenumber">118,119</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1491482705364427867" datatype="html">
-        <source>October</source>
+      <trans-unit id="3865115635607753363" datatype="html">
+        <source>Branches</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">120</context>
+          <context context-type="linenumber">126,127</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6597053208448801145" datatype="html">
         <source>Nasr City</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">121</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">147,148</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6133045561781039902" datatype="html">
         <source>Sheikh Zayed</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">123</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3003034100896459294" datatype="html">
-        <source>Tanta</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">128</context>
+          <context context-type="linenumber">131</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6404477247085751415" datatype="html">
         <source>See All</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">140,141</context>
+          <context context-type="linenumber">148,149</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1083565702041981952" datatype="html">
         <source>Reach out!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">148,149</context>
+          <context context-type="linenumber">156,157</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4275828010487769739" datatype="html">
         <source> Royal Nano Ceramic is a leading car protection company in Egypt, offering advanced nano ceramic coatings to protect and enhance vehicle exteriors. They specialize in paint protection, scratch resistance, and hydrophobic coatings, ensuring cars remain in top condition. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">165,168</context>
+          <context context-type="linenumber">173,176</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2170252531606587595" datatype="html">
@@ -1222,28 +1469,21 @@
         <source>Royal</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
-          <context context-type="linenumber">8</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="238641271998486913" datatype="html">
-        <source>Nano Ceramic</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
-          <context context-type="linenumber">9,10</context>
+          <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4309105356318546853" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-gold&quot;&gt;"/>Royal<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Nano Ceramic </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
-          <context context-type="linenumber">12,14</context>
+          <context context-type="linenumber">16,18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7172676343466374069" datatype="html">
         <source>Protect your car</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
-          <context context-type="linenumber">15,16</context>
+          <context context-type="linenumber">19,20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6324038831492112652" datatype="html">
@@ -1426,105 +1666,478 @@
         <source> Royal Nano Ceramic offers advanced protection services for vehicles, aircraft, boats, and motorcycles in Egypt. Using the best international materials and modern nano-ceramic technologies, the company ensures top-level protection and quality, delivering a unique experience that makes them the leading choice in the market. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">25,29</context>
+          <context context-type="linenumber">29,33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1983923552742956473" datatype="html">
         <source>Luxury Car Protection</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">39,40</context>
+          <context context-type="linenumber">46,47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7109579006490004491" datatype="html">
         <source> Our ceramic coating ensures long-lasting protection for luxury vehicles, preserving their shine and guarding against scratches and environmental damage. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">41,43</context>
+          <context context-type="linenumber">48,50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1041894054433526752" datatype="html">
         <source>Aircraft Protection</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">50,51</context>
+          <context context-type="linenumber">60,61</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3617350946334813623" datatype="html">
         <source> We provide nano technology coatings that protect aircraft from UV damage and corrosion, keeping them in excellent condition over time. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">52,53</context>
+          <context context-type="linenumber">62,63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2266196910562662892" datatype="html">
         <source>Yacht Protection</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">61,62</context>
+          <context context-type="linenumber">74,75</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3778660290473485959" datatype="html">
         <source> Our nano coatings offer protection against saltwater and UV rays, helping to maintain the yacht&apos;s appearance and durability. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">63,64</context>
+          <context context-type="linenumber">76,77</context>
         </context-group>
       </trans-unit>
       <trans-unit id="128778686140214499" datatype="html">
         <source>Motorcycle Protection</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">71,72</context>
+          <context context-type="linenumber">87,88</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7982683393632271793" datatype="html">
         <source> Specialized nano coatings protect motorcycles from scratches and wear, ensuring they remain in great condition across various environments. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/solutions-sec/solutions-sec.component.html</context>
-          <context context-type="linenumber">73,74</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2381401060929189254" datatype="html">
+        <source>Protect Your Car with Royal Nano Ceramic</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6023790554273455664" datatype="html">
+        <source> Protect your car with lasting shine and scratch resistance. Invest today for peace of mind. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3918703384901399746" datatype="html">
+        <source>Book Your Appointment Now</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6607174990633757118" datatype="html">
+        <source>And Get the Strongest Warranty</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3201446606752254109" datatype="html">
+        <source>What Do Our Customers Say?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">43,44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">303,304</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">599,600</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2471959008165298073" datatype="html">
+        <source>Visit by the Actress Enas El-Naggar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="312779937602555728" datatype="html">
+        <source> I have been using it for a year, and thank God, the car is more beautiful than when I received it from the showroom. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">77,78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6127077807861477725" datatype="html">
+        <source>Farag Louis</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">88,89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2055614804603589868" datatype="html">
+        <source> My friends have been recommending this place for three years, and honestly, I was amazed by the car when I came. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">106,107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5472471064346381990" datatype="html">
+        <source>Yasmin</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">117,118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="220356313293007460" datatype="html">
+        <source> My car is brand new, but when I came to collect it, it was better than brand new. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">135,136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2310336374111371435" datatype="html">
+        <source>Nancy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">146,147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8336773237276621510" datatype="html">
+        <source> I have been using it since 2021, and my car shines with the beauty that we all love to see in our cars. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">164,165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4178726661791694899" datatype="html">
+        <source>Ahmed Aita</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">175,176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8934649808206618266" datatype="html">
+        <source>These people have never disappointed me.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">192,193</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5414326410451523482" datatype="html">
+        <source>Ali</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">201,202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="916443725602213515" datatype="html">
+        <source>The Place</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">202,203</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">261,262</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">292,293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="722687461391691921" datatype="html">
+        <source> I have been following you for a year, and I was afraid to make a decision, but once I did and chose Royal Nano, I have no regrets. I am truly amazed by my car. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">219,221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6114011601984192584" datatype="html">
+        <source>Nadia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">231,232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5679011702036639729" datatype="html">
+        <source> I saw many videos and reviews, but I didn&apos;t expect to see such beauty in reality. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">249,250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6751748256308105480" datatype="html">
+        <source>Abdullah</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">260,261</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7483328748165339231" datatype="html">
+        <source> Today I did the maintenance after six months. I am happy that there is a company in Egypt with such excellence in after-sales service. I recommend anyone in Egypt who wants protection to contact Royal Nano Ceramic. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">278,280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5965780491658667286" datatype="html">
+        <source>Yahya</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">291,292</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7155366154448885746" datatype="html">
+        <source>Visit by the Actor Mahmoud Hafez</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">304,306</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5547928915787923329" datatype="html">
+        <source> What is Nano Ceramic? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">337</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2880284298656751911" datatype="html">
+        <source> Nano ceramic is an advanced protective layer applied to a car&apos;s surface, creating a shield against scratches, dirt, and dust, while maintaining the car&apos;s shine for a long time. This technology is made up of nano particles that penetrate the paint surface and reinforce it. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">346,349</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6966158874875915581" datatype="html">
+        <source> What are the Benefits of Nano Ceramic? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">365</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7480326689684518337" datatype="html">
+        <source> Protection against minor scratches and scuffs. Resistance to dirt, dust, and water (meaning nothing sticks easily to the surface). Long-lasting shine, making your car look new all the time. Protection from UV rays that cause paint to fade. Resistance to harsh weather conditions like rain and humidity. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">374,377</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2267929360820394393" datatype="html">
+        <source> Does Nano Ceramic Protect Against Deep Scratches? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">393</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3692071139522754298" datatype="html">
+        <source> Nano ceramic can protect your car from minor scratches and everyday scuffs like door openings or flying sand. However, deeper scratches or strong impacts require additional protection types. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">402,404</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1177708749907866221" datatype="html">
+        <source> Does Nano Ceramic Require Maintenance? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">419</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="685512282491606301" datatype="html">
+        <source> Yes, although it preserves the car for a long time, it&apos;s important to wash the car properly to maintain the layer&apos;s effectiveness. Simple maintenance every now and then will help keep the protection strong for longer periods. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">428,431</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8017325564801225293" datatype="html">
+        <source> How Long Does Nano Ceramic Last? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">446</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5499102122455750644" datatype="html">
+        <source><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;accordion-body&quot;&gt;"/> Nano ceramic can protect your car from minor scratches and everyday scuffs like door openings or flying sand. However, deeper scratches or strong impacts require additional protection types. <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">455,460</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7621921749950091228" datatype="html">
+        <source> Does Nano Ceramic Protect the Paint from Sun Fading? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">473</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7398503549744569068" datatype="html">
+        <source> Yes, the nano ceramic layer acts as a barrier against UV rays that affect the paint and cause it to fade over time. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">482,483</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6538513495290156025" datatype="html">
+        <source> What’s the Difference Between Nano Ceramic and Traditional Wax? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">498</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3756117325929556915" datatype="html">
+        <source> Wax provides surface-level, temporary protection and needs frequent reapplication. Nano ceramic, on the other hand, penetrates the paint surface, offering stronger and longer-lasting protection, as well as better shine and protection from external factors. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">507,510</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7340067180284541699" datatype="html">
+        <source> Do I Need an Expert to Apply Nano Ceramic? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">526</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5125250600388922604" datatype="html">
+        <source> Yes, it’s best to have nano ceramic applied by professionals to ensure proper application with the right layers for the desired protection. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">535,536</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7785484596155251493" datatype="html">
+        <source> Does Nano Ceramic Remove Existing Scratches? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">552</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6850647481191727508" datatype="html">
+        <source> Nano ceramic doesn’t erase existing scratches, but it can cover minor surface scratches. For deeper scratches, it&apos;s best to repair them before applying nano ceramic. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">561,563</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3150875790982950284" datatype="html">
+        <source> Can I Use Nano Ceramic on Glass or Headlights? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">578</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7748155031449625769" datatype="html">
+        <source> Yes, nano ceramic is not limited to the car’s body; it can be applied to glass and headlights to protect them from dust, water, and ensure clear visibility. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">587,589</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4074295076719397466" datatype="html">
+        <source>Visit by the Actress Nermin Maher</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">600,602</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8930102290542680678" datatype="html">
+        <source>Request a Service</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">628,629</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5752310594170834795" datatype="html">
+        <source>Car Models</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">664,665</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7514172486816692906" datatype="html">
+        <source>Type Of Car</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">673,674</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2314075913167237221" datatype="html">
+        <source>City</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">683</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="613875387304159316" datatype="html">
+        <source>Service Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">691,692</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1215020689044739662" datatype="html">
+        <source> Book </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/landing-1/landing-1.component.html</context>
+          <context context-type="linenumber">711,712</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8364309938383915497" datatype="html">
         <source> Home </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">23</context>
+          <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8197921676324803850" datatype="html">
         <source> About </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">34</context>
+          <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1752396967771808140" datatype="html">
         <source> Services </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">45</context>
+          <context context-type="linenumber">48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4959727169550005200" datatype="html">
         <source> Blog </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">56</context>
+          <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5128552843387412538" datatype="html">
         <source> Gallery </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">67</context>
+          <context context-type="linenumber">70</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8478716983552743608" datatype="html">
         <source> Contact </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">87</context>
+          <context context-type="linenumber">90</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3619072420435355697" datatype="html">
@@ -1777,43 +2390,43 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">50,51</context>
+          <context context-type="linenumber">54,55</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">74,75</context>
+          <context context-type="linenumber">78,79</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">89,90</context>
+          <context context-type="linenumber">97,98</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">115,116</context>
+          <context context-type="linenumber">123,124</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">130,131</context>
+          <context context-type="linenumber">142,143</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">153,154</context>
+          <context context-type="linenumber">165,166</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">168,169</context>
+          <context context-type="linenumber">184,185</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">193,194</context>
+          <context context-type="linenumber">209,210</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">208,209</context>
+          <context context-type="linenumber">228,229</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">231,232</context>
+          <context context-type="linenumber">251,252</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
@@ -1873,67 +2486,67 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">46,47</context>
+          <context context-type="linenumber">50,51</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">64,65</context>
+          <context context-type="linenumber">68,69</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">79,80</context>
+          <context context-type="linenumber">87,88</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">97,98</context>
+          <context context-type="linenumber">105,106</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">112,113</context>
+          <context context-type="linenumber">124,125</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">130,131</context>
+          <context context-type="linenumber">142,143</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">145,146</context>
+          <context context-type="linenumber">161,162</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">162,163</context>
+          <context context-type="linenumber">178,179</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">177,178</context>
+          <context context-type="linenumber">197,198</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">195,196</context>
+          <context context-type="linenumber">215,216</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">210,211</context>
+          <context context-type="linenumber">234,235</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">227,228</context>
+          <context context-type="linenumber">251,252</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">242,243</context>
+          <context context-type="linenumber">270,271</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">260,261</context>
+          <context context-type="linenumber">288,289</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">275,276</context>
+          <context context-type="linenumber">307,308</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">292,293</context>
+          <context context-type="linenumber">324,325</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
@@ -1945,27 +2558,27 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">46,47</context>
+          <context context-type="linenumber">50,51</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">64,65</context>
+          <context context-type="linenumber">68,69</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">79,80</context>
+          <context context-type="linenumber">87,88</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">97,98</context>
+          <context context-type="linenumber">105,106</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">112,113</context>
+          <context context-type="linenumber">124,125</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">130,131</context>
+          <context context-type="linenumber">142,143</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8323925033111836395" datatype="html">
@@ -1983,15 +2596,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">97,98</context>
+          <context context-type="linenumber">105,106</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">175,176</context>
+          <context context-type="linenumber">191,192</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">152,153</context>
+          <context context-type="linenumber">168,169</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
@@ -2017,7 +2630,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">64,65</context>
+          <context context-type="linenumber">68,69</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8493033674592346701" datatype="html">
@@ -2028,15 +2641,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">67,68</context>
+          <context context-type="linenumber">71,72</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">146,147</context>
+          <context context-type="linenumber">158,159</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">224,225</context>
+          <context context-type="linenumber">244,245</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
@@ -2060,27 +2673,27 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">57,58</context>
+          <context context-type="linenumber">61,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">90,91</context>
+          <context context-type="linenumber">98,99</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">123,124</context>
+          <context context-type="linenumber">135,136</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">155,156</context>
+          <context context-type="linenumber">171,172</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">220,221</context>
+          <context context-type="linenumber">244,245</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">285,286</context>
+          <context context-type="linenumber">317,318</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
@@ -2088,52 +2701,52 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">57,58</context>
+          <context context-type="linenumber">61,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">90,91</context>
+          <context context-type="linenumber">98,99</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">123,124</context>
+          <context context-type="linenumber">135,136</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1667048143789050947" datatype="html">
         <source>Daimond Hypred</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">54,56</context>
+          <context context-type="linenumber">58,60</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1156568633197236682" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Warranty:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 5 years </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">58,59</context>
+          <context context-type="linenumber">62,63</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">137,138</context>
+          <context context-type="linenumber">149,150</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">215,216</context>
+          <context context-type="linenumber">235,236</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">282,283</context>
+          <context context-type="linenumber">314,315</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4916692437179893030" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 9H </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">61,62</context>
+          <context context-type="linenumber">65,66</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">100,101</context>
+          <context context-type="linenumber">108,109</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
@@ -2144,29 +2757,29 @@
         <source>Ultra Nano Ceramic</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">93,95</context>
+          <context context-type="linenumber">101,103</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2158833266986629230" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Silicone/Polysilazine </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">103,104</context>
+          <context context-type="linenumber">111,112</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">181,182</context>
+          <context context-type="linenumber">197,198</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7181290575691674807" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Country of manufacture:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Germany </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">107,108</context>
+          <context context-type="linenumber">115,116</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">185,186</context>
+          <context context-type="linenumber">201,202</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
@@ -2178,29 +2791,29 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">252,253</context>
+          <context context-type="linenumber">280,281</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1152346554851284100" datatype="html">
         <source>Daimond N1</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">134,135</context>
+          <context context-type="linenumber">146,147</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6553784837454877305" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Hardness:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 8H </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">140,141</context>
+          <context context-type="linenumber">152,153</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">178,179</context>
+          <context context-type="linenumber">194,195</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">218,219</context>
+          <context context-type="linenumber">238,239</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
@@ -2215,43 +2828,43 @@
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> diamond </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">143,144</context>
+          <context context-type="linenumber">155,156</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4090117725794650535" datatype="html">
         <source>Nanolex</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">172,173</context>
+          <context context-type="linenumber">188,189</context>
         </context-group>
       </trans-unit>
       <trans-unit id="363679448978356864" datatype="html">
         <source>Nano system x</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">212,213</context>
+          <context context-type="linenumber">232,233</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2812722074754865753" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Elements:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Diamond </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">221,222</context>
+          <context context-type="linenumber">241,242</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6911731422842365058" datatype="html">
         <source>See the Difference</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-ceramic-prods/nano-ceramic-prods.component.html</context>
-          <context context-type="linenumber">306,307</context>
+          <context context-type="linenumber">334,335</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/nano-graphene-prods/nano-graphene-prods.component.html</context>
-          <context context-type="linenumber">335,336</context>
+          <context context-type="linenumber">339,340</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">363,364</context>
+          <context context-type="linenumber">411,412</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6386217202035090490" datatype="html">
@@ -2317,31 +2930,31 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">54,55</context>
+          <context context-type="linenumber">58,59</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">87,88</context>
+          <context context-type="linenumber">95,96</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">120,121</context>
+          <context context-type="linenumber">132,133</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">184,185</context>
+          <context context-type="linenumber">204,205</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">217,218</context>
+          <context context-type="linenumber">241,242</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">249,250</context>
+          <context context-type="linenumber">277,278</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">54,55</context>
+          <context context-type="linenumber">58,59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1842436710430399499" datatype="html">
@@ -2419,63 +3032,63 @@
         <source>Dyno Stick</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">50,52</context>
+          <context context-type="linenumber">54,56</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1177535357950884196" datatype="html">
         <source>Expel Ultimate</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">83,85</context>
+          <context context-type="linenumber">91,93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7787175778238351581" datatype="html">
         <source>3m Scotchgard</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">116,118</context>
+          <context context-type="linenumber">128,130</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2378572602800732170" datatype="html">
         <source>Elegance Guard</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">149,150</context>
+          <context context-type="linenumber">165,166</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3186987504214614240" datatype="html">
         <source>Hexes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">181,182</context>
+          <context context-type="linenumber">201,202</context>
         </context-group>
       </trans-unit>
       <trans-unit id="738296228620809473" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Country of manufacture:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> France </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">187,188</context>
+          <context context-type="linenumber">207,208</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3617139833272034737" datatype="html">
         <source>Premium 8</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">214,215</context>
+          <context context-type="linenumber">238,239</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5464571870139969075" datatype="html">
         <source>PRO VISION</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">246,247</context>
+          <context context-type="linenumber">274,275</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6462689587158427825" datatype="html">
         <source>Professional Shield</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/ppf/ppf.component.html</context>
-          <context context-type="linenumber">279,280</context>
+          <context context-type="linenumber">311,312</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6056869280007253103" datatype="html">
@@ -2496,35 +3109,35 @@
         <source>Shield Ultra Cool</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">50,52</context>
+          <context context-type="linenumber">54,56</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4147885636770518930" datatype="html">
         <source>3m crystalline</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">83,85</context>
+          <context context-type="linenumber">91,93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7074951691079213087" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Life expectancy:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 3 years </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">87,88</context>
+          <context context-type="linenumber">95,96</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6110848022183004242" datatype="html">
         <source>uv400 films</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">116,118</context>
+          <context context-type="linenumber">128,130</context>
         </context-group>
       </trans-unit>
       <trans-unit id="502345281663966170" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;fw-medium&quot;&gt;"/>Life expectancy:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> 1 year </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/services/thermal-insulation/thermal-insulation.component.html</context>
-          <context context-type="linenumber">120,121</context>
+          <context context-type="linenumber">132,133</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3927530562026845922" datatype="html">

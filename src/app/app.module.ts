@@ -1,5 +1,9 @@
 import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from '@angular/core';
-import { BrowserModule, provideClientHydration, withEventReplay } from '@angular/platform-browser';
+import {
+  BrowserModule,
+  provideClientHydration,
+  withEventReplay,
+} from '@angular/platform-browser';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { ReactiveFormsModule } from '@angular/forms';
 
@@ -44,7 +48,6 @@ import { PrivacyComponent } from './components/privacy/privacy.component';
 import { Landing1Component } from './components/landing-1/landing-1.component';
 import { LandingLayoutComponent } from './components/landing-layout/landing-layout.component';
 import { MainLayoutComponent } from './components/main-layout/main-layout.component';
-import { Landing1ArComponent } from './components/landing-1-ar/landing-1-ar.component';
 import { ThanksComponent } from './components/thanks/thanks.component';
 import { ConfirmationComponent } from './components/confirmation/confirmation.component';
 import { ThankYouComponent } from './components/thank-you/thank-you.component';
@@ -87,7 +90,6 @@ import { ThankYouComponent } from './components/thank-you/thank-you.component';
     Landing1Component,
     LandingLayoutComponent,
     MainLayoutComponent,
-    Landing1ArComponent,
     ThanksComponent,
     ConfirmationComponent,
     ThankYouComponent,

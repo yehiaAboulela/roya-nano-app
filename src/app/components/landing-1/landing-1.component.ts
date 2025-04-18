@@ -1,5 +1,5 @@
 import { LeadsService } from './../../shared/services/leads.service';
-import { Component } from '@angular/core';
+import { Component, Inject, LOCALE_ID } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { OwlOptions } from 'ngx-owl-carousel-o';
 declare var Fancybox: any;
@@ -24,7 +24,8 @@ export class Landing1Component {
   constructor(
     private fb: FormBuilder,
     private LeadsService: LeadsService,
-    private router: Router
+    private router: Router,
+    @Inject(LOCALE_ID) public locale: string,
   ) {}
   notValid: string = '';
   valid: string = '';

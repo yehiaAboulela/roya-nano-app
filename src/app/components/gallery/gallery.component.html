@@ -2,7 +2,7 @@
   <header>
     <img src="/logo.png" alt="" class="logo-trns" />
     <div class="container-fluid">
-      <h1 class="back">Gallery</h1>
+      <h1 class="back">@if (locale == 'en-US') {Gallery} @else {المعرض}</h1>
       <div class="my-carousel">
         <owl-carousel-o [options]="customOptions">
           <ng-template carouselSlide>
@@ -72,10 +72,10 @@
 
   <div class="container-fluid fluid mt-3">
     <h2 class="fw-medium mb-3 text-center">
-      @if (locale == 'en') { Latest Shots } @else {اخر لقطات}
+      @if (locale == 'en-US') { Latest Shots } @else {اخر لقطات}
     </h2>
     <nav class="mb-3">
-      @if (locale == 'en') {
+      @if (locale == 'en-US') {
       <button class="filter-btn" (click)="images = true">Images</button>
       <button class="filter-btn" (click)="images = false">Videos</button> }
       @else {
