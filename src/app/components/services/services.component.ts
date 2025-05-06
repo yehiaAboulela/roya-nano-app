@@ -7,7 +7,7 @@ import { LanguageService } from '../../shared/services/language.service';
     templateUrl: './services.component.html',
     styleUrl: './services.component.css',
     standalone: false
-})
+})  
 export class ServicesComponent implements OnInit, AfterViewInit {
   constructor(
     private LanguageService: LanguageService,

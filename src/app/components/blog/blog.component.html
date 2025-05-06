@@ -1,29 +1,69 @@
 <section>
   <div class="container-fluid">
-    @if (locale == 'en-US') {
     <div class="intro">
-      <h1 data-aos="fade-right">The latest and greatest from our team</h1>
-      <p data-aos="fade-left">
+      <h1 i18n data-aos="fade-right">The latest and greatest from our team</h1>
+      <p i18n data-aos="fade-left">
         Stay up-to-date with the latest from our team. Including tips and
         tricks, important announcements, and product updates.
       </p>
     </div>
-    } @else {
-    <div class="intro">
-      <h1 data-aos="fade-right">أحدث وأفضل ما قدمته فريقنا</h1>
-      <p data-aos="fade-left">
-        تابع أحدث الأخبار من فريقنا. بما في ذلك النصائح والحيل، والإعلانات
-        الهامة، وتحديثات المنتجات.
-      </p>
-    </div>
-
-    }
 
     <div class="blogs pb-5">
+      <!-- search logic start -->
+      <div class="search-input-parent">
+        @if (locale === 'en-US') {
+        <input
+          type="text"
+          class="form-control search-input"
+          placeholder="Search for a blog"
+          [(ngModel)]="searchTerm"
+        />} @else {
+        <input
+          type="text"
+          class="form-control search-input text-end"
+          placeholder="ابحث عن مقالة"
+          [(ngModel)]="searchTerm"
+        />
+        }
+      </div>
+      <!-- results -->
+      @if (searchTerm) { @if (locale === 'en-US') {
+      <div class="search-wrapper mb-5">
+        <div class="results shadow">
+          @for (blog of blogs | blogSearch: searchTerm; track $index ) {
+          <a class="result" [routerLink]="blog._id">
+            <img [src]="blog.img" [alt]="blog.heading_en" />
+
+            <div class="result-details">
+              <h5 class="text-black">{{ blog.heading_en }}</h5>
+              <p class="text-black-50">{{ blog.subHeading_en }}</p>
+            </div>
+          </a>
+          }
+        </div>
+      </div>
+      } @else {
+      <div class="search-wrapper mb-5" dir="rtl">
+        <div class="results shadow">
+          @for (blog of blogs | blogSearch: searchTerm; track $index) {
+          <a class="result" [routerLink]="blog._id">
+            <img [src]="blog.img" [alt]="blog.heading_ar" />
+
+            <div class="result-details">
+              <h5 class="text-black">{{ blog.heading_ar }}</h5>
+              <p class="text-black-50">{{ blog.subHeading_ar }}</p>
+            </div>
+          </a>
+          }
+        </div>
+      </div>
+
+      } }
+      <!-- search logic end -->
       @if (locale === 'en-US') {
       <div class="row g-1">
         @for (blog of blogs; track $index) {
-        <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+        <div class="col-lg-4 col-sm-6">
           <a [routerLink]="[blog._id]" class="blog-card">
             <div class="blog-img">
               <img [src]="blog.img" alt="blog image" class="w-100" />
@@ -43,7 +83,7 @@
       } @else {
       <div class="row g-1">
         @for (blog of blogs; track $index) {
-        <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+        <div class="col-lg-4 col-sm-6">
           <a [routerLink]="[blog._id]" class="blog-card">
             <div class="blog-img">
               <img [src]="blog.img" alt="blog image" class="w-100" />

@@ -26,6 +26,7 @@ export class BlogComponent implements OnInit {
     @Inject(PLATFORM_ID) private platformId: Object
   ) {}
   blogs: BlogItem[] = [];
+  searchTerm: string = '';
 
   ngOnInit(): void {
     this.BlogsService.getBlogs().subscribe({

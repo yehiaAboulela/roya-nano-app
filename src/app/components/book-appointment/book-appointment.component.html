@@ -4,116 +4,98 @@
     <form [formGroup]="bookForm" (ngSubmit)="sendForm()">
       <div class="two-inputs">
         <div class="input-parent">
-          <label i18n for="fullName">Full Name</label>
+          <label for="fullName" i18n>Full Name</label>
           <input
-            i18n-placeholder
             type="text"
             name="fullName"
             id="fullName"
             placeholder="Enter your name"
+            i18n-placeholder
             formControlName="fullName"
           />
         </div>
         <div class="input-parent">
-          <label i18n for="phoneNumber">Phone Number</label>
+          <label for="phoneNumber" i18n>Phone Number</label>
           <input
-            i18n-placeholder
             type="text"
             name="phoneNumber"
             id="phoneNumber"
-            placeholder="Enter phone Number"
+            placeholder="Enter phone number"
+            i18n-placeholder
             formControlName="phoneNumber"
           />
         </div>
       </div>
+
       <div class="two-inputs">
         <div class="input-parent">
-          <label i18n for="carType">Car Type</label>
+          <label for="carType" i18n>Car Type</label>
           <input
-            i18n-placeholder
             type="text"
             name="carType"
             id="carType"
             placeholder="Enter car type"
+            i18n-placeholder
             formControlName="carType"
           />
         </div>
         <div class="input-parent">
-          <label i18n for="carModel">Car Model</label>
+          <label for="carModel" i18n>Car Model</label>
           <input
-            i18n-placeholder
             type="text"
             name="carModel"
             id="carModel"
             placeholder="Enter car model"
+            i18n-placeholder
             formControlName="carModel"
           />
         </div>
       </div>
+
       <div class="input-parent">
-        <label i18n for="service">Choose Service</label>
+        <label for="service" i18n>Choose Service</label>
         <select id="service" name="service" formControlName="service">
-          <option i18n value="nanoCeramic">Nano Ceramic</option>
-          <option i18n value="PPF">PPF</option>
-          <option i18n value="sunFilms">Sun Films</option>
+          <option value="nanoCeramic" i18n>Nano Ceramic</option>
+          <option value="PPF" i18n>PPF</option>
+          <option value="sunFilms" i18n>Sun Films</option>
         </select>
       </div>
+
       <div class="input-parent">
-        <label i18n for="branch">Choose Branch</label>
+        <label for="branch" i18n>Choose Branch</label>
         <select id="branch" name="branch" formControlName="branch">
-          <option i18n value="tanta">Tanta</option>
-          <option i18n value="october">October</option>
-          <option i18n value="madenetNasr">Madenet Nasr</option>
-          <option i18n value="zayed">Zayed</option>
-          <option i18n value="madenetNasr2">Madenet Nasr 2</option>
-          <option i18n value="mohandeseen">Mohandeseen</option>
-          <option i18n value="alexandria">Alexandria</option>
-          <option i18n value="sohag">Sohag</option>
-          <option i18n value="hurghada">Hurghada</option>
-          <option i18n value="mansoura">Mansoura</option>
-          <option i18n value="zagazig">Zagazig</option>
-          <option i18n value="ismailia">Ismailia</option>
-          <option i18n value="portSaid">Port Said</option>
-          <option i18n value="suez">Suez</option>
-          <option i18n value="minya">Minya</option>
-          <option i18n value="assiut">Assiut</option>
+          <option value="tanta" i18n>Tanta</option>
+          <option value="october" i18n>October</option>
+          <option value="madenetNasr" i18n>Madenet Nasr</option>
+          <option value="zayed" i18n>Zayed</option>
+          <option value="madenetNasr2" i18n>Madenet Nasr 2</option>
+          <option value="mohandeseen" i18n>Mohandeseen</option>
+          <option value="alexandria" i18n>Alexandria</option>
+          <option value="sohag" i18n>Sohag</option>
+          <option value="hurghada" i18n>Hurghada</option>
+          <option value="mansoura" i18n>Mansoura</option>
+          <option value="zagazig" i18n>Zagazig</option>
+          <option value="ismailia" i18n>Ismailia</option>
+          <option value="portSaid" i18n>Port Said</option>
+          <option value="suez" i18n>Suez</option>
+          <option value="minya" i18n>Minya</option>
+          <option value="assiut" i18n>Assiut</option>
         </select>
       </div>
+
       <div class="input-parent">
-        <label i18n for="notes">Additional Notes</label>
+        <label for="notes" i18n>Additional Notes</label>
         <textarea
-          i18n-placeholder
           name="notes"
           id="notes"
           rows="5"
           placeholder="Leave your message here"
+          i18n-placeholder
           formControlName="notes"
         ></textarea>
       </div>
 
-      <button type="submit" [disabled]="!bookForm.valid">Submit</button>
+      <button type="submit" [disabled]="!bookForm.valid" i18n>Submit</button>
     </form>
   </div>
 </section>
-
-<div class="modal" [ngClass]="{ active: modal }" id="appointmentModal">
-  <div class="card">
-    <div class="card-header">
-      <h2 i18n>Appointment Confirmation</h2>
-      <button class="close-button" (click)="closeModal()">&times;</button>
-    </div>
-    <div class="card-body">
-      <p i18n>Thank you for booking your appointment!</p>
-      <p i18n>
-        If you need to make any changes, please contact us at
-        <a href="mailto:support@example.com">support&#64;royalnanoceramic.com</a
-        >.
-      </p>
-    </div>
-    <div class="card-footer">
-      <button i18n class="confirm-button" (click)="closeModal()">
-        Confirm
-      </button>
-    </div>
-  </div>
-</div>

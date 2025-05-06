@@ -5,7 +5,7 @@ import {
   withEventReplay,
 } from '@angular/platform-browser';
 import { CarouselModule } from 'ngx-owl-carousel-o';
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { ToastrModule } from 'ngx-toastr';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -51,6 +51,7 @@ import { MainLayoutComponent } from './components/main-layout/main-layout.compon
 import { ThanksComponent } from './components/thanks/thanks.component';
 import { ConfirmationComponent } from './components/confirmation/confirmation.component';
 import { ThankYouComponent } from './components/thank-you/thank-you.component';
+import { BlogSearchPipe } from './shared/pipes/blog-search.pipe';
 
 @NgModule({
   declarations: [
@@ -93,6 +94,7 @@ import { ThankYouComponent } from './components/thank-you/thank-you.component';
     ThanksComponent,
     ConfirmationComponent,
     ThankYouComponent,
+    BlogSearchPipe,
   ],
   imports: [
     BrowserModule,
@@ -102,6 +104,7 @@ import { ThankYouComponent } from './components/thank-you/thank-you.component';
     NgOptimizedImage,
     ReactiveFormsModule,
     ToastrModule.forRoot(),
+    FormsModule,
   ],
   providers: [provideHttpClient(), provideClientHydration(withEventReplay())],
   bootstrap: [AppComponent],

@@ -9,7 +9,7 @@ import { LanguageService } from './shared/services/language.service';
   standalone: false,
 })
 export class AppComponent {
-  title = 'royal-nano';
+  title = 'Royal Nano Ceramic';
 
   ngOnInit(): void {
     AOS.init({

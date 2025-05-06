@@ -1,106 +1,143 @@
-<nav>
-  <a routerLink="/" class="logo">
-    <h3 class="fw-bold text-white mb-0">
-      <img
-        src="https://meek-mermaid-ea40cf.netlify.app/logo.png"
-        alt="royal nano"
-      />
-    </h3>
+<nav class="navbar" dir="ltr">
+  <!-- Logo -->
+  <a routerLink="/" class="navbar-logo">
+    <img
+      src="https://meek-mermaid-ea40cf.netlify.app/logo.png"
+      alt="Royal Nano"
+    />
   </a>
 
-  <div class="navigation-wrapper" [ngClass]="{ active: nav }">
-    <div class="d-block d-lg-none">
-      <button class="btn esc-btn" (click)="nav = false">
-        <i class="fa fa-xmark fs-3"></i>
+  <!-- Desktop Navigation -->
+  <ul class="navbar-links d-none d-lg-flex">
+    <li>
+      <a i18n routerLink="/home" routerLinkActive="active" (click)="closeMinu()"
+        >Home</a
+      >
+    </li>
+    <li>
+      <a
+        i18n
+        routerLink="/about"
+        routerLinkActive="active"
+        (click)="closeMinu()"
+        >About</a
+      >
+    </li>
+    <li>
+      <a
+        i18n
+        routerLink="/services"
+        routerLinkActive="active"
+        (click)="closeMinu()"
+        >Services</a
+      >
+    </li>
+    <li>
+      <a i18n routerLink="/blog" routerLinkActive="active" (click)="closeMinu()"
+        >Blog</a
+      >
+    </li>
+    <li>
+      <a
+        i18n
+        routerLink="/gallery"
+        routerLinkActive="active"
+        (click)="closeMinu()"
+        >Gallery</a
+      >
+    </li>
+    <li>
+      <a
+        i18n
+        routerLink="/contact"
+        routerLinkActive="active"
+        (click)="closeMinu()"
+        >Contact</a
+      >
+    </li>
+    <li>
+      <button class="lang-btn" (click)="changeLang()">
+        @if (locale == "en-US") {AR} @else if (locale === "ar"){EN}
+      </button>
+    </li>
+  </ul>
+
+  <!-- Hamburger Button -->
+  <button class="menu-toggle d-lg-none" (click)="nav = true">
+    <i class="fa fa-bars"></i>
+  </button>
+
+  <!-- Mobile Navigation -->
+  <div class="mobile-nav" [class.active]="nav">
+    <div class="mobile-nav-header">
+      <img
+        src="https://meek-mermaid-ea40cf.netlify.app/logo.png"
+        alt="Royal Nano"
+      />
+      <button class="close-btn" (click)="nav = false">
+        <i class="fa fa-xmark fs-2"></i>
       </button>
     </div>
-    <ul class="navigation list-unstyled">
+    <ul class="mobile-nav-links">
       <li>
         <a
           i18n
-          [routerLink]="['/home']"
+          routerLink="/home"
           routerLinkActive="active"
           (click)="closeMinu()"
-          class="nav-link active"
+          >Home</a
         >
-          Home
-        </a>
       </li>
       <li>
         <a
           i18n
-          [routerLink]="['/about']"
+          routerLink="/about"
           routerLinkActive="active"
           (click)="closeMinu()"
-          class="nav-link"
+          >About</a
         >
-          About
-        </a>
       </li>
       <li>
         <a
           i18n
-          [routerLink]="['/services']"
+          routerLink="/services"
           routerLinkActive="active"
           (click)="closeMinu()"
-          class="nav-link"
+          >Services</a
         >
-          Services
-        </a>
       </li>
       <li>
         <a
           i18n
-          [routerLink]="['/blog']"
+          routerLink="/blog"
           routerLinkActive="active"
           (click)="closeMinu()"
-          class="nav-link"
+          >Blog</a
         >
-          Blog
-        </a>
       </li>
       <li>
         <a
           i18n
-          [routerLink]="['/gallery']"
+          routerLink="/gallery"
           routerLinkActive="active"
           (click)="closeMinu()"
-          class="nav-link"
+          >Gallery</a
         >
-          Gallery
-        </a>
       </li>
-      <!-- <li class="my-dropdown">
-        <span 
-        (click)="closeMinu()"
-        class="nav-link"> Gallery </span>
-        <ul class="gallery-modal list-unstyled">
-          <li><a i18n [routerLink]="['/videos']">Videos</a></li>
-          <li><a i18n [routerLink]="['/gallery']">Images</a></li>
-        </ul>
-      </li> -->
       <li>
         <a
           i18n
-          [routerLink]="['/contact']"
+          routerLink="/contact"
           routerLinkActive="active"
           (click)="closeMinu()"
-          class="nav-link"
+          >Contact</a
         >
-          Contact
-        </a>
       </li>
       <li>
-        <button class="btn lang-btn" (click)="changeLang()">
+        <button class="lang-btn" (click)="changeLang()">
           @if (locale == "en-US") {AR} @else if (locale === "ar"){EN}
         </button>
       </li>
     </ul>
-  </div>
-
-  <div class="d-block d-lg-none">
-    <button class="toggle-btn" (click)="nav = true">
-      <i class="fa fa-bars"></i>
-    </button>
   </div>
 </nav>

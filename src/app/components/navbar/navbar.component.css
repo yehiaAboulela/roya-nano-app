@@ -1,108 +1,201 @@
-nav {
+/* === General Navbar Styles === */
+.navbar {
   position: absolute;
   top: 0;
-  left: 0;
   width: 100%;
-  z-index: 99;
-  background-image: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.73),
-    transparent
-  );
+  z-index: 9999;
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  padding: 0px 50px;
-  direction: ltr !important;
-}
-.logo img {
-  width: 60px;
-  padding: 10px 5px;
-}
-.navigation {
-  display: flex;
   align-items: center;
-  justify-content: center;
-  margin-bottom: 0;
+  padding: 12px 30px;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), transparent);
+  transition: background 0.3s ease;
 }
 
-.navigation .nav-link {
-  color: white;
+/* === Logo === */
+.navbar-logo img {
+  width: 58px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+.navbar-logo img:hover {
+  transform: scale(1.05);
+}
+
+/* === Desktop Links === */
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li a {
+  color: #ffffff;
   text-decoration: none;
-  display: inline-block;
-  padding: 25px;
-  position: relative;
-}
-.navigation .nav-link.active {
-  color: rgb(255, 217, 0);
-  scale: 1.1;
-}
-
-.toggle-btn {
-  color: white;
-  background-color: transparent;
-  border: none;
-  font-size: 25px;
-}
-.lang-btn {
-  color: white;
-  font-size: 1.3rem;
   font-weight: 500;
+  font-size: 16px;
+  padding: 6px 4px;
+  position: relative;
+  transition: color 0.3s ease;
 }
-.esc-btn {
-  margin-bottom: 20px;
-  transform: scale(1.3);
-}
-@media (max-width: 991.98px) {
-  .nav-wrapper {
-    padding: 0;
-  }
-  nav {
-    padding: 10px;
-    border-radius: 0;
-  }
-  .lang-btn {
-    color: black;
-  }
 
-  .navigation-wrapper {
-    position: fixed;
-    top: 0;
-    right: 0;
-    min-width: 350px;
-    height: 100vh;
-    background-color: rgb(231, 231, 231);
-    z-index: 9999999999;
-    padding: 30px;
-    transition: 0.3s;
-    transform: translateX(110%);
-    box-shadow: 0 -10px 30px rgba(71, 44, 44, 0.595);
+.navbar-links li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  height: 2px;
+  width: 0%;
+  background: gold;
+  transition: width 0.3s ease;
+}
+
+.navbar-links li a:hover::after,
+.navbar-links li a.active::after {
+  width: 100%;
+}
+
+.navbar-links li a:hover {
+  color: #f0f0f0;
+}
+
+.navbar-links li a.active {
+  color: gold;
+}
+
+/* === Language Button === */
+.lang-btn {
+  background: none;
+  border: 2px solid white;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.lang-btn:hover {
+  background: white;
+  color: black;
+}
+
+/* === Hamburger Icon === */
+.menu-toggle {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+/* === Mobile Nav Panel === */
+.mobile-nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 280px;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(6px);
+  padding: 20px;
+  transform: translateX(100%);
+  transition: transform 0.3s ease-in-out;
+  box-shadow: -4px 0 12px rgba(0, 0, 0, 0.15);
+  z-index: 99999;
+}
+
+.mobile-nav.active {
+  transform: translateX(0);
+}
+
+/* === Mobile Header === */
+.mobile-nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mobile-nav-header img {
+  width: 50px;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+/* === Mobile Links === */
+.mobile-nav-links {
+  margin-top: 30px;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.mobile-nav-links li a {
+  text-decoration: none;
+  color: #222;
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 3px;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.mobile-nav-links li a:hover {
+  color: #000;
+  border-color: #999;
+}
+
+.mobile-nav-links li a.active {
+  color: goldenrod;
+}
+
+/* Mobile Language Button */
+.mobile-nav-links .lang-btn {
+  background: none;
+  border: 2px solid black;
+  font-size: 15px;
+  font-weight: 500;
+  color: black;
+  margin-top: 15px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.mobile-nav-links .lang-btn:hover {
+  background: black;
+  color: white;
+}
+
+/* === Responsive Visibility === */
+.d-none {
+  display: none !important;
+}
+
+.d-lg-flex {
+  display: flex !important;
+}
+
+.d-lg-none {
+  display: none !important;
+}
+
+@media (max-width: 991px) {
+  .d-lg-flex {
+    display: none !important;
   }
-  .navigation-wrapper.active {
-    transform: translateX(0);
-  }
-  .navigation .nav-link.active::before {
-    content: none;
-  }
-  .navigation-wrapper .navigation {
-    display: block;
-  }
-  .navigation-wrapper .navigation .nav-link {
-    color: black !important;
-    padding: 12px 0 12px 20px;
-    margin-bottom: 5px;
-    transition: 0.3s;
+  .d-lg-none {
     display: block !important;
-    border-radius: 50px;
-    width: 100%;
-  }
-  .navigation-wrapper .navigation .nav-link.active,
-  .navigation-wrapper .navigation .nav-link:hover {
-    background-color: #bfbfbf82;
-    scale: 1;
-  }
-  .navigation {
-    flex-direction: column;
-    align-items: start;
   }
 }

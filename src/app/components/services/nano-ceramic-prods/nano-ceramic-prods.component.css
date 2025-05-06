@@ -24,3 +24,6 @@
 :host ::ng-deep .owl-theme .owl-nav [class*="owl-"]:hover {
   background-color: black;
 }
+section {
+  margin-top: 100px;
+}

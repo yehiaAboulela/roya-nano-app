@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Inject, LOCALE_ID, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { AppointmentService } from '../../shared/services/appointment.service';
 
@@ -11,7 +11,8 @@ import { AppointmentService } from '../../shared/services/appointment.service';
 export class BookAppointmentComponent {
   constructor(
     private fb: FormBuilder,
-    private AppointmentService: AppointmentService
+    private AppointmentService: AppointmentService,
+    @Inject(LOCALE_ID) public locale: string,
   ) {}
   modal: boolean = false;
   bookForm: FormGroup = this.fb.group({
