@@ -52,6 +52,8 @@ import { ThanksComponent } from './components/thanks/thanks.component';
 import { ConfirmationComponent } from './components/confirmation/confirmation.component';
 import { ThankYouComponent } from './components/thank-you/thank-you.component';
 import { BlogSearchPipe } from './shared/pipes/blog-search.pipe';
+import { SocialMediaComponent } from './social-media/social-media.component';
+import { AnimatedHeaderComponent } from './components/animated-header/animated-header.component';
 
 @NgModule({
   declarations: [
@@ -95,6 +97,8 @@ import { BlogSearchPipe } from './shared/pipes/blog-search.pipe';
     ConfirmationComponent,
     ThankYouComponent,
     BlogSearchPipe,
+    SocialMediaComponent,
+    AnimatedHeaderComponent,
   ],
   imports: [
     BrowserModule,

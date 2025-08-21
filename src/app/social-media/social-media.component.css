@@ -1,0 +1,96 @@
+.social-container {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  overflow: hidden;
+  position: relative;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.1));
+}
+
+/* Background shape styles */
+/* Background shape styles */
+.bg-shape {
+  position: absolute;
+  border-radius: 50%;
+  z-index: 0;
+  opacity: 0.08;
+  pointer-events: none;
+  animation: float 2s ease-in-out infinite alternate;
+}
+
+.shape-1 {
+  width: 350px;
+  height: 350px;
+  background-color: #007bff;
+  top: -120px;
+  left: -100px;
+  animation-duration: 7s;
+}
+
+.shape-2 {
+  width: 250px;
+  height: 250px;
+  background-color: #6f42c1;
+  bottom: -100px;
+  right: -80px;
+  opacity: 0.12;
+  animation-duration: 9s;
+}
+
+.shape-3 {
+  width: 180px;
+  height: 180px;
+  background-color: #20c997;
+  top: 60%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  opacity: 0.1;
+  animation-duration: 8s;
+}
+
+/* Animation for smooth floating (updated to alternate for better effect) */
+@keyframes float {
+  0% {
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    transform: translateY(-20px) scale(1.01);
+  }
+}
+
+.social-link {
+  transition: all 0.3s ease;
+  border-radius: 1rem;
+  font-weight: 500;
+}
+
+.social-link:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Make sure all content is above shapes */
+.z-1 {
+  position: relative;
+  z-index: 1;
+}
+
+/* Responsive tweaks */
+@media (max-width: 576px) {
+  .profile-img {
+    width: 90px;
+    height: 90px;
+  }
+
+  .social-link {
+    font-size: 0.9rem;
+    padding: 0.75rem 1rem;
+  }
+}

@@ -1664,7 +1664,7 @@
 </trans-unit>
 <trans-unit id="3781551189285234362" datatype="html">
   <source>Royal </source>
-  <target>رويال</target>
+  <target>رويال </target>
   <context-group purpose="location">
     <context context-type="sourcefile">src/app/components/home/header-alt/header-alt.component.html</context>
     <context context-type="linenumber">12,13</context>

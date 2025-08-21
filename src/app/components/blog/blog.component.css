@@ -144,22 +144,28 @@ section {
     font-size: 15px;
     padding: 10px 14px;
   }
+  .search-input-parent {
+    padding-inline: 0px;
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+  }
 }
 
 @media (max-width: 510px) {
-  .result {
-    flex-direction: column;
-    align-items: flex-start;
+  .result-details h5 {
+    font-size: 14px;
+    margin: 0;
+    color: #222;
+    font-weight: 600;
   }
 
+  .result-details p {
+    font-size: 12px;
+    margin: 4px 0 0 0;
+    color: #666;
+  }
   .result img {
-    width: 100%;
-    height: auto;
-    margin-bottom: 10px;
-  }
-
-  .result-details {
-    width: 100%;
-    text-align: start;
+    width: 95px;
+    height: 70px;
   }
 }

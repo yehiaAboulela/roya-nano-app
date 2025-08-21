@@ -1,71 +1,80 @@
 <nav class="navbar" dir="ltr">
   <!-- Logo -->
-  <a routerLink="/" class="navbar-logo">
-    <img
-      src="https://meek-mermaid-ea40cf.netlify.app/logo.png"
-      alt="Royal Nano"
-    />
-  </a>
+  <div class="d-flex align-items-center justify-content-between w-100">
+    <a routerLink="/" class="navbar-logo">
+      <img
+        src="https://meek-mermaid-ea40cf.netlify.app/logo.png"
+        alt="Royal Nano"
+      />
+    </a>
 
-  <!-- Desktop Navigation -->
-  <ul class="navbar-links d-none d-lg-flex">
-    <li>
-      <a i18n routerLink="/home" routerLinkActive="active" (click)="closeMinu()"
-        >Home</a
-      >
-    </li>
-    <li>
-      <a
-        i18n
-        routerLink="/about"
-        routerLinkActive="active"
-        (click)="closeMinu()"
-        >About</a
-      >
-    </li>
-    <li>
-      <a
-        i18n
-        routerLink="/services"
-        routerLinkActive="active"
-        (click)="closeMinu()"
-        >Services</a
-      >
-    </li>
-    <li>
-      <a i18n routerLink="/blog" routerLinkActive="active" (click)="closeMinu()"
-        >Blog</a
-      >
-    </li>
-    <li>
-      <a
-        i18n
-        routerLink="/gallery"
-        routerLinkActive="active"
-        (click)="closeMinu()"
-        >Gallery</a
-      >
-    </li>
-    <li>
-      <a
-        i18n
-        routerLink="/contact"
-        routerLinkActive="active"
-        (click)="closeMinu()"
-        >Contact</a
-      >
-    </li>
-    <li>
-      <button class="lang-btn" (click)="changeLang()">
-        @if (locale == "en-US") {AR} @else if (locale === "ar"){EN}
-      </button>
-    </li>
-  </ul>
+    <!-- Desktop Navigation -->
+    <ul class="navbar-links d-none d-lg-flex mx-auto">
+      <li>
+        <a
+          i18n
+          routerLink="/home"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          >Home</a
+        >
+      </li>
+      <li>
+        <a
+          i18n
+          routerLink="/about"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          >About</a
+        >
+      </li>
+      <li>
+        <a
+          i18n
+          routerLink="/services"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          >Services</a
+        >
+      </li>
+      <li>
+        <a
+          i18n
+          routerLink="/blog"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          >Blog</a
+        >
+      </li>
+      <li>
+        <a
+          i18n
+          routerLink="/gallery"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          >Gallery</a
+        >
+      </li>
+      <li>
+        <a
+          i18n
+          routerLink="/contact"
+          routerLinkActive="active"
+          (click)="closeMinu()"
+          >Contact</a
+        >
+      </li>
+    </ul>
 
-  <!-- Hamburger Button -->
-  <button class="menu-toggle d-lg-none" (click)="nav = true">
-    <i class="fa fa-bars"></i>
-  </button>
+    <button class="lang-btn d-none d-lg-flex" (click)="changeLang()">
+      @if (locale == "en-US") {AR} @else if (locale === "ar"){EN}
+    </button>
+
+    <!-- Hamburger Button -->
+    <button class="menu-toggle d-lg-none" (click)="nav = true">
+      <i class="fa fa-bars"></i>
+    </button>
+  </div>
 
   <!-- Mobile Navigation -->
   <div class="mobile-nav" [class.active]="nav">

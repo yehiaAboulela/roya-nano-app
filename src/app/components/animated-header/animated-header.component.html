@@ -1,0 +1,57 @@
+<header class="hero-header">
+  <owl-carousel-o [options]="customOptions">
+    <ng-template carouselSlide>
+      <img
+        class="bg-img"
+        src="https://images.pexels.com/photos/3972750/pexels-photo-3972750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt="bacground carousel image"
+      />
+    </ng-template>
+    <ng-template carouselSlide>
+      <img
+        class="bg-img"
+        src="https://images.pexels.com/photos/20757544/pexels-photo-20757544/free-photo-of-bmw-m4-on-road.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt="bacground carousel image"
+      />
+    </ng-template>
+    <ng-template carouselSlide>
+      <img
+        class="bg-img"
+        src="https://images.pexels.com/photos/132774/pexels-photo-132774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt="bacground carousel image"
+      />
+    </ng-template>
+    <ng-template carouselSlide>
+      <img
+        class="bg-img"
+        src="https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'"
+        alt="bacground carousel image"
+      />
+    </ng-template>
+  </owl-carousel-o>
+  <div class="overlay">
+    <div class="content">
+      @if (locale == "en-US") {
+      <h1 class="brand-title">
+        Royal <br class="d-block d-md-none" />
+        Nano Ceramic
+      </h1>
+      <p class="subtitle">The best car protection service in Egypt</p>
+      <a class="cta-button" routerLink="/book-appointment">
+        <i class="fas fa-car"></i>
+        Protect your car now
+      </a>
+      } @else {
+      <h1 class="brand-title">
+        رويال <br class="d-block d-md-none" />
+        نانو سيراميك
+      </h1>
+      <p class="subtitle">أفضل خدمة حماية سيارات في مصر</p>
+      <a class="cta-button" routerLink="/book-appointment">
+        <i class="fas fa-car"></i>
+        احمي سيارتك الآن
+      </a>
+      }
+    </div>
+  </div>
+</header>

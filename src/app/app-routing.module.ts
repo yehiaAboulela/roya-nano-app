@@ -16,6 +16,7 @@ import { ServicesComponent } from './components/services/services.component';
 import { ThanksComponent } from './components/thanks/thanks.component';
 import { ConfirmationComponent } from './components/confirmation/confirmation.component';
 import { ThankYouComponent } from './components/thank-you/thank-you.component';
+import { SocialMediaComponent } from './social-media/social-media.component';
 
 const routes: Routes = [
   {
@@ -43,6 +44,7 @@ const routes: Routes = [
       { path: 'thanks', component: ThanksComponent },
       { path: 'confirmation', component: ConfirmationComponent },
       { path: 'thank-you', component: ThankYouComponent },
+      { path: 'our-media', component: SocialMediaComponent },
     ],
   },
 ];
